@@ -5,7 +5,7 @@ title: "Learning Resources"
 
 
 ## Communication
-- Give and Receiving Effective Feedback [link to blog post]
+- Give and Receiving Effective Feedback [link to blog post] .
 
 ## Python
 - Introduction to Arcpy
