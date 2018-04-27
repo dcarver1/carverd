@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Introduction to Arcpy"
+categories: trainings
+permalink: "introToArcpy"
+---
+
+
 Daniel Carver
 2/13/2018
 

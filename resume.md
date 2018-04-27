@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Resume
+permalink: /resume/
+---
 # Daniel P Carver
 ___
 
