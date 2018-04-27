@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Resume
+title: "Resume"
 permalink: /resume/
 ---
+
+
 # Daniel P Carver
 ___
 

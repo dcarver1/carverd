@@ -14,46 +14,8 @@ Daniel Carver
 
 
 # Outline
-
 **Goal provide some tips and tools to make arcpy a viable extension of arcmap**
 
-1. python
-2. what is arcpy
-3. why is it useful
-4. interface for engaging with arcpy
-5. What it is good at
-
-  1. environmental variables
-
-    - examples
-
-  2. iterating
-
-    - examples
-
-  3. reproducibility
-
-    - examples
-
-6. What it is bad at
-
-  1. search cursor
-
-    - examples
-
-  2. very specific formatting
-
-    - examples
-
-  3. it will make easy things in arcmap hard, at first
-
-    - examples ( temp objects )
-
-7. Flowcharts activity
-
-  - have them plan out a geoprocessing process
-
-8. Online resources
 
 ## Python
 
