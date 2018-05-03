@@ -5,11 +5,7 @@ title: "Learning Resources"
 
 
 ## Communication
-- Give and Receiving Effective Feedback [link to blog post] .
+- [Give and Receiving Effective Feedback](/EffectiveFeedback) 
 
 ## Python
 - [Introduction to Arcpy](/introToArcpy)
-
-
-## R
-- Parameter Testing; Random Forest

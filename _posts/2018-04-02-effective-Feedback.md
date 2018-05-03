@@ -2,7 +2,7 @@
 layout: post
 title:  "Giving and Receiving Effective Feedback"
 categories: communication
-permalink: "Effective Feedback"
+permalink: "EffectiveFeedback"
 ---
 
 # Effective Feedback
