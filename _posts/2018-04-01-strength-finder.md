@@ -2,7 +2,6 @@
 layout: post
 title:  "Strength Finder"
 date:   2018-04-01 10:50:26 -0600
-categories: jekyll update
 ---
 # Character Typing, is it Important?
 No one really wants to be put in a box. It's easy to get defensive if someone were to classify you, real or not. So it makes bit a sence to me that using some form of character typeing such as a Myers Breggs test is not often meet with lots of enthusiam.
