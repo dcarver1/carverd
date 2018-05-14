@@ -1,9 +1,9 @@
 ---
 layout: post
-date:
-categories: "disc golf"
+title:  "Disc Golf Mapping"
+categories: Maps
+permalink: "discGolfMap"
 ---
-
 # Connecting the Dots
 My go to hobby these days is Disc Golf. It's similar in form to ball golf, complete the course in as few shots as possible, but the player throws specialized disc. There's a lot of other differences as well; accessibility, cost, and culture to name some of the big ones. I would say most people enjoy playing disc golf because it gets them outside and watching the disc fly is really quite a sight.
 When I moved to the Denver metro area, I suddenly had access to numerous disc golf courses and I found myself spending time trying to find out which one I would take the time to travel to. The natural step for me was to look at the course maps.
