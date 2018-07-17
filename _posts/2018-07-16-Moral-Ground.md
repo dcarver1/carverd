@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "On Going Summary of Moral Ground"
-date: 7/16/2018
-categories: books
 permalink: "MoralGround"
 ---
 
