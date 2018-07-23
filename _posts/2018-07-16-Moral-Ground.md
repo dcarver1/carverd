@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On Going Summary of Moral Ground"
+title:  "On Going Summary of Moral Ground"
 permalink: "MoralGround"
 ---
 
