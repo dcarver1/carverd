@@ -7,19 +7,19 @@ categories: perspective
 # Earth Science and Order of Operations
 
 **order and math**
-Earth Science is a very broad catergory of study that spends many degrees of mathamatically dependence.In geographic studies, there or geodisites who focus directly on mathamatical abstracts of the Earth in 2 demensional space right next to cartographers who used but often do not need to interperate complex logic. Most professionals fall somewhere in the middle.
+Earth Science is a very broad category of study that spends many degrees of mathematically dependence.In geographic studies, there or geodisites who focus directly on mathematical abstracts of the Earth in 2 dimensional space right next to cartographers who used but often do not need to interperate complex logic. Most professionals fall somewhere in the middle.
 
 AND
 
 **RS in GEE**
 
-In the world of Remote Sensing, clouds are often the limitaing factor due to their distinct able to reflect most electromagnetic radation. There are many tools to help deal with the effect of clouds and one that has been gain lots of popularity is the idea of a median reducer. This is a function that takes a stack of images and for each locations select the median reflectance value of a given cell. The idea is that clouds have a very high reflectance and shadows ( the other troublesome factor of imagery) has a low reflectance. Pick the middle value and you should avoid both clouds and shadows while maintaining a complete and relatively representative image.
+In the world of Remote Sensing, clouds are often the limiting factor due to their distinct able to reflect most electromagnetic radiation. There are many tools to help deal with the effect of clouds and one that has been gain lots of popularity is the idea of a median reducer. This is a function that takes a stack of images and for each locations select the median reflectance value of a given cell. The idea is that clouds have a very high reflectance and shadows ( the other troublesome factor of imagery) has a low reflectance. Pick the middle value and you should avoid both clouds and shadows while maintaining a complete and relatively representative image.
 
 But
 
-**what are the acutal effects**
+**what are the actual effects**
 
-So as Remote Sensing Scienctist we have a toold and were sometime guilty of applied that tool before we really understand it completely. This is an example that come up recent in my work. We were applying a median reducer to an image stack and calculating ndvi.
+So as Remote Sensing Scientists we have a tools and were sometime guilty of applied that tool before we really understand it completely. This is an example that come up recent in my work. We were applying a median reducer to an image stack and calculating NDVI.
 
 *Do the two paths lead to the same point*
 
@@ -33,15 +33,15 @@ So as Remote Sensing Scienctist we have a toold and were sometime guilty of appl
 - applied median Reducer
 - calculate NDVI
 
-This is juts a small devaition in the order of opperations but the it was not very clear what effect it will hove on the outcome. The conflicting hypothesis to test.
+This is juts a small deviation in the order of operations but the it was not very clear what effect it will hove on the outcome. The conflicting hypothesis to test.
 1. As long as the image stacks are the same a median reducer will not alter ndvi values
 
 2. The resulting values of ndiv will vary based on
 when the median reducer is applied.
 
-This may seem like a small thing but understand the importance of order of opperations is essential it generating reproducable workflows in the long term.
+This may seem like a small thing but understand the importance of order of operations is essential it generating reproducible work flows in the long term.
 
-THerefore
+Therefore
 
 **test it out**
 
