@@ -24,7 +24,7 @@ At this point, I think that personal motivation is really enough. It's enough be
 
 Here is a section of code that is commented out well a general understanding and application.
 
-```python
+```(python)
 # function that gathers the extent information from a raster
 def extents(fc):
     """
@@ -45,9 +45,63 @@ Here is where Markdown can help a but.
  - Here is the same code that is filled in a bit
 We want a reproducible segment of code that allows use to get information about the spatial extent of a raster that we read in.  
 
+```{python}
+# function that gathers the extent information from a raster
+def extents(fc):
+    """
+    This function takes in an arcpy object and returns the spatial extent features
+    """
+    extent = arcpy.Describe(fc).extent
+    west = extent.XMin
+    south = extent.YMin
+    east = extent.XMax
+    north = extent.YMax
+    width = extent.width
+    height = extent.height
+```
+Nothing significant changes here. The code is still present and commented as one hope it would be. What is really diffent if the frame of the process with plan text. This fits into step two of the feynman process, explain. Markdown makes it easy to add these bits of extra content that make your document more explainatory.
 
 2. providing links and example code that does not run
-3. pulling in imagery as examples
+ - example
 
+To answer our question we really only need to know the upper left corner of the raster feature. So we could use the full function that we've created or just pull a piece from it.
+
+This code will not be exacuted it will just show up in the document.
+```python
+# function that gathers the extent information from a raster
+def extents(fc):
+    """
+    This function takes in an arcpy object and returns the spatial extent features
+    """
+    extent = arcpy.Describe(fc).extent
+    west = extent.XMin
+    south = extent.YMin
+    east = extent.XMax
+    north = extent.YMax
+    width = extent.width
+    height = extent.height
+```
+So lets rework the function a bit to just pull the information we need.
+
+```python
+def extentsLite(fc):
+    """
+    This function takes in an arcpy object and returns the upper left corner
+    """
+    extent = arcpy.Describe(fc).extent
+    west = extent.XMin
+    north = extent.YMax
+    upperLeft = [west,north]
+    return(upperLeft)
+```
+By incorporating non exicuting aspects of the code you can help to understand the decission making behind your process. Markdown makes it easy to bring this information and decide if you want to show it our not. The deal it we all make changes and alterations to our scripts as were developing them. Those decisions add to out owen learning process and can help other understand our methods as well. For the most part we detail those from our code and slowly forget about them overtime. By incorporating sections on non exacutable code with plain text comments we can easily hold on to those extra bits and peices.
+
+3. pulling in imagery and links as examples
+Probably the most impacts component of writing in markdown is the ease at which you can incorperate imagery and external links. My farvorite example of this comes from thinking out my use of stack exchange. You search the site for an approach to your questions and often find one. Give that post a up vote and throw the link into your document. This is kinda like a reference in a academic paper. We grow fast by building off other and I think giving them credit instentaly provide other looking at your work a more complete picture of where this method came from.
+
+**include as link to the reference for the code chunk I was looking at.**
+**Through an annotated image in as well to get the idea across**
 
 I understand that markdown is not really going to work for everyone. Jupyter notebooks really seem to be the option that most people are going for. Pick your cup of tea. At the end of the day this is about getting more out of your work. If you can teach your content you understand it more completely. Increase your understanding and you will enjoy your work more and be better able to speak to your abilities. So while Feynman probably didn't spend much time writing in markdown, I think he would respect your effort to make more approachable.
+
+*I would saw this is almost done, Maybe it better to use an r code segment, maybe not right now the formating it off. Either way i think it's best to find a different code chuck to highlight 
