@@ -1,7 +1,8 @@
 ---
 layout: post
-date:
-categories: perspective
+title: "Median Reducer and Order of Operations"
+permalink: "MedianReducer"
+categories: trainings
 ---
 
 # Earth Science and Order of Operations
