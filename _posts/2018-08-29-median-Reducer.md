@@ -99,7 +99,8 @@ We end up with a reasonable looking image where dense urban areas and water are 
 This image shows the area around Omaha Nebraska. To the west of the river on the north is the airport on the south end is a protected deciduous forest.
 <br>
 <br>
-![Omaha NDVI 1]({{"/assests/omaha1.png"|absolute_url}})
+![Omaha NDVI 1]({{"/assests/omaha1.PNG"|absolute_url}})
+![Print Statement]({{"/assests/geePrint1.png"|absolute_url}})
 <br>
 <br>
 ### Method 2: reduce then normalized difference
@@ -117,7 +118,7 @@ Map.addLayer(ndvi2,{} ,"ndvi2")
 Just looking at the images it's a little difficult to tell exactly what is different. It does appear that some of the fields to the east of the river are a bit darker.
 <br>
 <br>
-![Omaha NDVI 2]({{"/assests/omaha2.png"|absolute_url}})
+![Omaha NDVI 2]({{"/assests/omaha2.PNG"|absolute_url}})
 <br>
 <br>
 To get a better feeling for where the differences are lets just take the difference between the images and display that on the map.
@@ -136,7 +137,7 @@ Map.addLayer(rangeRaster, rangeVis, "range")
 To see the differences we applied a stretch and lower the gamma. This highlights areas where the greatest difference is present. By the looks of it the differences are most prevalent in agricultural areas. Because this image is highly altered to show these difference it not really appropriate to use this as a quantitative measure of the difference. It does suggest that the order of operations is making a difference and just what that difference is should be accessed.
 <br>
 <br>
-![Omaha NDVI Difference]({{"/assests/omaha3.png"|absolute_url}})
+![Omaha NDVI Difference]({{"/assests/omaha3.PNG"|absolute_url}})
 <br>
 <br>
 I really wanted a summary statistics like function in GEE but I want not able to find one that really matched what I needed so I just wrote one up. It's a bit clunky but it'll do the trick. This function will tell use the min, max, mean, and standard deviation of an area. We can use this to better understand just how different these regions are.
@@ -185,7 +186,7 @@ The output is interesting.
 The min and max values are similar for both images, yet the mean and stddev vary slightly between the two images. The first method where the images were reduce first produce a tighter distribution with less variance.
 <br>
 <br>
-![Omaha NDVI Difference]({{"/assests/omahaSummary.png"|absolute_url}})
+![Omaha NDVI Difference]({{"/assests/omahaSummary.PNG"|absolute_url}})
 <br>
 <br>
 Again this is still a bit of a puzzler to me so the final step to take is to produce histograms of the NDVI value for both methods to see what the change in distribution is. This involves defining some visualization parameters and building the histogram.
@@ -228,7 +229,7 @@ print(histoNDVI2)
 This really tells the tale.
 <br>
 <br>
-![Omaha Histograms]({{"/assests/omahaHisto.png"|absolute_url}})
+![Omaha Histograms]({{"/assests/omahaHisto.PNG"|absolute_url}})
 <br>
 <br>
 The distributions of values is very different. The first method produced a more normal histogram relative to the second method.
