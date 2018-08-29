@@ -14,7 +14,11 @@ In the world of Remote Sensing, clouds are often the limiting factor due to thei
 
 
 I'll be the first to admit that I'm guilty of using tools before I really understand it completely. My experience with using median reducers is a perfect example. We knew we were making assumptions in applying the method and now I've gone back to test those assumptions to learn from them moving forward.
-
+<br>
+<br>
+![NDVI Color]({{"/assests/ndviColor.png"|absolute_url}})
+<br>
+<br>
 **Do the two paths lead to the same point**
 
 Like most end goals, there is more then one way to get to the desired outcome. We will examine two methods below where using to apply a median reducer to an image stack and calculating NDVI.
