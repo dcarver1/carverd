@@ -13,8 +13,6 @@ I've never have had much luck reading anthologies. While there is a theme throug
 This book was published in 2010. At that point the editors as well as the authors all perceived that human activities were altering the well being of the planet. Our individual and societal well being is inexplicitly tied to the well being of the planet. Therefore, action is needed and must be done for moral reasons to preserve what we are lucky enough to have.
 > This book is a call to that moral affirmation. It is a call to people to honor their moral responsibility to the future to strive to avert the worst consequences of the environmental emergencies and leave a world as rich in life and possibility as the world we line in.
 
-*Introduction: XVI*
-
 
 # I
 ## *Do we have a moral obligation to take action to protect the future of a planet in peril?*
@@ -54,4 +52,27 @@ This is very short piece that is built on top a very good preexisting quotes. I 
 ### Obligation to Posterity
 *Alan Weisman*
 A bit of an odd ball out in the series so far. Weisman states that arguing for action based on moral obligation is needed but not the best route to take. He references the idea of identifying selfish goals that all humans can identify with as a mechanism to ensure the future is maintained. This stings a little to hear. I know if we are missing one of our base level needs, we can not generally expect to make choices that don't involve getting that need fulfill. What the author brings up is that even when all those base needs are filled it is still very difficult to make choices that work against them. Like I said, it stings a bit but the reality of it does settle in when you look at the role of strict logic in the decision making process. People have a difficult time saying that's good enough when it come to material processions. Very few individuals would be willing to reduce their quality of living to support a greater good, even if that quality of living was something as simple as continuing to drive a car that has hail damage in lieu of buying a new one. So maybe there is a role for preaching how environmental quality is related to your own personal life quality. I would hope it's in conjunction with the other forms of logic that previous others have been speaking to. I see this as the pointed edge of a wedge that allows the moral arguments to fit into one identity.
-> Rather than trying to appeal to reason or higher values - things that most people either don't grasp or care about, or too often simply ignore- I suggest we appeal to greed and selfishnes. It simple takes to long to change enough people's minds and hearts to make them act out of obligation to a good greater than themselves. Not that it isn't worth trying. But if we put all our effort into raising the masses' consciousness redarding the eco-errors of their ways,  the planet will likely be destroyed long before we've swayed a majority.
+> Rather than trying to appeal to reason or higher values - things that most people either don't grasp or care about, or too often simply ignore- I suggest we appeal to greed and selfishness. It simple takes to long to change enough people's minds and hearts to make them act out of obligation to a good greater than themselves. Not that it isn't worth trying. But if we put all our effort into raising the masses' consciousness regarding the eco-errors of their ways,  the planet will likely be destroyed long before we've swayed a majority.
+
+# II
+## *Do we have a moral obligation to take action to protect the future of a planet in peril?*
+## **Yes, for the sake of the children.**
+
+### Keepers of Life
+*Oren Lyons*
+A short work describing the unique perspective of the Turtle Clan of the Onondaga Nation of the Haudenosaunee. This brings to light the at current culture we've developed around consumption of material goods is really just one way to do things. It also puts the responsibility of the future on our current choices. It good to see individuals and cultures owning up to there role in the current situation and realizing we can do better. 
+>It seems to me that we are living in a time of prophecy, a time of definitions and decisions. We are the generation with the responsibilities and the option to choose the Path of Life for the future of our children. Or the life and path that defies the Laws of Regeneration.
+
+### We Bear You in Mind
+*Scott Russell Sanders*
+Absolutely beautiful writing framed in such a way that it is not clear who the note is written to. It comes across as if you personally were receiving this message from someone in the past. The message is really about a simple place that the author cares about. It's still complex and full but it is not a grand space that would make it onto a post card. There is a sense of wonderment and worry about the future that let's you know this person cares deeply about it. I would read more of this author.  
+>Thoughts of you make me reflect soberly on how I lead my life. When I spend Money, when I turn the key in my car, when I vote or refrain from voting, when I fill my head or belly with whatever's for sale, when I teach students or write books, ripples from my actions spread into the future , and sooner or later they will reach you. So I bear you in mind. I try to imagine what sort of world you will inherit.
+
+### For the Children
+*Gary Snyder*
+A short poem.
+
+### Steering the Earth Toward Our Children's Future
+*John Paul II and Ecumenical Patriarch His Holiness Bartholomew I*
+When I read pieces such as this I makes me want to believe in the role of organized religion in swaying the moral compass of the populous. You get the impression that these leaders really care for the well being of people and all of Gods creation. I particularly like how idea of solidarity is central to the message. I would hope that solidarity could be formed around the well being of the planet first rather then the God. That might be a high sighted goal but it seems like the one to reach too. The religious writes do believe that well being is not inherently tied to material wealth and that is a powerful tenant for facing the challenges ahead.
+> We have been making decisions, taking actions, and assigning values that are leading us away from the world as it should be, away from a healthy planet and a healthy commonwealth of people. A new approach and a new culture are needed, based on the centrality of the human person within creation and inspired by environmentally ethical behavior stemming from our triple relationship to God, to self, and to creation. Such an ethic s fosters interdependence and stresses the principles of universal solidarity, social justice,and responsibility, in order to promote a true culture of life.

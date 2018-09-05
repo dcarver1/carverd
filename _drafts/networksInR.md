@@ -79,4 +79,75 @@ arrange(nodes, -degree)
 anyother example of the process
 **degree** number of connections to a node
 **strength** sum of weight of connections to a node
-**betweenness** number of times a node connects two different nodes
+**betweenness** number of shortest paths going through a tie
+
+```r
+# save the inverse of tie weights as dist_weight
+dist_weight <- 1 / E(g)$weight
+
+# compute weighted tie betweenness
+btw <- edge_betweenness(g, weights = dist_weight)
+
+# mutate the data frame ties adding a variable betweenness using btw
+ties <- ties %>% mutate(betweenness = btw)
+
+# add the tie attribute betweenness to the network
+E(g)$betweenness <- btw
+```
+
+This get complicated pretty quick. Multiple joins to get at a relationship. Joining based on the to and from catergoies .
+they build a new tbl with select and finally arrange the results based on betweenneess
+```r
+# join ties with nodes
+ties_joined <- ties %>%
+  left_join(nodes, c("from" = "id")) %>%
+  left_join(nodes, c("to" = "id"))
+
+# select only relevant variables and save to ties
+ties_selected <- ties_joined %>%
+  select(from, to, name_from = nam`e.x, name_to = name.y, betweenness)
+
+# arrange named ties in decreasing order of betweenness
+arrange(ties_selected, desc(betweenness))
+```
+
+displaying the connection is easy when you have all the informating save in the tbl
+```r
+# produce the same visualization but set node size proportional to strength
+ggraph(g, layout = "with_kk") +
+  geom_edge_link(aes(alpha = weight)) +
+  geom_node_point(aes(size = strength))
+```
+
+Cool functionality of ggraph. you can filter within the AES function
+```r
+# find median betweenness
+q = median(E(g)$betweenness)
+
+# filter ties with betweenness larger than the median
+ggraph(g, layout = "with_kk") +
+  geom_edge_link(aes(alpha = betweenness, filter = (betweenness > q))) +
+  geom_node_point() +
+  theme(legend.position="none")
+```
+
+weak ties are important to understand in networks we can use dplyr to filter by tie strength
+```r
+# find number and percentage of weak ties
+ties %>%
+  group_by(weight) %>%
+  summarise(number = n(), percentage = n() / nrow(ties)) %>%
+  arrange(-number)
+```
+Need to find out with this E() function does. Generates a graph maybe
+but can can define a new column got the dataframe
+```r
+# build vector weakness containing TRUE for weak ties
+weakness <- E(g)$weight == 1
+# check that weakness contains the correct number of weak ties
+sum(weakness)
+
+# visualize the network by coloring the weak and strong ties
+ggraph(g, layout = "with_kk") +
+  geom_edge_link(aes(color = weakness)) +
+  geom_node_point()
