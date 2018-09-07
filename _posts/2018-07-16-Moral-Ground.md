@@ -60,7 +60,7 @@ A bit of an odd ball out in the series so far. Weisman states that arguing for a
 
 ### Keepers of Life
 *Oren Lyons*
-A short work describing the unique perspective of the Turtle Clan of the Onondaga Nation of the Haudenosaunee. This brings to light the at current culture we've developed around consumption of material goods is really just one way to do things. It also puts the responsibility of the future on our current choices. It good to see individuals and cultures owning up to there role in the current situation and realizing we can do better. 
+A short work describing the unique perspective of the Turtle Clan of the Onondaga Nation of the Haudenosaunee. This brings to light the at current culture we've developed around consumption of material goods is really just one way to do things. It also puts the responsibility of the future on our current choices. It good to see individuals and cultures owning up to there role in the current situation and realizing we can do better.
 >It seems to me that we are living in a time of prophecy, a time of definitions and decisions. We are the generation with the responsibilities and the option to choose the Path of Life for the future of our children. Or the life and path that defies the Laws of Regeneration.
 
 ### We Bear You in Mind
@@ -75,4 +75,27 @@ A short poem.
 ### Steering the Earth Toward Our Children's Future
 *John Paul II and Ecumenical Patriarch His Holiness Bartholomew I*
 When I read pieces such as this I makes me want to believe in the role of organized religion in swaying the moral compass of the populous. You get the impression that these leaders really care for the well being of people and all of Gods creation. I particularly like how idea of solidarity is central to the message. I would hope that solidarity could be formed around the well being of the planet first rather then the God. That might be a high sighted goal but it seems like the one to reach too. The religious writes do believe that well being is not inherently tied to material wealth and that is a powerful tenant for facing the challenges ahead.
-> We have been making decisions, taking actions, and assigning values that are leading us away from the world as it should be, away from a healthy planet and a healthy commonwealth of people. A new approach and a new culture are needed, based on the centrality of the human person within creation and inspired by environmentally ethical behavior stemming from our triple relationship to God, to self, and to creation. Such an ethic s fosters interdependence and stresses the principles of universal solidarity, social justice,and responsibility, in order to promote a true culture of life.
+> We have been making decisions, taking actions, and assigning values that are leading us away from the world as it should be, away from a healthy planet and a healthy commonwealth of people. A new approach and a new culture are needed, based on the centrality of the human person within creation and inspired by environmentally ethical behavior stemming from our triple relationship to God, to self, and to creation. Such an ethic s fosters interdependence and stresses the principles of universal solidarity, social justice,and responsibility, in order to promote a true culture of life.''
+
+### A Letter to My Boys
+*Hylton Murray-Philipson*
+This was a good mix of heartfelt experience, economic realities, and scientific facts. A full and well round argument abotu how we need to make a choice and we should make the choice that protects the future. Easy to stand behind and personally engaging.
+> The economic model off which the world is working came from an Age of Innocence and is not fit for our purpose in the twenty-first century - the Age of Consequences. The rules for 1 billion people cannot be the same for 6 billion, going on 9 billion by 2050. this is a defining moment, full of danger but also full of hope. "Business as usual" would end in tears, but if we can dare to think differently your lives can be more wonderful then any that have gone before.
+
+### You Choose
+*Derrick Jensen*
+I wanted to quote this entire chapter. It is full of fire and furry and makes everything else in this book seem passive and soft. The author argues that the whole system of capitalism needs to change in order to get out of the hole we've been digging ourselves. It a good example of not being able to see outside of your own experiences. Sweeping the floor when the tornado is coming to the house. As much as a loved I don't think I can full bight on it. maybe that makes me weak but a toppling of a system as large as modern capitalism would result is some serious devastation. As much as I worry about dangers of not supporting the Earth I fear the actions of humans far more. At the same time I do believe that this essay gets closer to the root of the problem then any other. We're embedded in a culture that is inherently altering the Earth. If we try to work from only within that culture we will still be inherently altering the Earth. I guess my line falls that some around the idea that we will always be altering the Earth because we will always be a part of it.
+> We as environmentalists do the same. We work as hard as we can to protect the places we love, using the tools of the system the best we can. Yet we do not do the most important thing of all: we do not question the existence of this current death culture. We do not question the existence of this economic and social system that is working the world to death, that is starving it to death, that is imprisoning it, that is torturing it. We never question a culture that leads to the atrocities. We never question the logic that leads inevitably to clear-cuts, murdered oceans, loss of topsoil, damned rivers, poisoned aquifers, global warming. And we Certainly don't act to bring it down.   
+
+# II
+## *Do we have a moral obligation to take action to protect the future of a planet in peril?*
+## **Yes, for the sake of the Earth itself.**
+
+### Sky
+*Brian Turner*
+Short poem
+
+### A hinge Point of History
+*Holmes Rolston III*
+I've been interested in the Anthropocene for a while and the opening paragraph, which is quoted below, has provide In my opinion the best interpretation of the meaning of this change. Culture is more powerful then Nature. While we have evidence to support this change the focus of this essay is that we need to learn to understand the limits and consequences of such power. The culture that we develop within is going to change how we evolve as a society. We've crossed a threshold of biological evolution and now need to understand the effects and changes of cultural evolution as well. The end message is that while culture is defining us and now the planet wisdom can still come from the earth and all that is upon it. 
+> We live at a change in epochs. We are witness to the end of nature as we enter a new era: the Anthropocene. From this point on, culture more then nature is the principal determinant of Earth's future. We are passing into a century when this will be increasingly obvious, and this fact puts us indeed at a hinge point of history.
