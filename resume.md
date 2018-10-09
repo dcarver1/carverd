@@ -30,11 +30,31 @@ GPA: 3.70/4
 
 ## **Professional Experience**
 
+### USDA Agricultural Research Service
+
+Fort Collins, Colorado
+
+June 2018 to Present
+
+**Spatial Scientist**
+
+> I collaborate with researchers and curators at the National Laboratory for Genetic Resource Preservation to develop geospatial models that add to the understanding of the distribution, collection, and use of the Crop Wild Relatives.
+
+*Research: 50% of duties*
+- evaluate and access existing species distribution and gap analysis modeling methods
+- collaborate with various stakeholders regarding the use of CWR and the data generated around CWR
+- contribute to technical reports and publications regarding
+
+*Product Development: 50% of duties*
+- generate reports, maps, and analysis that convey the result of research products
+- develop programs in R to conduct geospatial models
+
+
 ### NASA DEVELOP
 
 Fort Collins, Colorado
 
-June 2017 to Present
+June 2017 to September 2018
 
 **Geoinformatics Fellow & Assistant Center Lead**
 

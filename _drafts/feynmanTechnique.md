@@ -66,7 +66,7 @@ Nothing significant changes here. The code is still present and commented as one
 
 To answer our question we really only need to know the upper left corner of the raster feature. So we could use the full function that we've created or just pull a piece from it.
 
-This code will not be exacuted it will just show up in the document.
+This code will not be executed it will just show up in the document.
 ```python
 # function that gathers the extent information from a raster
 def extents(fc):
@@ -104,4 +104,4 @@ Probably the most impacts component of writing in markdown is the ease at which 
 
 I understand that markdown is not really going to work for everyone. Jupyter notebooks really seem to be the option that most people are going for. Pick your cup of tea. At the end of the day this is about getting more out of your work. If you can teach your content you understand it more completely. Increase your understanding and you will enjoy your work more and be better able to speak to your abilities. So while Feynman probably didn't spend much time writing in markdown, I think he would respect your effort to make more approachable.
 
-*I would saw this is almost done, Maybe it better to use an r code segment, maybe not right now the formating it off. Either way i think it's best to find a different code chuck to highlight 
+*I would saw this is almost done, Maybe it better to use an r code segment, maybe not right now the formating it off. Either way i think it's best to find a different code chuck to highlight
