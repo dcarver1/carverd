@@ -33,7 +33,7 @@ If you would like to see all the series please check them out at the [NASA DEVEL
 
 ### Leah's AMES CA
 
-![AMES Poster]({{"/assests/amesNodeFinal.png"|absolute_url}})
+![AMES Poster]({{"/assests/amersNodeFinal.png"|absolute_url}})
 
 
 ### Nick's Langley VA
