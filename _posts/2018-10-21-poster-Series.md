@@ -1,6 +1,6 @@
 ---
 layout: post
-date:
+title: "DEVELOP Posters"
 categories: perspective
 permalink: 11x17
 ---
