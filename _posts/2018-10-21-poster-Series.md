@@ -33,9 +33,9 @@ If you would like to see all the series please check them out at the [NASA DEVEL
 
 ### Leah's AMES CA
 
-![finalAMESNodo]({{"/assests/amesNodeFinal.png"|absolute_url}})
+![AMES Poster]({{"/assests/amesNodeFinal.png"|absolute_url}})
 
 
 ### Nick's Langley VA
 
-![finalLangleyNodo]({{"/assests/larcNodeFinal.png"|absolute_url}})
+![LARC Poster]({{"/assests/larcNodeFinal.png"|absolute_url}})
