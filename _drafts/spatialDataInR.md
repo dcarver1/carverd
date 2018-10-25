@@ -505,3 +505,141 @@ tm_shape(nyc_tracts_merge) +
 # Save map as "nyc_income_map.png"
 save_tmap(filename="nyc_income_map.png", width=4,height=7)
 ```
+
+# vector and raster spatial data in R
+
+st_write and rsater_right both allow to write out data
+
+reading in vector data is very stright foward with the sf packages
+```r
+# Load the sf package
+library("sf")
+
+# Read in the trees shapefile
+trees <- st_read("trees.shp")
+```
+raster package is used for loading in raster data
+**raster()**: brings in single images
+**brick()**: brings in stacked images
+
+ ```r
+ # Load the raster package
+library("raster")
+
+# Read in the tree canopy single-band raster
+canopy <- raster("canopy.tif")
+
+# Read in the manhattan Landsat image multi-band raster
+manhattan <- brick("manhattan.tif")
+
+# Get the class for the new objects
+class(canopy)
+class(manhattan)
+
+# Identify how many layers each object has
+nlayers(canopy)
+nlayers(manhattan)
+```
+sf objects are stored as dataframes
+geometrys are stored as list column
+list columns allow for the storage of multiple varables within is list in one positon on the DataFrame
+
+once you read in a st object you can allow dpylr manipulations to it
+```r
+# Load the dplyr and sf packages
+library("dplyr")
+library("sf")
+
+# Read in the trees shapefile
+trees <- st_read("trees.shp")
+
+# Use filter() to limit to honey locust trees
+honeylocust <- trees %>% filter(species == "honeylocust")
+```
+
+There are a lot of tools for getting data out of sf objects. The important thing to remember in that the values taken from the data will have units based on the projection. the unclass function helps to make comparisons
+```r
+# Read in the parks shapefile
+parks <- st_read("parks.shp")
+
+# Compute the areas of the parks
+areas <- st_area(parks)
+
+# Create a quick histogram of the areas using hist
+hist(areas, xlim = c(0, 200000), breaks = 1000)
+
+# Filter to parks greater than 30000 (square meters)
+big_parks <- parks %>% filter(unclass(areas) > 30000)
+
+# Plot just the geometry of big_parks
+plot(st_geometry(big_parks))
+```
+
+the plot function is the basic method for viewing data. because of the complexity of spatial objects using thing often result in more data then what is really wanted.
+Below are methods for reducing what is shown
+
+```r
+# Plot the parks object using all defaults
+plot(parks)
+
+# Plot just the acres attribute of the parks data
+plot(parks['acres'])
+
+# Create a new object of just the parks geometry
+parks_geo <- st_geometry(parks)
+
+# Plot the geometry of the parks data
+plot(parks_geo)
+```
+the raster package does not read in all the components of the data
+**file.size** defines the size of the raster layer
+**object.size** defines the memory used by the raster layer
+**inMemory** will define if the raster in memory and will return TRUE FALSE
+**getValues()** returns all values in a vector for single band or a matrix for multiple band rasters
+
+useful functions for defining aspects of the raster
+```r
+# Load the raster package
+library("raster")
+
+# Read in the rasters
+canopy <- raster("canopy.tif")
+manhattan <- brick("manhattan.tif")
+
+# Get the extent of the canopy object
+extent(canopy)
+
+# Get the CRS of the manhattan object
+crs(manhattan)
+
+# Determine the number of grid cells in both raster objects
+ncell(manhattan)
+
+# Check if the data is in memory
+inMemory(canopy)
+
+# Use head() to peak at the first few records
+head(canopy)
+
+# Use getValues() to read the values into a vector
+vals <- getValues(canopy)
+
+# Use hist() to create a histogram of the values
+hist(vals)
+
+```
+The vals to hist is pretty nice. Quick look at the distribution
+
+Plot works well for simple displays of data, particularly single images
+There is a built in RGB function for the displying a true color. Not sure how it is identifying those
+
+```r
+# Plot the canopy raster (single raster)
+plot(canopy)
+
+# Plot the manhattan raster (as a single image for each layer)
+plot(manhattan)
+
+# Plot the manhattan raster as an image
+plotRGB(manhattan)
+```
