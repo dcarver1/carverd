@@ -87,7 +87,7 @@ This was a good mix of heartfelt experience, economic realities, and scientific 
 I wanted to quote this entire chapter. It is full of fire and furry and makes everything else in this book seem passive and soft. The author argues that the whole system of capitalism needs to change in order to get out of the hole we've been digging ourselves. It a good example of not being able to see outside of your own experiences. Sweeping the floor when the tornado is coming to the house. As much as a loved I don't think I can full bight on it. maybe that makes me weak but a toppling of a system as large as modern capitalism would result is some serious devastation. As much as I worry about dangers of not supporting the Earth I fear the actions of humans far more. At the same time I do believe that this essay gets closer to the root of the problem then any other. We're embedded in a culture that is inherently altering the Earth. If we try to work from only within that culture we will still be inherently altering the Earth. I guess my line falls that some around the idea that we will always be altering the Earth because we will always be a part of it.
 > We as environmentalists do the same. We work as hard as we can to protect the places we love, using the tools of the system the best we can. Yet we do not do the most important thing of all: we do not question the existence of this current death culture. We do not question the existence of this economic and social system that is working the world to death, that is starving it to death, that is imprisoning it, that is torturing it. We never question a culture that leads to the atrocities. We never question the logic that leads inevitably to clear-cuts, murdered oceans, loss of topsoil, damned rivers, poisoned aquifers, global warming. And we Certainly don't act to bring it down.   
 
-# II
+# III
 ## *Do we have a moral obligation to take action to protect the future of a planet in peril?*
 ## **Yes, for the sake of the Earth itself.**
 
@@ -105,3 +105,63 @@ I've been interested in the Anthropocene for a while and the opening paragraph, 
 *F. Stuart Chapin III*
 The worked captured the idea of the growth and development of the place in science overtime. The author starts by stating that his initial work in ecology allowed intellectual growth and the ability to share his work and ideas with other who were conducting similar work. Yet today that is not a luxury that a scientist has. The work is move important then ever because we need to be convinced and understand what can be done. It also appreciated the highlighting of the effect of climate change on the northern regions. It's much more dramatics and it will be effecting the cultural livelihood of the people from it. Overall just a good piece by a professional researcher reaching out.
 >Society is well poised to take actions that can substantially reduce the pressures that are currently accelerating the rate of planetary change. The science and technology required to reduce rates of climate change are readily available and maturing rapidly. The missing pieces are the dialogues necessary to connect the increasingly obvious planetary changes with the deepest motivations of every person as a steward of planet Earth. Only if we deeply and personally understand our role in this rapidly changing planet will we make the choices that best preserve our grandchildren the option to experience personally the human connection to nature that have been and will continue to be the cultural wellspring of humanity.
+
+### The Bells of Mindfulness
+*Thich Nhat Hanh*
+Very much humanist writer. The message in part is that we don't need the things we are told to want. I'm greatly simplifying it but it a message we likely don't hear enough to believe in. In contrast to things community, sense of place, and awareness are all features that more effective promote well being.
+
+> We need a kind of collective awakening. There are among us men and women who are awakened, but it's not enough; most people are still sleeping. We have constructed a system we can't control. It imposes itself on us, and we become its slaves and victims.
+
+### Restoration and Redemption
+*Robin Morris Collin*
+Written as a letter to his children this is a very descriptive and emotional piece about what hte connection to the landscape really means. How it is were connected to the Earth. How those aspects that do connect us are thinning and replaced by modern technology based tools and features.
+
+> The nature we have in common defines us, keeps us healthy and sane. The connection we form with the cycles of nature keeps us rich in spirit and growing.
+
+Quote from Chief Seattle speech, version 3
+> Whatever befalls the Earth befalls the sons of the Earth. Man did not weave the web of life; he is merely a strand in it. Whatever he does to the web he does to himself.
+
+### A Copernican Revolution in Ethics
+*Kate Rawles*
+
+An impassionate plea to the need of awareness of the effects of our actions. It blends numerical presentation of data with personal experience to give a full feeling of the stakes. Ends on a positive note of climate change being the process that bring forth a change in human culture and values.
+
+> Climate change offers us the opportunity to make radical, positive change. It is a chance to make human life, now and in the future, better and fairer in ways that are compatible with ecological community.
+
+# IV   
+## *Do we have a moral obligation to take action to protect the future of a planet in peril?*
+## **Yes, for the sake of all forms of life on the planet.**
+
+### Wild Things for Their Own Sakes
+*Dave Foreman*
+
+This essay makes for a pitch for the necessity of wildness in our lives. It argues that wild things are self willed not controlled and play a signification role in our own identities. It takes the message of do we have a morel obligation to how can we say we can make these choices.
+
+> Our asking should instead begin in the bedrock that we of course have an obligation to wild things of all species, today and tomorrow, to honor their intrinsic value and thus to act only in ways that keep whole the beauty, integrity and stability of Earth.
+
+Aldo Leopold : Land Ethic
+> A thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community. It is wrong when it tends otherwise.
+
+### Spray Glue Goes. Maggots Stay
+*Carly Lettero*
+This essay really hit home for me. It's about death and trash. The death of a loved one is something that nearly everyone experiences at some point. What we think of the passing is personal and near. The author shares her opinion and one of the many things that do come up is, why is there so much trash being generate to clean my grandfather. It states that traditions are passed from generation to generation and we need to take the time to pass new traditions of land use. To do that we need to live them. 
+
+> If I am to leave future generations a world that is better than the one I am inheriting, I am going to have to change almost everything, from the way I live to the way I die. It is not a matter of simply handing down a policy or new technology. To leave things better for the future, I need to hand down traditions, like polka dancing and garage sale hunting and knowing what to do in the moment of death. Traditions take time and repetition and witness and careful attention to details. It is not easy.
+
+### Ornithophilia
+*Shepard Krech III*
+
+need to read, come back to this one
+
+
+### Heirloom Chile Peppers and Climate Change
+*Gary Paul Nabhan*
+I appreciated this essay because it took the momentous challenge of climate change and framed it in a small but real frame that effect some people. It's directedness will answer the questions of "how does this effect me" for some. This leaks around the idea of action for moral good but it is still needed action. In this case it's about chile peppers. Yet the bigger picture idea is place based cultures. The environment will change the place and cultures need to change as well.
+
+> It is the endangerment of such relationships between nature, culture, plants, and the stories and songs which celebrate them that is making me mourn my way across the delta.
+
+### Imagining Darwin's Ethics
+*David Quanmmen*
+The author views biodiversity loss as the most important issue the Earth is facing. As a result he looks back to the scientific and philosophically revolutionary work of Charles Darwin. Darwin never directly started his moral or ethical grounds but the author attempt to make the extension. The end result is not to surprising that Darwin would care about the future.
+
+> We can call this one the Holocene extinction (as some experts have proposed), since that's our present geological epoch. And we shouldn't forget that, unlike all others, the Holocene extinction is attributable not to asteroid impact or catastrophic volcanism or some other form of external accident, but to the actions of single earthly species: us. Those actions and their direct effects fall under six major headings: habitat destruction, habitat fragmentation, overharvest (especially on islands and in the oceans), transfer of invasive species from one ecosystem to another, cascades of extinction that tumble through ecosystems, and finally, climate change, yes, because it exacerbates the effects of habitat loss, habitat fragmentation, and invasive species.
