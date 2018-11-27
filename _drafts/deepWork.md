@@ -6,7 +6,7 @@ categories: perspective
 
 # Review of Deep Work by Cal Newport
 
-This book is about the promotion of productivity by the focus of attention on single tasks for long periods of time. It pulls examples mostly from the business and academic world where professional success has some well define metrics. What is attractive to me about the work is that the ideas allign well with the more spiritual self help books I've been reading. Focus, attention, and direction line up in your experience of the world or within this books arguments the professional ambitions
+This book is about the promotion of productivity by the focus of attention on single tasks for long periods of time. It pulls examples mostly from the business and academic world where professional success has some well define metrics. What is attractive to me about the work is that the ideas align well with the more spiritual self help books I've been reading. Focus, attention, and direction line up in your experience of the world or within this books arguments the professional ambitions
 
 ### Introduction
 
@@ -151,4 +151,117 @@ I'm going to try this, here are my initial steps that I will take. These may cha
 3. Optional: Add to daily page to break the work mindset.
 4. Say "Shuting down" and turn off the pc
 
-We'll see how it goes. 
+We'll see how it goes.
+
+### Embrace Boredom
+Much like any other skill set the ability to sustain focus is something that falls into the use it or lose it category. The danger of this is currenly many people are in state of needing constent stimuli. Standing in like at the grocery store, we pull out our phone to push things around rather then just stand. Deep work require directed focus on potential features of low stimuli. As we pratice the act of being ok with low stimuli environments we are supporting our ability to stay focused within them.
+Some very strong conclusions about the effect of a constantly stimulating environment from the work from Clifford Nass is cited. The short of it is that those who live in a state of constant distraction are re working the ability of their brain to stay focused. Kinda a scary thought.
+
+**Don't Take Breaks from Distraction Instead Take Breaks from Focus.**
+ Most people use distractions as a reward. Once I get this done I'll watch that video I was told about. In that sense you are schedule, though many not on a calendar, your focus time to make time for the distraction. In many way seems out of wack with where would be place our personal priorities. Yet it will take a very active effort to flip this.
+Ideas such as internet sabbath( a day a week without internet) are methods to star but it's probably impossible to form a strong habit only praticing one day out of seven. The authors suggestion is that you start scheduling internet time. Set asided period where you will not use the internet. If you require internet often, best to make shorty blocks. This is a training of sorts to resist the temptation of distraction.
+The author provide three specific pointers.
+
+1. *This strategy works even if your job requires lots of Internet use and/or promt e-mial replies.*
+Just schedule the internet free periods in shorter segments. If you can get your replies out quick in 10 minutes, schedule 20 minute non internet time still means your not distracted for two thirds of the day.
+
+2. *Regradless of how you schedule your internet blocks, you must keep the time outside these blocks absolutely free from Internet use.*
+No cheating. The point of all this is not sure much that internet is a bad tool but developing the resolve to live with it because it is distracting. If you comment to no internet stand by it.
+
+3. *Scheduling Internet use at home as well as at work can further improve your concentration training.*
+I think this gets back to the idea that a habit is best formed by practicing it every day. The book hints to the effect of deep work in your everyday life. This is a natural extension.  
+
+
+**Work Like Teddy Roosevelt**
+I think this is the ultimate goal in the long run. Be able to focus intensely on the things that need to get done so you can spend time enjoying other pursuits. Roosevelt was a big time schedule person and certainly a follow of the focus on the critically important rule. The author suggest practicing intensity by pushing yourself to complete a given task in a short amount of time then is generally needed. This seems a little much at the moment but might have a place.
+
+**Meditate Productively**
+Finally a section in a book about meditation that does not make me feel like I will forever be unsuccessful at it. The goal is the same, focus on a single feature. Let other thoughts come up but don't let them take over. In this book the idea of productive meditation is finding an opportunity to incorporate movement or travel on foot to provide space and time to just simple think about a problem.
+To me the movement helps stay focused. The author did provide two suggestions for helping stay on tract in the meditative sessions.
+1. *Be Wary of Distractions and Looping*
+- nothing new from the distraction idea but looping was interesting. You mind will want to stray away from cognitively challenging task. One mechanism it employs to do so is to loop back over simple information that has already been determine. Much like the distractions, it's all about recognizing your in it and trying to push it way from your attention.
+
+2. *Structure your Deep Thinking*
+It helps to coming to one of these meditative session with a plan. This is the idea I have a how do I make a story out of it. This structure helps keep your mind centered and makes it easier to move away from distractions and looping.
+
+**Memorize a Deck of Cards**
+For me this was one of the weakest sections of the book so far. Basically memorization is an applied focus activity. Practicing memorization of random occurrences helps you practice focus. The deck of cards is just an example but basically it's a call to use memorization as a focus training tool.
+
+### Quit Social Media
+This is a rather strong arguement against network tools such as facebook/linked in and other online features that tie you to a specific community (reddit, business insider). Similiar to many other of the mesages within the book, the idea is that these resourse produce shallow relationships which don't add up to alot. The logic is structured around two primary elements.
+
+> **the Any-Benefit Approach to Network Tool Selection:** You're justified in using a network tool if you can identify any possible benefit to its use, or anything you might possibly miss out on if you don't use it.
+page 186
+
+> **The Craftsman Approach to Tool Selection:** Identify the core factors that determine success and happiness in your profession and personal life. Adopt a tool only if its positive impacts on these factors substantially outweigh its negative impacts.
+page 191
+
+What this really seems to come down to is being intentional in your decision making about using a tool. This is difficult because it is easy to feel the pressure to engage in something when you hear the success story. The fear of missing out is a real thing that most people are strongly motivated by. Because of this we are far more likely to not take the time to access if this feature is really adding value you life or not. The authors claim is that we really take the time to answer that questions before deciding to engage with a network tool.
+
+ **Apply the Law of the Vital Few to Your Internet Habits**
+ Sticking with the theme of intentionality it is also important to know that generally speaking about 20% of the things we do contribute to 80% of outcome. This is taken directly from network analysis so learning to much on the specific numbers is not the main point. They will likely fall about in non network based systems. Regradless, the idea is that you do a few very very important things. Those should be the things that drive your decisions. Here is the advice.
+
+ Define your professional Goal and the key activities that support that goal
+ *Professional Goal:* Actively collaborate with domain professionals to apply geospatial analysis to their areas of interest.
+ *Key Activities Support This Goal:*
+ - maintain highly understanding of the application and interpretation of spatial data
+ - Be able to convince others outside your area that your work is important to them
+
+You can do this for your personal life goals as well.
+At the end you have to ask yourself do these networking tools support the key activities that define my personal goals. If the answer is not a a sounding yes, then don't do it. This seems tough but if the goals and key activities are well defined there should not be that many tasks that directly support them.
+
+**Quit Social Media**
+The chapter defines some reasons to quit social media. The author suggest quitting for thirty days and then asking yourself.
+
+> 1. Would the last thirty days have been notably better if I had been able to use this service?
+> 2. Did people care that I wasn't using this service?
+page 205
+
+The reality will depend on your personal lifestyle I imagine but do so allows you really justify your actions moving forward.
+
+Possible my favorite quote from the book so far.
+> These services aren't necessarily, as advertised, the lifeblood of our modern connected world. They're just products, developed by private companies, funded lavishly, marketed carefully, and designed ultimately to capture then sell your personal information and attention to advertisers. They can be fun, but in the scheme of your life and what you want to accomplish, they're a lightweight  whimsy, one unimportant distraction among many threatening to derail you from something deeper.
+
+ **Don't use the internet to Entertain Yourself**
+ This whole section is basically an argument to value all the time you have. Don't reduce yourself to mindless distraction during your leisure hours. Find something that is meaningful to engage your mind. The idea is that we feel better when we've done something as value. Things of value should not only occur in the work place.
+
+
+### Drain the Shallows
+I found this section to have many useful tips on the best pratices for make sure you can focus on deep work. It starts with a story to illustrate that with knowledge work, more hours does not really imply more work. This is the idea that makes me want to engage with this process most.
+
+**Schedule Every Minute of Your Day**
+In general folks are not very good at estimating how much time they spend with a give activity. If it is something that is culturally rewarded we end overestimating the time spent. If it is something that has little perceived cultural benifit we end up underestimating. What this all comes down to is we don't often have a clear idea about how we are spending out time. The suggestion.
+write out you schedule for every day.
+I was thrown off by this when I first read it but I'm going to give it a shot. The premise is that the schedule helps you stay intentional with your time.
+Write out blocks of time with a specific task. If the length or timing of these blocks change go back to your schedule and readjust it to make sure that the new schedule reflects actual work. Your schedule will change everyday, but that fine, is the evaluation that is important. Overtime you should get better at understanding how long specific task take and understand when most of your days interruptions occur.
+
+**Quantify the Depth of Every Activity**
+The goal here is to develop the practice of not just saying no or yes to a process but really evaluating the worth of the activity before committing. This could be a commitment of time, a ranking of importance, or a assigning of value. The question that should be asked of the potential commitment is.
+> How long would it take (in months) to train a smart recent college graduate with no specialized training in my field to complete this task?
+page 229
+
+This question is nice because it makes you assess your our expertise. If it is a ighly specilized task, that is likely why your were hired, you have that working knowledge that is hard to replicate. Tasks that can quickly be learned should not be viewed as more important then those that can't.
+
+**Ask Your Boss for Shallow Work Budget**
+This would be a challenging but productive conversation. The core feature to fall on is that shallow work can be easily trained, so it doesn't make much sense to pay a specialist to do that work at a higher pay grade. It is very unlikely that you get out form doing shallow work alltogether. The goal is that you can have the understand of your boss when you start turning down meeting requests or other administrative tasks.
+
+**Finish Your Work by Five Thirty**
+This section was really interesting. It's all about the idea of fixed schedule productivity. This goes against the conventional wisdom that working more means doing more. this is accomplished by understanding the hard limit on your time and prioritizing what efforts are most important.
+This seems like a challenging system to get into but really the end goal that I want in my work place. Clarity of purpose and felxiability to decide how to make that happen. The set number of working hours is the beste way to get yourself to start valuing your own time.
+
+**Become Hard to Reach**
+I found this kinda of a weak idea to end the book on but it is probably very relivent to most people. How to get away from unrelienting emails.
+The tips are there but dont really add much to what has already been illustrated within the book. Be attentional and focused about what you spend your time with.
+
+### conclusion
+This is a bit of a recap of the role deep work has played in the authors own life. It is also the first time in the book I remember him mentioning anything about balance of productivity, in that his super productive year was probably too much.
+
+### my conclusion
+This is an excellent book for a very specific type of worker. The knowledge worker, as it is called, is someone who creates valuable products based on a learned experience or understanding. If your looking into reading this book it is worth asking, does your work align with that of a professional researcher in some form or another. For example, if you work is primarily interactions with people the ideas presented in this book will be hard to apply. My current work fits very will with a that of the knowledge worker and I found the content presented to be great.
+
+The core idea is that focused work is more productive and valuable. You should be doing everything you can to support the ability to conducted focused work. This is called deep work throughout the book. There are many great examples and tips to how to make this happen. For example, prioritizing your activities by accessing how many months would it take to train a recent college graduate to complete this task. Focus your time and effect on the task that would require the most training. Those are the tasks that are best suited to your unique knowledge base.
+One thing I wish was better explained was the progression of the steps. There area many aspects that lead to supporting Deep Work and implementing all of them at once would be a real challenge. I know the exact progression will differ from person to person, yet there seem like some of these ideas area easier to implement then others. For me this was obvious because I'm still early in my career as a knowledge worker so I need to spend more time developing a network then an established professional would.
+
+I wrote extensive notes on this book, about 5000 words for a 70,000 word book. To me this means that there is a lot of valuable content within the text. Due to my work place environment, I can actively implement many of these strategies right away. I will be, because I feely believe that focus attention on a few very important ideas is the best way to move yourself forward.
+
+I've already recommended this book to multiple individuals who are working in the research science field. The content promotes a alternative to the hyper connected workplace which makes a lot of sense to me. I'm not going to implement the strategies word for word but I am work to put my adaptation of them in place.

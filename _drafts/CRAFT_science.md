@@ -70,7 +70,7 @@ If we look at the ways to build emotional ties
   - domestication
   - specialization
   - climate change
-  - back to the decendents
+  - back to the dependents
 - characters
     - iconic crop
     - framer

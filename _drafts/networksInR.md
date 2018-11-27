@@ -18,15 +18,7 @@ E(g)
 ecount(g)
 ```
 you can add and rename attributes as if it were a dataframe
-```r
-# give the name "Madrid network" to the network and print the network `name` attribute
-g$name <- "Madrid network"
-g$name
 
-# add node attribute id and print the node `id` attribute
-V(g)$id <- 1:vcount(g)
-V(g)$id
-```
 
 You can work with ggplot and dplyr for interpreting and change the graph
 The syntax is the same as ggplot but the options are new.
