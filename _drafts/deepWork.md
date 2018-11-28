@@ -1,4 +1,4 @@
----
+connectivityimmediate---
 layout: post
 date:
 categories: perspective
@@ -17,7 +17,7 @@ The introductory chapter highlights the primary connection of this book, deep wo
 
 ### Deep Work is Valuable
 
-In a quick review of the a work that examines the changes taking place in our modern economy the author poses that their are certain skills that allow an indiviudal to be sucessful. I found it interesting that The effect of the increase connectivety of the modern economy allows individal people(node) to take more of the work. The result is that being at the top of game will be allow for more and more benifits, while it will become more difficult ot get there.
+In a quick review of the a work that examines the changes taking place in our modern economy the author poses that their are certain skills that allow an individual to be successful. I found it interesting that The effect of the increase connectivity of the modern economy allows individual people(node) to take more of the work. The result is that being at the top of game will be allow for more and more benefits, while it will become more difficult to get there.
 
 > *Two Core Abilities for Thriving in the New Economy*
 1. The ability to quickly master hard things.
@@ -26,7 +26,7 @@ page 29
 
 The extension of these two primary components are obvious. The increase connectivity of the economy allows for the more rapid diffusion of information and ideas. This means more change. One needs to be at the front of the change to remain successful. This requires learning and producing quickly.
 
->  To Learn hard things quickly, you must focus intensely owithout distraction. To learn, in other words, is an act of deep work. If you're comfortable going deep, you'll be comfortable mastering the increasingly complex sytems and skills needed to thrive in our economy. If yo instead remain one of the many for whom depth is uncomfortable and distraction ubiquitous, you shound't expect these systems and skills to come easily to you.
+>  To Learn hard things quickly, you must focus intensely without distraction. To learn, in other words, is an act of deep work. If you're comfortable going deep, you'll be comfortable mastering the increasingly complex systems and skills needed to thrive in our economy. If yo instead remain one of the many for whom depth is uncomfortable and distraction ubiquitous, you shouldn't expect these systems and skills to come easily to you.
 page 37
 
 This idea is backed by examination of research about how information is transferred within the brain. Use builds the connective structure. Focused use allows the more effective building of the structure.
@@ -98,34 +98,34 @@ This seems like the easiest to make happen. Setting a scheduled event that is al
 This did not really seem like a schedule at all. Basically do what you can when you can. Ad Hoc. This is probably what most people will get pushed into but it takes away a lot of the message of this book. Deep work should be important enough that it can be scheduled. The author suggests avoid this technique while beginning. My personal adaptation of this is have two hours that happens each work day. If I can't make it at the set time I adjust the time.
 
 **Ritualize**
-With the work philosophy laid out it comes down to implementation. The goal here is to have a set of parameters that you can follow to make sure deep work happeneds. This will make sense to everyone becuase they are not really new.
+With the work philosophy laid out it comes down to implementation. The goal here is to have a set of parameters that you can follow to make sure deep work happens. This will make sense to everyone because they are not really new.
 - Where will you work (helpful if outside of normal workplace)
 - how will you work (metric for productivity )
 - How will you support your work ( comfort)
 
 **Make Grand Gestures**
 This builds off the idea that we value things that come with commitment more then those that we simply receive. The idea here is that is you need to make deep work happen, really comment and make it happen. This could mean putting yourself up in a hotel or using the out of office logic to make sure your open.
-What ever it is, the bigger commentment you make too it hte more significant you will feel the time is.
+What ever it is, the bigger commitment you make too it the more significant you will feel the time is.
 
 **Don't Work Alone**
-This seemed to be present to confront the growing theme that deep work requires isolation. While that still true the reality of it is that you dont need to only work alone. In small teams of with partners you can still practice this deep work stratigies.
+This seemed to be present to confront the growing theme that deep work requires isolation. While that still true the reality of it is that you don't need to only work alone. In small teams of with partners you can still practice this deep work strategies.
 
 **Execute Like A Business**
-Based on the work of Clayton Christensen woh developed The 4 Disciplines of Execution. This series of step was put forth to help organization move from the what to the how. Ideas and stratigies are easy to generate but how do we make them happen
+Based on the work of Clayton Christensen who developed The 4 Disciplines of Execution. This series of step was put forth to help organization move from the what to the how. Ideas and strategies are easy to generate but how do we make them happen
 1. Focus on the Wildly Important
-DEep work should be very focused, with set goals and targetable achievements. Be deliberate about what the most important priority is and let that define your work.
+Deep work should be very focused, with set goals and targetable achievements. Be deliberate about what the most important priority is and let that define your work.
  2. Act on the Lead Measures
- Lead measures are essentailly the imediate results of an action. The goal is that deep work could be measure with, number of pages written or number of hours spent. Even thought the important goal is number of papers published. The lag time better effort and acheivment is to much to use as a motivator.
+ Lead measures are essentially the immediate results of an action. The goal is that deep work could be measure with, number of pages written or number of hours spent. Even thought the important goal is number of papers published. The lag time better effort and achievement is to much to use as a motivator.
  3. Keep a Compelling Scoreboard
  If you have a measurable lead measure that builds to your wildly important goal , keep track of it. Keep it visible and use it as a motivator to keep up the work
  4. Create a Cadence of Accountability
  Establish reoccurring meetings that are used to evaluate the progress and attempt to understand why this week was better then the last.
 
  **Be Lazy**
-I was not expecting it but I got a lot out of this section. It all centers around the idea of strengthing the work/life divide. Finding ways to be do with work when you leave work will acutally help you work more effectively. I love the implications of this. Three reason for this logic were provided.
+I was not expecting it but I got a lot out of this section. It all centers around the idea of strengthen the work/life divide. Finding ways to be do with work when you leave work will actually help you work more effectively. I love the implications of this. Three reason for this logic were provided.
 
 1. *Downtime Aids Insights*
-This looks at the work by a psychologist Ap Dijksterhuis on the role of conscious and unconscious thought on decision making. The take away is that decision based on very strict and well defined rules are best made by the conscious mind(actively thinking about the problem). For example determining what time you would need to leave to make it to the airport. On the other hand problems that are complex and require a lot variables and vague parameters are better left to the unconcious mind. That is, go with the gut.
+This looks at the work by a psychologist Ap Dijksterhuis on the role of conscious and unconscious thought on decision making. The take away is that decision based on very strict and well defined rules are best made by the conscious mind(actively thinking about the problem). For example determining what time you would need to leave to make it to the airport. On the other hand problems that are complex and require a lot variables and vague parameters are better left to the unconscious mind. That is, go with the gut.
 *word of skepticism*  It was not clear why decisions were deemed better. I think you look back on unconscious decisions with less criticism because you often don't rely on the pro con strategies of conscious effects. You just made the choice and went with it. When you mull things over your those counter arguments to your decisions are more likely to come back up.
 That said, I think for the most part, allow the unconscious mind to feel through a process is a great alternative to the stress of having to make a decision.
 
@@ -145,7 +145,7 @@ I'm going to try this, here are my initial steps that I will take. These may cha
   - respond where possible
   - add other content to task lists
 2. Check daily task lists
-  - review the dailys tasks
+  - review the daily tasks
   - define next steps for active features
   - place two important items in deep and essential calendar event for tomorrow
 3. Optional: Add to daily page to break the work mindset.
@@ -154,18 +154,18 @@ I'm going to try this, here are my initial steps that I will take. These may cha
 We'll see how it goes.
 
 ### Embrace Boredom
-Much like any other skill set the ability to sustain focus is something that falls into the use it or lose it category. The danger of this is currenly many people are in state of needing constent stimuli. Standing in like at the grocery store, we pull out our phone to push things around rather then just stand. Deep work require directed focus on potential features of low stimuli. As we pratice the act of being ok with low stimuli environments we are supporting our ability to stay focused within them.
+Much like any other skill set the ability to sustain focus is something that falls into the use it or lose it category. The danger of this is currently many people are in state of needing constant stimuli. Standing in like at the grocery store, we pull out our phone to push things around rather then just stand. Deep work require directed focus on potential features of low stimuli. As we practice the act of being ok with low stimuli environments we are supporting our ability to stay focused within them.
 Some very strong conclusions about the effect of a constantly stimulating environment from the work from Clifford Nass is cited. The short of it is that those who live in a state of constant distraction are re working the ability of their brain to stay focused. Kinda a scary thought.
 
 **Don't Take Breaks from Distraction Instead Take Breaks from Focus.**
- Most people use distractions as a reward. Once I get this done I'll watch that video I was told about. In that sense you are schedule, though many not on a calendar, your focus time to make time for the distraction. In many way seems out of wack with where would be place our personal priorities. Yet it will take a very active effort to flip this.
-Ideas such as internet sabbath( a day a week without internet) are methods to star but it's probably impossible to form a strong habit only praticing one day out of seven. The authors suggestion is that you start scheduling internet time. Set asided period where you will not use the internet. If you require internet often, best to make shorty blocks. This is a training of sorts to resist the temptation of distraction.
+ Most people use distractions as a reward. Once I get this done I'll watch that video I was told about. In that sense you are schedule, though many not on a calendar, your focus time to make time for the distraction. In many way seems out of whack with where would be place our personal priorities. Yet it will take a very active effort to flip this.
+Ideas such as internet Sabbath( a day a week without internet) are methods to star but it's probably impossible to form a strong habit only practicing one day out of seven. The authors suggestion is that you start scheduling internet time. Set aside period where you will not use the internet. If you require internet often, best to make shorty blocks. This is a training of sorts to resist the temptation of distraction.
 The author provide three specific pointers.
 
-1. *This strategy works even if your job requires lots of Internet use and/or promt e-mial replies.*
+1. *This strategy works even if your job requires lots of Internet use and/or prompt e-mail replies.*
 Just schedule the internet free periods in shorter segments. If you can get your replies out quick in 10 minutes, schedule 20 minute non internet time still means your not distracted for two thirds of the day.
 
-2. *Regradless of how you schedule your internet blocks, you must keep the time outside these blocks absolutely free from Internet use.*
+2. *Regardless of how you schedule your internet blocks, you must keep the time outside these blocks absolutely free from Internet use.*
 No cheating. The point of all this is not sure much that internet is a bad tool but developing the resolve to live with it because it is distracting. If you comment to no internet stand by it.
 
 3. *Scheduling Internet use at home as well as at work can further improve your concentration training.*
@@ -188,7 +188,7 @@ It helps to coming to one of these meditative session with a plan. This is the i
 For me this was one of the weakest sections of the book so far. Basically memorization is an applied focus activity. Practicing memorization of random occurrences helps you practice focus. The deck of cards is just an example but basically it's a call to use memorization as a focus training tool.
 
 ### Quit Social Media
-This is a rather strong arguement against network tools such as facebook/linked in and other online features that tie you to a specific community (reddit, business insider). Similiar to many other of the mesages within the book, the idea is that these resourse produce shallow relationships which don't add up to alot. The logic is structured around two primary elements.
+This is a rather strong argument against network tools such as facebook/linked in and other online features that tie you to a specific community (reddit, business insider). Similiar to many other of the messages within the book, the idea is that these resources produce shallow relationships which don't add up to a lot. The logic is structured around two primary elements.
 
 > **the Any-Benefit Approach to Network Tool Selection:** You're justified in using a network tool if you can identify any possible benefit to its use, or anything you might possibly miss out on if you don't use it.
 page 186
@@ -199,7 +199,7 @@ page 191
 What this really seems to come down to is being intentional in your decision making about using a tool. This is difficult because it is easy to feel the pressure to engage in something when you hear the success story. The fear of missing out is a real thing that most people are strongly motivated by. Because of this we are far more likely to not take the time to access if this feature is really adding value you life or not. The authors claim is that we really take the time to answer that questions before deciding to engage with a network tool.
 
  **Apply the Law of the Vital Few to Your Internet Habits**
- Sticking with the theme of intentionality it is also important to know that generally speaking about 20% of the things we do contribute to 80% of outcome. This is taken directly from network analysis so learning to much on the specific numbers is not the main point. They will likely fall about in non network based systems. Regradless, the idea is that you do a few very very important things. Those should be the things that drive your decisions. Here is the advice.
+ Sticking with the theme of intentionality it is also important to know that generally speaking about 20% of the things we do contribute to 80% of outcome. This is taken directly from network analysis so learning to much on the specific numbers is not the main point. They will likely fall about in non network based systems. Regardless, the idea is that you do a few very very important things. Those should be the things that drive your decisions. Here is the advice.
 
  Define your professional Goal and the key activities that support that goal
  *Professional Goal:* Actively collaborate with domain professionals to apply geospatial analysis to their areas of interest.
@@ -227,10 +227,10 @@ Possible my favorite quote from the book so far.
 
 
 ### Drain the Shallows
-I found this section to have many useful tips on the best pratices for make sure you can focus on deep work. It starts with a story to illustrate that with knowledge work, more hours does not really imply more work. This is the idea that makes me want to engage with this process most.
+I found this section to have many useful tips on the best practices for make sure you can focus on deep work. It starts with a story to illustrate that with knowledge work, more hours does not really imply more work. This is the idea that makes me want to engage with this process most.
 
 **Schedule Every Minute of Your Day**
-In general folks are not very good at estimating how much time they spend with a give activity. If it is something that is culturally rewarded we end overestimating the time spent. If it is something that has little perceived cultural benifit we end up underestimating. What this all comes down to is we don't often have a clear idea about how we are spending out time. The suggestion.
+In general folks are not very good at estimating how much time they spend with a give activity. If it is something that is culturally rewarded we end overestimating the time spent. If it is something that has little perceived cultural benefit we end up underestimating. What this all comes down to is we don't often have a clear idea about how we are spending out time. The suggestion.
 write out you schedule for every day.
 I was thrown off by this when I first read it but I'm going to give it a shot. The premise is that the schedule helps you stay intentional with your time.
 Write out blocks of time with a specific task. If the length or timing of these blocks change go back to your schedule and readjust it to make sure that the new schedule reflects actual work. Your schedule will change everyday, but that fine, is the evaluation that is important. Overtime you should get better at understanding how long specific task take and understand when most of your days interruptions occur.
@@ -240,18 +240,18 @@ The goal here is to develop the practice of not just saying no or yes to a proce
 > How long would it take (in months) to train a smart recent college graduate with no specialized training in my field to complete this task?
 page 229
 
-This question is nice because it makes you assess your our expertise. If it is a ighly specilized task, that is likely why your were hired, you have that working knowledge that is hard to replicate. Tasks that can quickly be learned should not be viewed as more important then those that can't.
+This question is nice because it makes you assess your our expertise. If it is a ighly specialized task, that is likely why your were hired, you have that working knowledge that is hard to replicate. Tasks that can quickly be learned should not be viewed as more important then those that can't.
 
 **Ask Your Boss for Shallow Work Budget**
-This would be a challenging but productive conversation. The core feature to fall on is that shallow work can be easily trained, so it doesn't make much sense to pay a specialist to do that work at a higher pay grade. It is very unlikely that you get out form doing shallow work alltogether. The goal is that you can have the understand of your boss when you start turning down meeting requests or other administrative tasks.
+This would be a challenging but productive conversation. The core feature to fall on is that shallow work can be easily trained, so it doesn't make much sense to pay a specialist to do that work at a higher pay grade. It is very unlikely that you get out form doing shallow work all together. The goal is that you can have the understand of your boss when you start turning down meeting requests or other administrative tasks.
 
 **Finish Your Work by Five Thirty**
 This section was really interesting. It's all about the idea of fixed schedule productivity. This goes against the conventional wisdom that working more means doing more. this is accomplished by understanding the hard limit on your time and prioritizing what efforts are most important.
-This seems like a challenging system to get into but really the end goal that I want in my work place. Clarity of purpose and felxiability to decide how to make that happen. The set number of working hours is the beste way to get yourself to start valuing your own time.
+This seems like a challenging system to get into but really the end goal that I want in my work place. Clarity of purpose and flexibility to decide how to make that happen. The set number of working hours is the best way to get yourself to start valuing your own time.
 
 **Become Hard to Reach**
-I found this kinda of a weak idea to end the book on but it is probably very relivent to most people. How to get away from unrelienting emails.
-The tips are there but dont really add much to what has already been illustrated within the book. Be attentional and focused about what you spend your time with.
+I found this kinda of a weak idea to end the book on but it is probably very relevant to most people. How to get away from unrelenting emails.
+The tips are there but don't really add much to what has already been illustrated within the book. Be attentional and focused about what you spend your time with.
 
 ### conclusion
 This is a bit of a recap of the role deep work has played in the authors own life. It is also the first time in the book I remember him mentioning anything about balance of productivity, in that his super productive year was probably too much.
