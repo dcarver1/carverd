@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Math Across Raster Stacks"
+title:  "Book Notes: Body Mind Mastery"
 categories: reviews
 permalink: "bodyMind"
 ---
@@ -45,7 +45,7 @@ Interesting idea that limits the importance of goal
 - focus on the process
 - do not dwell on what could have been
 - understand the rate of development and change
-It's a hard one to summarize but the idea is that you do not need to focus on the thing that are outside of your control or reach. Stay focus on what your training is currently pushing you too.
+It's a hard one to summarize but the idea is that you do not need to focus on the things that are outside of your control or reach. Stay focus on what your training is currently pushing you too.
 
 ## Chapter 2 Awareness
 Content is good just nothing out of what I expected.
@@ -123,22 +123,27 @@ split up you work into smaller processes to understand how that all come togethe
 this is the ultimate way to learn. Watching an expect and trying to match there form. It's how childern learn for the most part
 
 ## Chapter 8: Competition and Cooperation
-This really start to get at the idea that the experience and the training should be the goal of any practice. Winning is good but fleating. Cooperation makes you away of the other ideas and techniques involved and increases you ability to improve.
+This really start to get at the idea that the experience and the training should be the goal of any practice. Winning is good but fleeting. Cooperation makes you away of the other ideas and techniques involved and increases you ability to improve.
 - the competitive mind
-while winning is a strong motivator the best athletes are allways trying to improving upon their own game and understanding look at your opponet as a teach then the stress and tension that come form competition can be better dealt with.
+while winning is a strong motivator the best athletes are always trying to improving upon their own game and understanding look at your opponent as a teach then the stress and tension that come form competition can be better dealt with.
 - overload and cutback
-Train harder then what you need when your competing. More repetation more weight a faster pace. Cutback before the event to recover. This way you feel that you are going easy on the day of the performance.
+Train harder then what you need when your competing. More repetition more weight a faster pace. Cutback before the event to recover. This way you feel that you are going easy on the day of the performance.
 - preparing emotions and attitudes
-nervousness increasing your physically preparedness and energy. If you feeling nervous use that engery by activelly engaging in something.
+nervousness increasing your physically preparedness and energy. If you feeling nervous use that energy by actively engaging in something.
 - mental game.
-The ultimate goal of training is that when you need to pull on the training you can do it with a calm and focused mind. The actions are comfortable and easy and your judgement is clear.this can be acheived by bringing that same set of focus to yor pratice.
+The ultimate goal of training is that when you need to pull on the training you can do it with a calm and focused mind. The actions are comfortable and easy and your judgement is clear. This can be achieved by bringing that same set of focus to your practice.
 
 ## Chapter 9: The evolution of athletics
-I spoke abotu most of this already out of turn as the intro for chapter 7. The core idea is that sports shoudl promote well being. That comes from balance intetnion. There is a section about the againg athlete which is important. You current physical state needs to be a reflection of your current training not what you have done in the past. That distinction is a challenging one
+I spoke about most of this already out of turn as the intro for chapter 7. The core idea is that sports should promote well being. That comes from balance intention. There is a section about the again athlete which is important. You current physical state needs to be a reflection of your current training not what you have done in the past. That distinction is a challenging one
 
-## chapter 10 : MAstering the moving experience
-prolouge to sum up the work.
+## chapter 10 : Mastering the moving experience
+prologue to sum up the work.
 Balance of body mind and emotion
 focus on the process not the prize
 relaxation and concentration build ability
-teach the body how to perform and let it do it. 
+teach the body how to perform and let it do it.
+
+Not from the book but very fitting.
+
+>Technique is what you fall back on when you run out of inspiration.
+Rudolf Nureyev

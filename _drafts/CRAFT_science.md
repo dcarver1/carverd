@@ -10,18 +10,26 @@ Audience (Who)
 Format (What)
 Take home message (why)
 
-Dr. Meena Balgopal is a professor of Biology at Colorado State University. I attend a workshop of hers about crafting science communication. It was excellent, in large part because Meena is a facilitator. It was a refreshing thing to see after some many lecturers. Someone who engaged and interacted with the audience. Again, let me just say. Awesome.
+Dr. Meena Balgopal is a professor of Biology at Colorado State University. I attend a workshop of hers about crafting science communication. It was excellent, in large part because Dr. Balgopal is a facilitator. It was a refreshing thing to see after so many one sided lecturers. Dr. Balgopal engaged and interacted with the audience. Again, let me just say. Awesome.
 
-Interestingly, the title for her talk was suggested by a colleague. Meena, took the creativity and time to develop the acronym of CRAFT. Which she presented as the frame work for building your science story. Some import ideas was that all stories contain elements of
+Interestingly, the title for her talk was suggested by a colleague. Dr. Balgopal, creativity develop the acronym of CRAFT. Which she presented as the frame work for building your science story. We cover the specifics of the CRAFT process below. First we start with some basics about stories.
+For instance all stories contain elements of
+
 - events
 - characters
 - conflict/resolution
 - causality/agency
-It's important to think about these elements because they all can be used to evoke emotional responses from the reader. Emotions are keep for engaging people, specifically those that are not directly studying the same thing you are. Emotions are emergent properties of stories.
-Meena suggest that as scientist we can we Socio-Scientific Issues to bring out emotions in our audience. SSI are complex problems with no distinct answers. Yet scientific knowledge is an important part of understanding the problem. Maybe the two most extensively discussed SSI are climate change and genetic engineering of crops. Yet example of those are plentiful in every field. It would seem that scientist are often hesitant to speak about these issue in contexts of their own work because of the polarizing power of these topics. Yet, it's that power that will keep people engaged in your work.
 
-Meena suggest that we base our stories in the narrative framework as much as we can. This is usually possible with intention and extra effort. The tools she suggested to help is the use of dramatic structure( intro, rising action, climax, resolution). This is important because the audience is often uncomfortable with conflict and they want to continue to engage to find the resolution. *find picture*
-The incorporation of the 7primary stories themes defined by Booker C, 2006.
+It's important to think about these elements because they all can be used to evoke emotional responses from the reader. Emotions are what keeps people engaged, specifically if your audience is not directly studying the same thing you are. Emotions are emergent properties of good stories.
+Dr. Balgopal suggest that as scientists we can use Socio-Scientific Issues(SSI) to bring out emotions in our audience. SSI are complex problems with no distinct answers. Yet scientific knowledge is an important part of understanding the problem. Maybe the two most extensively discussed SSIs are climate change and genetic engineering of crops. Yet examples of SSIs are plentiful in every field. It would seem that scientist are often hesitant to speak about these issue in contexts of their own work because of the polarizing power of these topics. Yet, it's that power that will keep people engaged in your work. If we want a story we should speak to a hot button issue because it will envoke an emotional response.
+
+Dr. Balgopal suggests that we base our stories in the narrative framework as much as we can. This is usually possible with intention and a little extra effort. The tools she suggested to help develop the narrative is the use of the dramatic structure( intro, rising action, climax, resolution). This is important because the audience is often uncomfortable with conflict and they want to continue to engage to find the resolution.
+
+![Rise and Fall of the Narrative]({{"/assests/dramaticDtructureDiagram.png"|absolute_url}})
+
+This is a bit more of a complicated version of the idea just incase your really looking to push the narrative. The basic idea is that when framing the story your tie elements of your work to each component .
+
+Another way to start thinking about the spinning of a narrative is by incorporating one of the 7 primary stories themes defined by Booker C, 2006. The reason behind this is that individuals will recognize the plot and that triggers the want for resolution. Also, it's easy to think of examples of all these elements from other stories you have read. The quest and overcoming the mosters(stanger comes to town) are probably the two more common ones in science writing. Most applied research is goal define and really set on addressing a known issues, so it connects well with these frames. 
 
 1) Overcoming the Monster;
 2) Rags to Riches;

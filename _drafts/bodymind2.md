@@ -8,7 +8,7 @@ categories: perspective
 
 ## Chapter 1: Understanding the Larger Game
 This frames out the connection between training and all aspects of life.
-It is nice because while this is written specific for athletes it is easy to connection on a personal and professional level right off the bat
+It is nice because while this is written specifically for athletes it is easy to connect to a personal and professional level right from the start.
 
 four main ideas to focus
 1. Non Resistance
@@ -59,7 +59,7 @@ Great Quote
 Abraham Lincoln  
 
 ## Chapter 4: Mental Talent
-What is nice aobut this book is that it really pushes the relationship between mental, physical, and emotional strength in creating well being. Still focused at sports but it's clear this is a very educated and good very of the role of sports in life. Somewhat obviously, the mental games is what makes or breaks success once the skill sets have been developed.
+What is nice about this book is that it really pushes the relationship between mental, physical, and emotional strength in creating well being. Still focused at sports but it's clear this is a very educated and good very of the role of sports in life. Somewhat obviously, the mental games is what makes or breaks success once the skill sets have been developed.
 
 - limited Self-Concept
 We place our own bounds on what we can or can not to all the time. These expectations are inherently what we end up living up to. This gets at the idea of self assessment. Interestingly the author success that we work on limiting the use of self-concept as much as possible. just focus on doing the task not trying to match a standard at all. I think that is good for general focus and being in the moment.
