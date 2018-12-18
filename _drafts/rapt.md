@@ -57,7 +57,7 @@ If you keep on the sunny side of life.
 I felt that these lines describe the sentiment of this chapter well. We have the opportunity to alter our well being by changing what it is we spend time focusing on. There are a lot of good examples of this effect. An interesting one was that the elderly are often better able to find the good. This has to do with the understand that life is either mostly ahead of you or mostly behind.
 Very valuable thought.
 
-## Chapter 4
+## Chapter 4 Born to Focus
 It is clear that focus effects out outlook on life. This chapter goes into the detail about how underlying character traits effect focus.
 For instance if you classify yourself as an introvert or extravert will change who you place your focus.
 This can be summed down to how much you are going to pay attention to your outward or inward environment. It was interesting that they "Knowledge workers" as a very introverted group. That fits well with the deep work idea.
@@ -70,7 +70,79 @@ draw to focus. As with everything else, individuals fall on a spectrum between t
 Rudolf Nureyev
 
 
+# Chapter 5: Nurture: This is Your Brian on Attention
 
+Focusing self-referential processing is what most of us do most the time. That we focus on ourself. While good and bad come of that the big thing is that we are often our biggest critic. As a result we self-referential processing is more likely to generate a negative feeling and we begin to focus on that negativity.  
+> Sensitive attention is a key substrate of successful social interactions, and the consequences of missing that kind of information can be quite significant.
+page 70 Davidson
+
+An argument is made that the cultural division between Eastern and Western societies is in part due to where their cultural tend to focus their attention. The more family focus cultural of eastern nations is often spoken of but hearing this association give some form of cause to lean on.
+A clear message coming through is that your brain is adaptable and can change if you are active about changing your environment and your focus.
+
+# Chapter 6: Relationships: attending to Different Worlds
+
+> paying attention is an individual effort, but it's also a kind of social cement that holds groups together and helps them feel part of something greater than themselves.
+page 85
+
+The theme of this chapter seems to be that there are great benefits that can be reaped by paying attention to others rather then spending that time in self-referential thought. This is shown through a case study of American families which highlighted the specific interactions between family members. The fact is the culture in the US push kids into a sheltered individualism that makes the interactions between parents feel one dimensional. This hit home as I reflected on my own upbringing. Much of this is driving by the substantial undercurrent of American culture that is the prospect of finical success and material wealth. The message is that most individuals don't assess how training their children to success is effecting their families quality of life. Simple message is be less busy and spend more time with family.  
+
+> The more I know that my partner's interests run with my own, the less I feel threatened bu differences, even in arguments, and the more we can forge a common view of reality and focus on each other."
+page 97
+
+This whole chapter is excellent and really fits well with the conversations I have within my own relationships. After reading this I wanted to buy the book so I have access to the chapter again in the future.
+
+## Chapter 7: Productivity: Work Zone
+
+Staying focused is key to being productive. There is cultural shift that is pushing more individuals to pursue jobs that allow them to find well being through work not just the largest paycheck. To stay focus individuals need to activities that are at the edge of that intellectual/physical abilities.
+
+> You know you're in the right business if you feel that you'd work "for the sheer pleasure": an intrinsic reward that's far more satisfying than extrinsic ones such as a big salary and professional recognition, which depend on comparisons with others.
+page 103
+
+This was a very strong statement that connected a lot of the themes within this book, focus is an internal factor that you can set regardless of your surrounding. This is great because it put the onus on the individual not their community. Takes away a lot of potential excuses.
+
+> Happiness is a later reflection of the flow, rather than the result of the experience at the time.
+page 106
+
+> Those who learn to control their inner experience will be able to determine the quality of their lives, which is as close as any of us can come to being happy
+page 106   
+
+Again statements that really give a lot of power to the individual. Also an interesting note that things that make us happy are not necessarily things that we enjoy at in the moment, but things we can reflect on as experience with a high level of engagement. This is only slightly true in my mind but gives credence to the type 2 fun notion.
+
+> If most of the time you're not particularly concerned about whether what you're doing is work or play, or even whether you're happy or not, you know you're living the focused life.
+page 114
+
+
+# chapter 8: Decisions: Focusing Illusions
+These chapters keep getting better and better. Here is a question I want to use.
+
+> Let's say you're invited to toss a coin. The terms are that if it's tails, you lose twenty dollars; heads, you win a certain amount. If you're then asked how much your winnings would have to be to make you take the chance, you're likely to suggest between forty and fifty dollars. in other words, because we put more weight on the loss than the reward, before taking a 50/50 gamble, most people want to know that they'd win at least twice as much as they'd forfeit.
+
+So interesting to hear it all spelled out. We weight the losses and negatives of a situation far more significantly. I was talking politic with the family right after reading this and I heard this reality shine through. We talk about the bad things, focus on the negatives, to the point that they significantly influence out ability to a good decision on the process. When you dicuss friend or families you don't talk long about the individuals who are successing and making good choice. You take extensively about those whom see most inclined to make the poorest choice and have the most negitive effort on thier community. They get our attention. WHY
+
+> Your hands-on "experience self", Which concentrates on just plain being in the here and now, is absorbe din whatever is going on and how you feel about it without doing much analysis. Your evaluative "remembering self," however, looks back on an experience, focuses on its emotional high points and outcomes, then formulates thoughts about it, not always accurately.
+page 119
+
+How we experience the world and how we remember it are very different. Our remembering self is most influence by the highs, the lows, and the objectives. From those subset of what acutally happen you build up impression of the past that will be influenced by how the question is phrase or your current emotional state.
+
+The difference between a pleasure and a comfort is one of a focus. When we get interested in a new thing we are attracted to the new and novel aspects that the item will bring. Over time we spend less and less attention on that new and novel and it simply becomes the standard. The result is that the benifit or pleasure of such a feature is rather short lived. Therefore it's suggested that items aquired for pleasure be inheretly short lived. Bottle of wine or flowers. Features that you will focus on for the short time they are around and be happy with. This like a new apartment or home are going to loss there edge overtime. Just understand that the new and novel only last as long as you can focus on them.
+
+Making decision can be stressful. This is mostly because we feed information about the features that is not really important. IF your gadget does the primary task it's suppose to do isn't that good enough. Focusing on the extras detracts from what is actually significant about the choice.
+>The problem is that by focusing on those often minor variations, you dramatically inflate their real importance. Even trivial distinctions soon loom large enough to obscure the fact that for all practical purposes, the gizmos are nearly identical. depending on the number under consideration, this process can be a major waste of time and energy.
+page 128
+
+Part of why we have so much trouble dealing with these choices is that were so frequently exposed to advertisement that our beliefs and wants become hijacked by marketing's drive to sell things. We have some choice in how much exposure to marketing we see and also we can decide what attention we need to give it.
+
+
+## Chapter 9 Creativity: An Eye for Detail
+
+> As she says, in painting, gardening, or any other endeavor, "Everything is the same until it's not. Either you can do a thing or don't yet know if you can. The question isn't 'Can I?' but 'How To?'"
+page 141
+
+This was an interesting chapter about what is effectively refereed to as mindfulness. There is a joke alone the line of 'mindfullness only has a place in society because of how poorly we do with attention'. The difference between the two may be that attention is often spoke as a singular focus(block out all else) and mindfulness is a more encompassing focus(pay attention to what's in and around).
+
+What I found most interesting about this chapter is the negative relationship between form and creativity and fitting to a strucutre. It's not that structure hampers creativities, it is that structure can all the mind to go on autopilot and work without thinking. This is the last thing you need to keep your head in the creative space.
+Look at situations as unique experiences. Try to understanding what someone or thing means rather then thinking about how it fits in line with something else (did they get the write answer or did that explain their idea)
+You need to drop dependence on doing things the "right way" and allow your self to make them happen they way they do. 
 
 ### extract
 Just want to get this out.
@@ -86,57 +158,3 @@ Defining all features as either a structure or function removes the ability to s
 Process and Structure
 Structure and process
 That is all there is.
-
-
-# emails
-Hey geofellows,
-I wanted to bring up a conference for you all. The International Association of Landscape Ecology is meeting in Fort Collins in April. The field of landscape ecology is mostly tied to understanding landscape change over space and time. It is what I want to do I just didn't know what to call it until I heard about this conference. The field itself is very methods focused and there is a lot of innovative work with spatial modeling, in particular network/connectivity analysis. An added bonus to it all that DEVELOP has a special session at the conference so if you wanted to present you have the opportunity.
-Tim and I are the session officiators and it's invite only ;)
-
-I know that you all get the chance to travel for a conference. I went to FOSS4G last year. While very informative it is much more a computer science crowd. Put another way, the attendants didn't much care about geospatial work being applied to the understanding of the landscape or the management of a ecological system. The IALE attendants will can about what you did but also why and how it was implemented.
-
-Please check out two of the session description below.
-
-If it feels like I'm being biased in my presentation of this information, I am. I think this conference is going to kick ass and I would love to see either or both of you in attendance.
-Check it out for yourself. Call for presentations just opened.   
-
-http://www.usiale.org/annual-meeting.html
-
-
-http://www.usiale.org/symposia.html There are other cool ones as well. s
-
-(5) Multi-sensor Data Integration for Time Series Analysis of Land-change and Natural Resources
-TYPE: Open Symposium
-
-Contact: Kunwar Singh, North Carolina State University, kksingh@ncsu.edu
-
-Co-Organizers: Lindsey S. Smart and Ross K. Meentemeyer, Center for Geospatial Analytics, Department of Forestry and Environmental Resources, North Carolina State University
-
-Overview: In an era of ever-increasing global environmental change, phenomena like climate change, biological invasions and urbanization require scientists have ways to monitor these changes and their impacts on ecosystem form and function. The regional- to landscape-scales at which these phenomena occur, lend themselves to analysis using remote sensing technologies because of the generally broad spatial and temporal coverage of such technologies. Remote sensing capabilities are also rapidly advancing and becoming increasingly available to researchers, manager, and the public at even finer spatial, spectral, and temporal resolutions. This access to substantive amounts of data, along with the need to be able to monitor localities through time necessitate combining datasets with inconsistent data collection methods and accuracies. Thus, researchers are in need of novel methods and techniques to improve data compatibility and comparability so that accurate detection of changes or trends can be obtained. In this session, we explore remotely sensed time-series analysis of land-change phenomena, novel methods and approaches to reconcile data differences. This session particularly highlights research that uses a multi-sensor data integration approach for evaluating land change process and their impact on ecosystem services. The generalizability of these techniques with applications in different topical domains such as biological invasions, urban growth scenarios, magnitude of biomass change, ecosystem productivity, and coastal inundation. The goal of this session is to initiate a dialogue about innovative solutions for monitoring global environmental change by taking advantage of the increasing availability of remotely sensed technologies and datasets.
-
-Theme/Topic: Remote Sensing, Time-series Analysis, and Global Environmental Change
-
-
-(8) Species Distribution Models and Landscapes: Where Theory and Conservation Applications Collide
-TYPE: Open Symposium
-
-Contact: Thomas Edwards, U.S. Geological Survey / Utah State, t.edwards@usu.edu
-
-Co-Organizers: Sam Cushman, USDA FSJanet Franklin, UC Riverside; Niklaus Zimmermann, WSL, Switzerland
-
-Overview: The theoretical and conceptual bases for species distribution models and analogues (SDM) are well-grounded in published literature, but direct application to management and conservation of species on landscapes lags behind.  Reasons for this lack of application include, but are not limited to, perceptions of SDMs being "black-box" and overly complicated, illogical projections onto space, estimated (modelled) versus "known" locations, as well as other application concerns.  We propose an all-day, 4-pronged special session addressing 4 key elements necessary to enhance application of SDMs to landscape management and conservation.  These are: (i) theoretical underpinnings and recent advances of SDMs and their relationships to application; (ii) advances in modeling techniques affecting application; (iii) case studies in SDM application to landscape conservation and management; and (iv) integration of landscape SDMs into the world of decision-making.  The central aim of the session is to explore reasons why SDMs are not better incorporated into landscape conservation, and provide guidance for future developers of SDMs.  The theoretical session will focus on how different theoretical bases for modelling the "niche" affect subsequent modelling decisions and outcomes.  In the realm of statistical tools much work has been done, but often results in a "competing models" decision environment, making it difficult to apply any model to a conservation issue without potential conflict with other models. We present papers here that provide means to avoid such an environment, such as ensemble approaches.  Case studies selected for presentation will all need to address how the SDM is actually applied, and the concerns and criticisms applied to the SDM.  In short, simply presenting a SDM will not suffice.  Last, we will seek papers that explore reasons why SDMs are not employed by decision-makers, and seek solutions to the SDM process that may enhance their application to landscape conservation.
-
-Theme/Topic: species distribution models; landscape conservation; modelling
-
-
-Hi Catherine,
-I had a few questions about the contract work for your group that was recently released. 
-Are you looking for someone to work part time over an extended period or would a more concentrated effort be better?
-I graduated with my masters in May of 2017. I believe the government definition of recent graduate is within 2 years of graduation. Would I still be able to qualify for the work?
-
-I bring this up because I would appreciate the opportunity to work more closely with you and your group at the USGS. If given that opportunity I believe the job would integrate well with both the content and schedule of my current work at the USDA. My primary role now is performing species distribution models in R for crop wild relatives species (squash/peppers at this time). The position is based around a set number of 8 hour days. At 5 days a week the position would last May. My thought is that I could balance a part time role within both positions. I did this with DEVELOP and the USDA through the summer as a means of getting the projects up and running and stretching out the funding some.
-
-Sorry for bombarding you with all the details, but it's something that I believe could work well depending on what you need for the position.
-
-Thanks a bunch,
-Dan
