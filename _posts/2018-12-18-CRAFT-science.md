@@ -2,7 +2,7 @@
 layout: post
 title:  "CRAFT science"
 categories: communication
-permalink: "craftScienceOutline"
+permalink: "CRAFT_Science"
 ---
 
 # C.R.A.F.T science communication
