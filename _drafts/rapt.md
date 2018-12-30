@@ -26,7 +26,7 @@ The relationship between the forms of attention is not a light switch but rather
 
 Paying attention to specific features allows us to build a memory store of that features characteristics. The result is the ability to readily make decision about the quality of that feature with out applying much thought. Without focused attention it is not possible to store the details need to create the mental library.
 
-When you focus you essentailly narrow your perspective. Most things outside the direct features of focus become blurry and soft. You memory account by that by filling in the surrounds with generic features from past events. This is why memories can seem full but details are only extractable from the features of focus.
+When you focus you essentially narrow your perspective. Most things outside the direct features of focus become blurry and soft. You memory account by that by filling in the surrounds with generic features from past events. This is why memories can seem full but details are only extractable from the features of focus.
 
 ## Chapter 2: Inside Out: Feeling Frame Focus
 
@@ -69,8 +69,17 @@ draw to focus. As with everything else, individuals fall on a spectrum between t
 >Technique is what you fall back on when you run out of inspiration.
 Rudolf Nureyev
 
+Much like the training of the body or off intelligence research is finding that attention as a system can also be strengthened. The brians attent system is split into three parts
+*Alerting*
+*Orienting*
+*Executive*  
+Beyond helping maintain a sense of place the orienting attentional network also contributes to the willingness of individual to focus on the pleasure of small opportunities. A good apple or a pleasant breeze. People who are more focus on the small opportunities are often more happier.
+The executive attentional network fits well with the idea of will power. Choosing what to focus on when.
+The important message is that we do have power to adapt and define how be apply our attention. Over time this will improve, if it is done deliberately.
 
-
+# Chapter 5 Nurture: This Is Your Brain on Attention
+What catches our attention is based in part on what we focus on.
+The best way to grow this relationship is by practicing meditation. After all there are not real negative effects. If you meditate on positive feeling you will end up being more responsive to them in the long run. This is not an over night transformation, it needs to a consistent practice.  
 
 ### extract
 Just want to get this out.
@@ -78,7 +87,7 @@ I've been hooked on the systems thinking process for some time now but I still s
 Anywhere there was something I read today in my systems view of life book that stood out to me.
 Part of the process or the structure.
 that is not a quote and frankly I'm not sure if the works process and structure are correct. But they seem to work.
-In the cartisian method of thought which is still the dominate one. Everything is attempted to be view in isolation. Sysytems view of life has been going though and providing example of how other are starting to break from that method of thought and take on the whole is greater then the sum of its parts idea.
+In the Cartesian method of thought which is still the dominate one. Everything is attempted to be view in isolation. Sysytems view of life has been going though and providing example of how other are starting to break from that method of thought and take on the whole is greater then the sum of its parts idea.
 This idea of process and structure struck me as a core means of explaining that idea.
 No feature stands alone, it is either a part of a structure or a part of a process. If it is a structure or a function depends mostly on what scale the feature is viewed at.
 This does meld a bit with the form or function idea that is common speak, thought I not sure how closely tied that is to either the cartisian or systems philosophy.
@@ -130,7 +139,7 @@ Theme/Topic: species distribution models; landscape conservation; modelling
 
 
 Hi Catherine,
-I had a few questions about the contract work for your group that was recently released. 
+I had a few questions about the contract work for your group that was recently released.
 Are you looking for someone to work part time over an extended period or would a more concentrated effort be better?
 I graduated with my masters in May of 2017. I believe the government definition of recent graduate is within 2 years of graduation. Would I still be able to qualify for the work?
 
