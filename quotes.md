@@ -14,4 +14,17 @@ title: "Quotes"
 
 ### Fritjof Capra and Pier Luigi Luisi
 #### *The Systems View of Life*
-The problem, as already mentioned, is that Intelligent Design is spreading, carrying with itself ignorance and misconceptions about science. Its success is due to a combination of factors; but, basically, it rests on the fact that preaching ignorance and fear is rather efficient in convincing uncritical, simple-minds listeners; and this is combined with a philosophy well rooted in fundamentalism, and turned into a political movement, with political lobbies, usually associated with wealthy, ring-wing politicians. To fight against this cloud of falsehood should be the duty of any scientist who cares for accuracy and the respect of reason. It is the old battle between Galileo and the clergy, the eternal fight against blindness and superstition. 
+>The problem, as already mentioned, is that Intelligent Design is spreading, carrying with itself ignorance and misconceptions about science. Its success is due to a combination of factors; but, basically, it rests on the fact that preaching ignorance and fear is rather efficient in convincing uncritical, simple-minds listeners; and this is combined with a philosophy well rooted in fundamentalism, and turned into a political movement, with political lobbies, usually associated with wealthy, ring-wing politicians. To fight against this cloud of falsehood should be the duty of any scientist who cares for accuracy and the respect of reason. It is the old battle between Galileo and the clergy, the eternal fight against blindness and superstition.
+
+### Vaclav Havel
+#### *opening address to Forum 2000, international symposia, Prague, Havel 1997*
+> It is my deep conviction that the only option is for something to change in the sphere of the spirit, in the sphere of human conscience, in the actual attitude of man towards the world and his understanding of himself and his place in the overall order of existence.
+
+### Blasise Pascal
+#### taken from *The Systems View of Life*
+> "Knowledge is like a sphere; the greater its volume, the larger its contact with the unknown."
+
+
+### Albert Einstein
+#### Einstein, 1949, p.5
+ > The fairest thing we can experience is the mysterious. It is the fundamental emotion which stands at the cradle of true art and true science... the mystery of the eternity of life, and the inkling of the marvelous structure of reality, together with the single-hearted endeavor to comprehend a porption, be it ever so tiny, of the reason that manifests itself in nature.
