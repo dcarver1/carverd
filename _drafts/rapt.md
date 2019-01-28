@@ -1,4 +1,4 @@
----
+attending---
 layout: post
 date:
 categories: perspective
@@ -142,7 +142,123 @@ This was an interesting chapter about what is effectively refereed to as mindful
 
 What I found most interesting about this chapter is the negative relationship between form and creativity and fitting to a strucutre. It's not that structure hampers creativities, it is that structure can all the mind to go on autopilot and work without thinking. This is the last thing you need to keep your head in the creative space.
 Look at situations as unique experiences. Try to understanding what someone or thing means rather then thinking about how it fits in line with something else (did they get the write answer or did that explain their idea)
-You need to drop dependence on doing things the "right way" and allow your self to make them happen they way they do. 
+You need to drop dependence on doing things the "right way" and allow your self to make them happen they way they do.
+
+
+## Chapter 10 Focus Interrupts
+
+s that the short interrupts dramatically slow your process because they require you back up and reassess where you were.
+
+ > Accustomed to triaging your electronic contacts, you might also find yourself wondering if actually talking to someone just because she's your neighbor or he's your uncle miss the best use of your valuable time. The young in particular might fail to consider how many people in their electronic address book really know them and would be there for them if they needed help, as a friend or relative does and would.
+
+Wow, this statement really hit home. Because we focus so much time on internet based medium we loss our ability and want to interact in a personal face to face mannor. I ride the bus into a college campus and this is the best summary of the interpersonal interactions that take place in that system.
+
+> attention: "the ability to frame your field of awareness in the awy that will be most useful to the task at hand"
+> Energy flows where attention goes
+Amishi Jha  page 161
+
+Often we think of attention as the focus on the sigular but it is important to realize that it can be a disfuss process that takes in much.
+
+## Chapter 11: Disordered Attention
+Chapter about ADHD primarily
+
+An interesting note is that there is a strong correlation between childhood success in school and future well being. In that those who do not perform well in the classroom are likely to have a harder path ahead of them. This is likely due to the lack of learning how to be attentive in the formational years. This is the most important time for building the skills that will define us latter on.
+
+> According to the "perceptual load" theory, you'll experience more distractions when your task is not very engaging
+page 167
+
+Simple but potent statement. If your not engaged by the feature or situation you in your more likely to be distracted.
+
+> If you really want to focus on something, says Castellanos, the optimum amount of time to spend on it is ninety minutes. "Then change tasks. And watch out for interruptions once you're really concentrating, because it will take you twenty minutes to recover."
+page 172
+
+Directly ties back to the idea of deep work. Attention is something that needs to be actively protected, because those interruptions are very costly.
+
+## chapter 12: Motivation: Eyes on the Prize
+
+> We consume 35 percent more food when dining with a friend - and 50 percent more with a big group - than when alone.
+page 174
+
+I can tell this is real. A form of peer pressures of sort that get at the major theme of the chapter. There are many subconscious actions that effect how we make decision about our actions. Getting around this requires preplanning and attendance to before hand. Here is an idea I'm going to try.
+
+- write out what you eat over the day.
+- measure your weight frequently
+- write out physical activates
+
+This allows you to make proactive decision and understand what causes what.
+
+There are three driving forces behind human motivations. Power, achievement, and affiliation. The effect of each is different for every person. It's important to take the time to understand which most strongly effects you and keep that in mind when trying to build your personal motivation.
+
+> To be effective, praise, like criticism, should be precisely targeted: not "You're so great!" but "You did a great job on that report!"
+page 177
+
+This seems really significant and an easy thing to do to help a kid or any person grow. If feedback is direct we can understand the direct connection between action and feedback. If it's defuse individual begin to think of the quality of there work as inherent not due to specific action. What this action does is promote the application of effort as the feature to be rewarded. This is surmised as grit and has been shown to be more important that intellectual or social ability in define success.
+
+> Nevertheless, says Duckworth, resaerch has made one thing very clear.: "Life is relatively short, so don't labor under the delusion that you can keep switching your focus from goal to goal and get anywhere."
+page 181
+
+This one stung a bit. I've been getting better at trying to follow a distinct line but it's never very clear what the actual goal is. Something to work on I guess.
+
+By planning the reaction we will have to something we want to avoid we can give ourself an option when the temptation shows itself. Visual what you want to happen before you have to make the decision.
+
+> Putting this motivational dynamic in mathematical terms, Ainslie says that we "spontaneously discount the value of expected events in a curve where value is divided approximately by expected delay."
+Page 185
+
+Basically the want to have something now overcome the valuing of the feature. We will take 100 dollars now rather then 200 in a year. However 100 in a month vs 200 in a year and people will start changing their minds a bit.
+
+## Chapter 13: Health: Energy Goes Where Attention Flows
+
+ > As Kabat-Zinn observes, "When you feel more comfortable in your own skin, lots of things, -- outlook, diet, exercise, relationship --- may also change, and all of them have profound effects on your health. When you drop in to your own experience and body, you get a sense of belonging, fitting in, coming to terms with things as they are: That's what healing is."
+>page 196
+
+Lot and lots of content in that statement. Specifically the "drop in to your own experience and body" to me is incredible important. That is a summary of being present in the here and now. If your in it and not thinking else where all the worries about external and internal expectations fade and life is better. Both mentally and physically.  Profoundly simple to say harder to do. Thought one needs to try.
+
+> Kabat-Zinn "Meditation is less about the target than about a state of pure attention that occurs before thinking. A knowing that's more like intuition than cognition."
+page 192
+
+It's nice to heard these descriptions that don't confine the process of meditation or mindfullness. It allow the state to be something to reach for in all the actions. Pure presences of being in whatever your doing.
+
+> "Zorba can dance in the present moment, because he knows that stress --- the full catastrophe -- is not good or bad, but just part of the way of life is. You're in it, so how can you best relate to what's happening, both for yourself and for any others involved? "
+page 193
+
+Showing judgement breaks you out of the present. The idea is that good or bad from the outside if you stay involved in what's happening you can build value from the experience. Find a place within don't infer about it from the outside.
+
+## Chapter 14: Meaning: Attending to What Matters Most
+This is a great concluding chapter to a great book!
+
+> "At the same time, I think there's a reality beneath what we can see with our eyes and experience with our senses. There's ultimately something mysterious and unmaterialistic about the world. something large and awe-inspiring and eternal and unknowable."
+Page 204 - Jonathan Franzen
+
+Two initial thoughts on this. One that eternal mystical thing could emergent properties of systems!
+Secondly this is basically a definition of spirituality. A notion that is independent but often associated with religion.
+
+> Asked to define attention, Choegyal says, "It means mindfulness --- just the mind being simple. Whether in meditation or daily life, we try to pay attention to just being present, rather then being caught between hope and fear, which is the mind's usual condition."
+page 206
+
+Love it! Caught between hope and fear. Focus on what happened or what to come! It's a strange defination of attention because it implies that the work of future can not be attended too. Maybe that's taking it to far, still as a defining of mindfulness its gorgeous.
+
+>Seen from this perspective, our customary focus on things temporal and material is the major cause of human misery, because it distracts us from attending to timeless, formless true reality.
+page 209
+
+Continued reinforcement of the idea that being present is the key to happiness. I wrote it done because it intones the idea that things and dreams are not going to make you happy. why do we work so hard for them.
+
+> "It's virtually impossible to be happy with good relationships," says Peterson, "That comes out in the research again and again." it's often said that virtue is its own reward, but love and its corollary of kindness confer other major benefits on those who practice them. Whether or not the recipients gain, says Peterson, "we know that the does do! They're happier and healthier and live long than people who pursue all the latest toys but never have enough."
+page 212
+
+I'm being to see my own biases in my quote selection. Materialism will not make you happy. Community and relationships will. Particularly relationships that allow you to give.
+
+> As Albert Einstein put it, "There are two ways to live your life. One is as though nothing is a mitacle. The other is as though everything is a miracle."
+page 214
+
+This is a  direct statement about the role of spirituality. Do you see the mystery in the world or is it something that is well understood.
+
+> The point, says Bryant, is that " you see what you look for. And you can train yourself to attend to the joy out there waiting to be had, instead of passively waiting for it to come to you."  
+page 216
+
+We have the power to obtain the reality we want by focusing on life from the top down. Use our minds as tools for well being rather then let them be influence by those around us.
+
+# Concluding
+> If I tense up over a big decision, I remember the fortune-cookie rule: nothing is as important as I think it is when I'm focusing on it.
 
 ### extract
 Just want to get this out.
@@ -150,11 +266,11 @@ I've been hooked on the systems thinking process for some time now but I still s
 Anywhere there was something I read today in my systems view of life book that stood out to me.
 Part of the process or the structure.
 that is not a quote and frankly I'm not sure if the works process and structure are correct. But they seem to work.
-In the cartisian method of thought which is still the dominate one. Everything is attempted to be view in isolation. Sysytems view of life has been going though and providing example of how other are starting to break from that method of thought and take on the whole is greater then the sum of its parts idea.
+In the Cartesian method of thought which is still the dominate one. Everything is attempted to be view in isolation. Systems view of life has been going though and providing example of how other are starting to break from that method of thought and take on the whole is greater then the sum of its parts idea.
 This idea of process and structure struck me as a core means of explaining that idea.
 No feature stands alone, it is either a part of a structure or a part of a process. If it is a structure or a function depends mostly on what scale the feature is viewed at.
 This does meld a bit with the form or function idea that is common speak, thought I not sure how closely tied that is to either the cartisian or systems philosophy.
-Defining all features as either a structure or function removes the ability to speak of individuals. With out hte individual everything is a system. This seems like a core concept. We wrok with individuals because they are easier to measure the system they are a part of. This allows the emergent properties of systems to have a place even though they don't have a part of a structure. They are not a stand alone individual but a process of a stucture  or a process of a process. This train of thought inherently pushes attention outward toward the more complex features.
+Defining all features as either a structure or function removes the ability to speak of individuals. With out hte individual everything is a system. This seems like a core concept. We work with individuals because they are easier to measure the system they are a part of. This allows the emergent properties of systems to have a place even though they don't have a part of a structure. They are not a stand alone individual but a process of a structure  or a process of a process. This train of thought inherently pushes attention outward toward the more complex features.
 Process and Structure
 Structure and process
 That is all there is.

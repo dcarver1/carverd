@@ -441,7 +441,6 @@ library(raster)
  neighborhoods <- spTransform(neighborhoods, proj4string(nyc_tracts))
 ```
 It's difficult to join data to spatial features, though there are some methods
-
 nice base R functions for checking for duplicates and full matches
 ```r
 # Check for duplicates in nyc_tracts
