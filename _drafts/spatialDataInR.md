@@ -643,3 +643,550 @@ plot(manhattan)
 # Plot the manhattan raster as an image
 plotRGB(manhattan)
 ```
+
+## 19/1/1
+Working with projections
+
+
+Rasters and SF packages have option for creating transformation.
+
+```r
+# Determine the CRS for the neighborhoods and trees vector objects
+st_crs(neighborhoods)
+st_crs(trees)
+
+# Assign the CRS to trees
+crs_1 <- "+proj=longlat +ellps=WGS84 +no_defs"
+st_crs(trees) <- crs_1
+
+# Determine the CRS for the canopy and manhattan rasters
+crs(canopy)
+crs(manhattan)
+
+# Assign the CRS to manhattan
+crs_2 <- "+proj=utm +zone=18 +ellps=GRS80 +datum=NAD83 +units=m +no_defs"
+crs(manhattan) <- crs_2
+```
+Projecting rasters
+using the transforamtion to change projections
+```r
+# Get the CRS from the canopy object
+the_crs <- crs(canopy, asText = TRUE)
+
+# Project trees to match the CRS of canopy
+trees_crs <- st_transform(trees, crs = the_crs)
+
+# Project neighborhoods to match the CRS of canopy
+neighborhoods_crs <- st_transform(neighborhoods, crs = the_crs)
+
+# Project manhattan to match the CRS of canopy
+manhattan_crs <- projectRaster(manhattan, crs = the_crs, method = "ngb")
+
+# Look at the CRS to see if they match
+st_crs(trees_crs)
+st_crs(neighborhoods_crs)
+crs(manhattan_crs)
+```
+
+Ploting multiple features : use add =TRUE and run both lines at the same time
+
+You need to use the right library for vector(st) and raster(raster)
+```r
+# Plot canopy and neighborhoods (run both lines together)
+# Do you see the neighborhoods?
+plot(canopy)
+plot(neighborhoods, add = TRUE)
+
+# See if canopy and neighborhoods share a CRS
+st_crs(neighborhoods)
+crs(canopy)
+
+# Save the CRS of the canopy layer
+the_crs <- crs(canopy, asText = TRUE)
+
+# Transform the neighborhoods CRS to match canopy
+neighborhoods_crs <- st_transform(neighborhoods, crs = the_crs)
+
+# Re-run plotting code (run both lines together)
+# Do the neighborhoods show up now?
+plot(canopy)
+plot(neighborhoods_crs, add = TRUE)
+
+# Simply run the tmap code
+tm_shape(canopy) +
+    tm_rgb() +
+    tm_shape(neighborhoods_crs) +
+    tm_polygons(alpha = 0.5)
+
+```
+SF and DPLYR
+
+
+sf store data as a dataframe within the spatial object.
+You cvan use dplyr function on spatial objects
+
+sf allows you to remove geometry from features if only the spatial data is needed.
+
+```r
+# Create a data frame of counts by species
+species_counts <- count(trees, species)
+
+# Arrange in descending order
+species_counts_desc <- arrange(species_counts, desc(n))
+
+# Use head to see if the geometry column is in the data frame
+head(species_counts_desc)
+
+# Drop the geometry column
+species_no_geometry <- st_set_geometry(species_counts_desc, NULL)
+
+# Confirm the geometry column has been dropped
+head(species_no_geometry)
+```
+
+Important example !!!
+
+Joining spatial data with dplyr
+
+inner join with various column names
+
+```r
+# Limit to the fields boro_name, county_fip and boro_code
+boro <- select(neighborhoods, boro_name, county_fip, boro_code)
+
+# Drop the geometry column
+boro_no_geometry <- st_set_geometry(boro, NULL)
+
+# Limit to distinct records
+boro_distinct <- distinct(boro_no_geometry)
+
+# Join the county detail into the trees object
+trees_with_county <- inner_join(trees, boro_distinct, by = c("boroname" = "boro_name"))
+
+# Confirm the new fields county_fip and boro_code exist
+head(trees_with_county)
+```
+
+Simplifying geometrys
+
+measuring points with plyr : object_size
+
+```r
+# Plot the neighborhoods geometry
+plot(st_geometry(neighborhoods), col = "grey")
+
+# Measure the size of the neighborhoods object
+object_size(neighborhoods)
+
+# Compute the number of vertices in the neighborhoods object
+pts_neighborhoods <- st_cast(neighborhoods$geometry, "MULTIPOINT")
+cnt_neighborhoods <- sapply(pts_neighborhoods, length)
+sum(cnt_neighborhoods)
+
+# Simplify the neighborhoods object
+neighborhoods_simple <- st_simplify(neighborhoods,
+                                    preserveTopology = TRUE,
+                                    dTolerance = 100)
+
+# Measure the size of the neighborhoods_simple object
+object_size(neighborhoods_simple)
+
+# Compute the number of vertices in the neighborhoods_simple object
+pts_neighborhoods_simple <- st_cast(neighborhoods_simple$geometry, "MULTIPOINT")
+cnt_neighborhoods_simple <- sapply(pts_neighborhoods_simple, length)
+sum(cnt_neighborhoods_simple)
+
+# Plot the neighborhoods_simple object geometry
+plot(st_geometry(neighborhoods_simple), col = "grey")
+```
+
+sp is the earlier sptail data package
+sf is replacing it
+this is how you convert between the two
+
+```r
+# Read in the trees data
+trees <- st_read("trees.shp")
+
+# Convert to Spatial class
+trees_sp <- as(trees, Class = "Spatial")
+
+# Confirm conversion, should be "SpatialPointsDataFrame"
+class(trees_sp)
+
+# Convert back to sf
+trees_sf <- st_as_sf(trees_sp)
+
+# Confirm conversion
+class(trees_sf)
+```
+
+writing out data as csvs
+
+```r
+# Read in the CSV
+trees <- read.csv("trees.csv")
+
+# Convert the data frame to an sf object
+trees_sf <- st_as_sf(trees, coords = c("longitude","latitude"), crs = 4326)
+
+# Plot the geometry of the points
+plot(st_geometry(trees_sf))
+
+# Write the file out with coordinates
+st_write(trees_sf, "new_trees.csv",  layer_options = "GEOMETRY=AS_XY", delete_dsn = TRUE)
+
+# Read in the file you just created and check coordinates
+new_trees <- read.csv("new_trees.csv")
+head(new_trees)
+```
+
+raster data
+
+downsampling with aggergate
+
+res() finding the resolution of the raster
+
+```r
+# Read in the canopy layer
+canopy <- raster("canopy.tif")
+
+# Plot the canopy raster
+plot(canopy)
+
+# Determine the raster resolution
+res(canopy)
+
+# Determine the number of cells
+ncell(canopy)
+
+# Aggregate the raster
+canopy_small <- aggregate(canopy, fact = 10)
+
+# Plot the new canopy layer
+plot(canopy_small)
+
+# Determine the new raster resolution
+res(canopy_small)
+
+# Determine the number of cells in the new raster
+ncell(canopy_small)
+```
+
+reclassify,
+dont quite fully grasp this yet
+
+basically define the reclassifcation aspect later
+
+```r
+# Plot the canopy layer to see the values above 100
+plot(canopy)
+
+# Set up the matrix
+vals <- cbind(100, 300, NA)
+
+# Reclassify
+canopy_reclass <- reclassify(canopy, rcl = vals)
+
+# Plot again and confirm that the legend stops at 100
+plot(canopy_reclass)
+```
+
+
+### 19/1/2
+creating spatil object
+projecting
+transformation
+buffer
+plot mutile features
+
+```r
+# Review df
+df
+
+# Convert the data frame to an sf object             
+df_sf <- st_as_sf(df, coords = c("longitude", "latitude"), crs = 4326)
+
+# Transform the points to match the manhattan CRS
+df_crs <- st_transform(df_sf, crs = crs(manhattan, asText = TRUE))
+
+# Buffer the points
+df_buf <- st_buffer(df_crs, dist = 1000)
+
+# Plot the manhattan image (it is multi-band)
+plotRGB(manhattan)
+plot(st_geometry(df_buf), col = "firebrick", add = TRUE)
+plot(st_geometry(df_crs), pch = 16, add = TRUE)
+```
+
+transform
+find centroid
+map two features
+
+```r
+# Read in the neighborhods shapefile
+neighborhoods <- st_read("neighborhoods.shp")
+
+# Project neighborhoods to match manhattan
+neighborhoods_tf <- st_transform(neighborhoods, crs = 32618)
+
+# Compute the neighborhood centroids
+centroids <- st_centroid(neighborhoods_tf)
+
+# Plot the neighborhood geometry
+plot(st_geometry(neighborhoods_tf), col = "grey", border = "white")
+plot(centroids, pch = 16, col = "firebrick", add = TRUE)
+```
+
+
+Bounding box
+Bounding coodinates
+
+
+```r
+# Plot the neighborhoods and beech trees
+plot(st_geometry(neighborhoods), col = "grey", border = "white")
+plot(beech, add = TRUE, pch = 16, col = "forestgreen")
+
+# Compute the coordinates of the bounding box
+st_bbox(beech)
+
+# Create a bounding box polygon
+beech_box <- st_make_grid(beech, n = 1)
+
+# Plot the neighborhoods, add the beech trees and add the new box
+plot(st_geometry(neighborhoods), col = "grey", border = "white")
+plot(beech, add = TRUE, pch = 16, col = "forestgreen")
+plot(beech_box, add = TRUE)
+```
+Buffer points
+st_union : effectively a desolve. They must be a mutli feature object to work
+
+```r
+# Buffer the beech trees by 3000
+beech_buffer <- st_buffer(beech, 3000)
+
+# Limit the object to just geometry
+beech_buffers <- st_geometry(beech_buffer)
+
+# Compute the number of features in beech_buffer
+length(beech_buffers)
+
+# Plot the tree buffers
+plot(beech_buffers)
+
+# Dissolve the buffers
+beech_buf_union <- st_union(beech_buffers)
+
+# Compute the number of features in beech_buf_union
+length(beech_buf_union)
+
+# Plot the dissolved buffers
+plot(beech_buf_union)
+```
+
+convex hull
+needs to a single object to work
+use st_union to achomplish this.
+
+```r
+# Look at the data frame to see the type of geometry
+head(beech)
+
+# Convert the points to a single multi-point
+beech1 <- st_union(beech)
+
+# Look at the data frame to see the type of geometry
+head(beech1)
+
+# Confirm that we went from 17 features to 1 feature
+length(beech)
+length(beech1)
+
+# Compute the tight bounding box
+beech_hull <- st_convex_hull(beech1)
+
+# Plot the points together with the hull
+plot(beech_hull, col = "red")
+plot(beech1, add = TRUE)
+```
+
+create an SF object from a dataframe
+apply a spatial join
+st_join
+
+```r
+# Plot the beech on top of the neighborhoods
+plot(st_geometry(neighborhoods))
+plot(beech, add = TRUE, pch = 16, col = "red")
+
+# Determine whether beech has class data.frame
+class(beech)
+
+# Convert the beech geometry to a sf data frame
+beech_df <- st_sf(beech)
+
+# Confirm that beech now has the data.frame class
+class(beech_df)
+
+# Join the beech trees with the neighborhoods
+beech_neigh <- st_join(beech_df, neighborhoods)
+
+# Confirm that beech_neigh has the neighborhood information
+head(beech_neigh)
+```
+More spatial joins
+
+st_intersect : within or cross boundaries
+st_contains: found within the object
+st_intersection: essentailly a clip function
+
+Shoulduse these to replace existing SP fuctions in AICHI
+
+```r
+# Identify neighborhoods that intersect with the buffer
+neighborhoods_int <- st_intersects(buf, neighborhoods)
+
+# Identify neighborhoods contained by the buffer
+neighborhoods_cont <- st_contains(buf, neighborhoods)
+
+# Get the indexes of which neighborhoods intersect
+# and are contained by the buffer
+int <- neighborhoods_int[[1]]
+cont <- neighborhoods_cont[[1]]
+
+# Get the names of the names of neighborhoods in buffer
+neighborhoods$ntaname[int]
+
+# Clip the neighborhood layer by the buffer (ignore the warning)
+neighborhoods_clip <- st_intersection(buf, neighborhoods)
+
+# Plot the geometry of the clipped neighborhoods
+plot(st_geometry(neighborhoods_clip), col = "red")
+plot(neighborhoods[cont,], add = TRUE, col = "yellow")
+```
+
+calculate distance from a point
+determine the nearest point
+indexing the features
+
+which.min() : this a cool feature fro finding the minimun in a list.
+
+```r
+
+# Read in the parks object
+parks <- st_read("parks.shp")
+
+# Test whether the CRS match
+st_crs(empire_state) == st_crs(parks)
+
+# Project parks to match empire state
+parks_es <- st_transform(parks, crs = st_crs(empire_state))
+
+# Compute the distance between empire_state and parks_es
+d <- st_distance(empire_state, parks_es)
+
+# Take a quick look at the result
+head(d)
+
+# Find the index of the nearest park
+nearest <- which.min(d)
+
+# Identify the park that is nearest
+parks_es[nearest, ]
+```
+
+raster overlay tools
+raster library only works with the sp objects
+use
+as(object, "spatial")
+
+lots of functions
+calculate area
+unclass(): remove the class of the object
+filtering based on area
+masking by a sp object
+
+```r
+
+# Project parks to match canopy
+parks_cp <- st_transform(parks, crs = crs(canopy, asText = TRUE))
+
+# Compute the area of the parks
+areas <- st_area(parks_cp)
+
+# Filter to parks with areas > 30000
+parks_big <- filter(parks_cp, unclass(areas) > 30000)
+
+# Plot the canopy raster
+plot(canopy)
+
+# Plot the geometry of parks_big
+plot(st_geometry(parks_big))
+
+# Convert parks to a Spatial object
+parks_sp <- as(parks_big, "Spatial")
+
+# Mask the canopy layer with parks_sp and save as canopy_mask
+canopy_mask <- mask(canopy, mask = parks_sp)
+
+# Plot canopy_mask -- this is a raster!
+plot(canopy_mask
+```
+crop function
+crop remove all values outside of the bounding box area
+
+```r
+# Convert the parks_big to a Spatial object
+parks_sp <- as(parks_big, "Spatial")
+
+# Mask the canopy with the large parks
+canopy_mask <- mask(canopy, mask = parks_sp)
+
+# Plot the mask
+plot(canopy_mask)
+
+# Crop canopy with parks_sp
+canopy_crop <- crop(canopy, parks_sp)
+
+# Plot the cropped version and compare
+plot(canopy_crop)
+```
+extract values from rasters
+points will be extracted as single values
+polygons: all values or a function can be passed as a reducer
+
+```r
+# Project the landmarks to match canopy
+landmarks_cp <- st_transform(landmarks, crs = crs(canopy, asText = TRUE))
+
+# Convert the landmarks to a Spatial object
+landmarks_sp <- as(landmarks_cp, "Spatial")
+
+# Extract the canopy values at the landmarks
+landmarks_ex <- extract(canopy, landmarks_sp)
+
+# Look at the landmarks and extraction results
+landmarks_cp
+landmarks_ex
+```
+
+overlay: mechinism for conductiong raster math.
+You can pass a function so you can generate conditional statemnest
+
+```r
+# Read in the canopy and impervious layer
+canopy <- raster("canopy.tif")
+impervious <- raster("impervious.tif")
+
+# Function f with 2 arguments and the raster math code
+f <- function(rast1, rast2) {
+  rast1 < 20 & rast2 > 80
+}
+
+# Do the overlay using f as fun
+canopy_imperv_overlay <- overlay(canopy, impervious, fun = f)
+
+# Plot the result (low tree canopy and high impervious areas)
+plot(canopy_imperv_overlay)
+```
