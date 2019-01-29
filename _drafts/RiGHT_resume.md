@@ -27,7 +27,7 @@ GPA:3.86/4
 ### B.S. Geology & B.A. Physical Geography
 
 Adams State University -
-Graduation: 05/2012 -
+Graduation: Adams State University -
 GPA: 3.70/4
 
 
@@ -53,7 +53,7 @@ June 2017 to September 2018
 
 ### United States Geological Survey; National Geospatial Technical Operations Center
 Denver, Colorado -
-May 2016 to June 2017
+May 2016 to June 2017jes
 
 **Geography/GIS Support**
 
