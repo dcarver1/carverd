@@ -28,3 +28,7 @@ title: "Quotes"
 ### Albert Einstein
 #### Einstein, 1949, p.5
  > The fairest thing we can experience is the mysterious. It is the fundamental emotion which stands at the cradle of true art and true science... the mystery of the eternity of life, and the inkling of the marvelous structure of reality, together with the single-hearted endeavor to comprehend a porption, be it ever so tiny, of the reason that manifests itself in nature.
+
+### Leonard Bernstein
+#### Unknown source
+> To achieve great things, two things are needed: a plan, and not quite enough time. 

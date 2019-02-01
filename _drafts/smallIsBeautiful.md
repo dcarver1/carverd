@@ -145,3 +145,180 @@ This is a great comparison on just exactly what a non renewable resource is. The
 page 65
 
 Again just defining the stakes and what our modern economy is pushing us to.
+
+
+## Chapter 5: A Question of Size
+
+Timely chapter that gets at the relationship between individual motivation and governance
+This is the first time in the book where it’s age has really started to so. The idea of a footloose population that moves from place to place is spoken of an a potentially troublesome idea because it reduces the sense of regionalism which move subsequent ideas are founded. The amount to which people are footloose today seems to extend beyond the believed potential of the author.
+
+
+> In the affairs of men, there always appears to be a need for at least two things simultaneously, which, on the face of it, seem to be incompatible and to exclude one another. We always need both freedom and order. We need the freedom of lots and lots of small, autonomous units and m at the same time, the orderliness of larger-scale, possibly global, unity and coordination. When it comes to action, we obviously need small units, because action is a highly personal affair, and one cannot be in touch with more than a very limited number of persons at an one time. But when it comes to the world of ideas, to principles or to ethics, to the indivisibility of peace and also ecology, we need to recognise the unity of mankind and base our actions upon this recognition.
+
+This frames the challenge of size well. We action at the personal level but require the stability of higher levels of governance. What’s hard is that things that affect you personal are easy to recognize and workwith. Those important structure that don’t make it into you day to day life are still important one just has to make an effort to realize so. Making an effort can a difficult thing for people to do and a very challenging thing to expect.
+
+> There is no such thing as the viability of states or of nations, there is only a problem of viability of people: people, actual persons like you and me, are viable when they can stand on their own feet and earn their own keep. You do not make non-viable people viable by putting large numbers of them into aonehuge community, and you do not make viablke people non-viable by spliting a large community into a number of smaller, more intimate, more coherent and more manageable groups. All this is perfectly obvious and there is absolutely nothing to argue about.
+
+I love this because it states the being viable (which I also associate with having some form of success) is something that should be done at the perosnal level. Governence does not allow and prevent it from happening. We don’t have to continue to build into the cerntalized power of citiesbased on the false notion that it promotes well being. It’s about the individual.
+
+> But it does make a lot of difference if a poor community or province finds itself politically tied to or ruled by a rich community or province. Why? Because, in a mobile, footloose society the law of disequilibrium is infinitely stronger than the so-called law of equilibrium. Nothing succeeds like success and nothing stagnatwes like stagnation. The successful province drains the life out of the unsuccessful, and without protection against the strong, the weak have no chance; either they remain weak or they must migrate and join the strong; they cannot effectively help themselves.
+
+An application of the adage, it takes money to make money, to social structures at a larger scale. This is something that I wish people talked about more. People in places that are struggling to make it are much more affected by the actions of those in place with the power and viability.  
+
+> A most important problem in the second half of the twentieth century is the geographic distribution of population, the question of “regionalism.” But regionalism, not in the sense of combining a lot of states into free-trade systems, but in opposite sense of develop all the regions within each country.
+
+Tying things back to the quote above. Distribution of power and the opportunity for the viability of the individual is what will allow the success of all areas of a country.
+
+> What is the meaning of democracy, freedom, human dignity, standard of living, self-realisation, fulfilment? It is a matter of goods, or of people? Of course it is a matter of people. But people can be themselves only in small comprehensible groups. Therefore we must learn to think in terms of an articulated structure that can cope with a multiplicity of small-scale units. If economic thinking cannot grasp this it is useless. If it cannot get beyond its vast abstractions, the national income,the rate of growth, capital/output ratio, input-output analysis, labour mobility, capital accumulation; if it cannot get beyond all this and make contact with the human realities of poverty, frustration, alienation, despair, breakdown, crime, escapism, stress, congestion, ugliness, and spiritual death, then let us scrap economics and start afresh.
+
+I just love the passion in this writing. This is a call to stop trying to fit our lives to a system that does not capture humanity. Instead, forget that system and work on generating one that can.
+
+# Part II Resources
+
+## The Greatest Resource - Education
+
+Having spent a lot of time working in the field of education and thinking about the challenges that are discussed about it, I was pleasantly surprised when this chapter went in a entirely different direction. Education, for the author, is the systems that instills a sense of place and value for the individual within the world.  
+
+> The classical statement on this point was delivered by Sir Charles(now Lord) Snow in his Rede Lecture some years ago: “To say that we must educate ourselves or perish, is a little more melodramatic than the facts warrant. To say, we have to educate ourselves or watch a steep decline in our lifetime is about right.”
+
+Education has the potential to help create viability of the individual. Finding what it is we want to be educated on and seeking that out is a means of taking initiative of our own well being. We’re not doomed if we don’t we will just watch as our place and positions in society decline.
+
+ > The essence of education, I suggested, is the transmission of values, but values do not help us to pick our way through life unless they have become our own, a part, so to say, of our mental make-up. This means that they are more than mere formulae or dogmatic assertions: that we think feel with them, that they are the very instruments through which we look at, interpret, and experience the world. When we think, we do not just think: we think with ideas. Our mind is not a black, a *tabula rasa*. When we begin to think we can do so only because our mind is already filled with all sorts of ideas *with which* to think.
+
+Values define the framework from what we make decision and the role of education is to instill those values so they become an ingrained part of a person life.
+
+> The way in which we experience and interpret the world obviously depends very much indeed on the kind of ideas that fill our minds. If they are mainly small, weak, superficial, and incoherent, life will appear insipid, uninteresting, petty and chaotic. It is difficult to bear the resultant feeling of emptiness, and the vacuum of our minds may only too easily be filled by some big, fantastic notion - political or otherwise - which suddenly seems to illumine everything and to give meaning and purpose to our existence, it needs no emphasis that herein lies one of the great dangers of our time.  
+
+This connects directly to the ideas spoken to in Winifred Gallagher book Rapt. We get to decide where to put our attention. How effective we are at the this and depth of the subject that we commit to go a long way inshaping our own well being. With out the ability to define our own focus we allow our interest and well being to be defined by others.
+
+> Science cannot produce ideas by which we could live. Even the greatest ideas of science are nothing more than working hypotheses, useful for purposes of special research but completely inapplicable to the conduct of our lives or the interpretation of the world. If, therefore, a man seeks education because he feels estranged and bewildered, because his life seems to him empty and meaningless, he cannot get what he is seeking by studying any of the natural science, i.e. by acquiring “know-how.” That study has its own value which I am not inclined to belittle; it tells him a great deal about how things work in nature or in engineering; but it tells him nothing about the meaning of life and can in no way cure his estrangement and secret despair.
+
+While not tossing out the value of natural science that sentiment is rather clear, education can not be about know-how because that does not provide an sense of value and therefore fails the primary goal of education.
+
+>”Shall I teach youthe meaning of knowledge?” said Confucius. “When you know a thing to recognise that you know it, and when you do not, to know that you do not know - that is knowledge.”
+
+This was defined as consciously incompetent. Knowing what you don’t know.  Part of my training in outdoor education was self assessment. Really nice to hear it come up as a confucius quote.
+
+
+> The problems of education are merely reflections of the deepest problems of our are. They cannot be solved by organization, administration, or expenditure of money, even though the importance of all theses is not denied. We are suffering from a metaphysical disease, and the cure must therefore be metaphysical. Education which fails to clarify our central convictions that are mere training or indulgence. For it is out central convictions that are in disorder and as long as the present anti-metaphysical temper persists, the disorder will grow worse. Education,, far from running as man’s greatest resource, will then be an agent of destruction in accordance with the principle *corruotio optimi pessima*.
+
+Having read a few chapters ahead at the time of writing this I can see that this really sets the tone for whats to come. Metaphysical problems, or lack of metaphysical beliefs is whats allowing the economic dogma to gain ground. The current educational system does not provide meaning or purpose to life and the authors view is that if it did only that it would vast more successful then it currently is. I’m still going back and forth with the idea. What really stand out is that without central convictions, we’re guided by something else. That idea alone explains alot.
+
+## 2 The Proper Use of Land
+
+The author starts to pull in a lot of biblical statements regarding land use. I really like this because it ties the issue to a large and longer lived cultural identity. It’s clear from the previous chapters that Schumacher is not looking for a technical solution here but a spiritual or metaphysical rebalance. You can’t go to science for that.
+
+> The “Ecological problem,” it seems, is not as new as it is frequently made out to be. Yet there are two decisive differences: the earth is now much more densely populated than it was in earlier times and there are, generally speaking, no new lands to move to; and the rate of change has enormously accelerated, particularly during the last quarter of a century.
+All the same, it is still the dominant belief today that, whatever may have happened with earlier civilzations , our own modern Western civilization has emancipated itself from dependence upon nature.
+Page 110
+
+To big points in this. 1) We can still use history to understand the present. 2) Civilizations collapse due to an inability for the natural environment to meet their needs. The idea that we are not part of natural system is a common believe, but not in the manner that we are not part of the Earth ( for most people would believe that we are indeed on it). It is an idea that our technological advancements have provided us alternatives to the systems the Earth provides. While this is true in areas such as entertainment, the approached is applied as a blanket across all realms of thought to protect us with ignorance from the real challenges we are creating.
+
+*Noblesse obilge* the inferred responsibility of privileged people to act with generosity and nobility toward those less privileged.
+
+This term comes up a lot. Mostly in reference to humans relationship to animals. The idea is such that how you treat those less fortunate defines how you would treat a peer.
+
+There is a lot of effort put into explain how economist view man as a producer and a consumer. Basically different laws apply to both although that are the same person. Anything that falls in the realm of production fits into the economic calculus. Thing that would be uneconomical at the production level are generally sought after as standard of a high standard of living on the consumption side. I’m not entirely clear on this process but much like the idea of natural capitial this is vernacular that is used and discussed by economist.
+
+>In other words, there can be no doubt that the fundamental “principles” of agriculture and if industry, far from being compatible with each other, are in opposition. Real life consists of the tensions produced by the incompatibility of opposites, each of which is needed, and just as life would be meaningless without industry. It remains true, however, that agriculture is primary, whereas industry is secondary, which means that human life can continue without industry, whereas it cannot continue without agriculture. Human life at the level of civilization, however, demands the *balance* of the two principles, and this balance is ineluctably destroyed when people fail to appreciate the *essential difference between agriculture and industry - a difference as great as that between life and death - and attempt to treat agriculture as just another industry.
+Page 118
+
+This highly binary division between agriculture and industry seems to stem from the metaphysical value that the author places on agriculture. Growing food at a human scale is the mechanism that brings people minds and identities back to the Earth. It’s a process for providing that metaphysical support and understanding of the systems on which we rely.
+
+> No serious exception can be taken to theses statements if we adopt - as the experts have adopted - the metaphysical position of the crudest materialism, for which money cost and money incomes are the ultimate criteria and determinants of human action, *and the living world has no significance beyond that of a quarry for exploitation.*
+	On a wider view, however, the land is seen as a priceless asset which it is man’s taks and happiness “to dress and to keep.” We can say that man’s management of the land must be primarily oriented towards three goals - health, beauty, and permanence. The fourth goal - the only one accepted by the experts - productivity, will then be attained almost as a by-product. The crude materialist view sees agriculture as “essentially directed towards food-production.” A wider view sees agriculture as having to fulfill at least three task:
+To keep man in touch with living nature of which he is and remains a highly vulnerable part;
+To humanise and ennoble man’s wider habitat; and
+To bring forth the foodstuffs and other materials which are needed for a becoming life.
+Page 119/120
+
+A big passage that holds a lot. The assumptions built around modern agriculture make sense when they are founded in the constructruct of materialism. I appreciate that Schumacher refers to the metaphysical position of crudest materialism as a means of supporting the importance of a metaphysical reason for living. If you don’t define one yourself you will be strongly influenced by the most prominent one in our culture.
+The three tenets of agriculture are something I can really buy into. Building a space to grow plants give you a deeper connection with the land but it also can feel like your giving back to it. It’s a mutual support. They challenge becomes one of scale. Surely the interaction with the dirt feels much different if feel through a shovel compared to a tractor.
+
+> All this is being done because man-as-producer cannot afford “the luxury of not acting economically,” and therefore cannot produce the very necessary “luxuries” - like health, beauty, and permanence - which man-as-consumer desires more than anything else. It would cost too much; and the richer we become, the less can “afford.”  
+Page 122
+
+The dichotomy of the producer and consumer explained value well. A seemingly self defeating structure.
+
+> In fact, any society can afford to look after its land and keep it healthy and beautiful in perpetuity. There are no technical difficulties and there is no lack of relevant knowledge. There is no need to consult economic experts when the question is one of priorities. We know to much about ecology today to have any excuse for the many abuses that are currently going on in the management of the land, in the management of animals, in food storage, food processing, and in heedless urbanisation. If we permit them, this is not due to poverty, as if we could not afford to stop to stop them; it is due to the fact that, as a society, we have no firm basis of belief in any meta-economic values, and when there is no such belief the economic calculus takes over. This is quite inevitable. How could it be otherwise? Nature, it has been said, abhors a vacuum, and when the available “spiritual space” is not filled by some higher motivation, then it will necessarily be filled by something lower - by the small, mean, calculating attitude to life which is rationalised in the economic calculus.
+Page 123
+
+Here is the summary of the theme that has been building. We know we can get around the environmental concern, but it requires of metaphysical change. A replacement of the crude materialistic ideology with something more balanced and focused. Nothing currently is competing with the world view of accumulation of things and therefore it difficult to not seem the current systems an one and only reality.
+
+## 3 Resources for Industry
+This was not the most impactful chapter. You can tell that Schumacher has a bit of a bone to pick with policy that affected the coal industry in England. It does really drive home the unsustainable use of industry.
+
+> Nor does it require the study of large numbers of commodities, of trends, feedback loops, system dynamics, and so forth, to come to the conclusion *that time is hort.* Maybe it was useful to employ a computer for obtaining results which any intelligent person can reach with the help of a few calculations on the back of an envelope, because the modern world believes in computers and masses of facts, and it abhors simplicity.
+Page 129
+
+This is a message Im really taking to heart. We’re devising more complicated models to explain something that is obvious. We’re supporting the cultural trend to look to date as truth. I don’t know if there is a way around it or something one can do about it but I think it’s something we need to be aware off and address.
+
+> It might be said that energy is for the mechanical world what consciousness is for the human world. If energy fails, everything fails.
+Page 130
+
+Hard to argue with this reality. Our world is defined by energy use. Even the basic foundations of life are built upon engery. I’ve heard somewhere of the idea that energy should be the unit of exchange. You don’t trade in dollars but in energy. There probably more to that idea but just highlights it ubiquitous character.
+
+> It is fashionable today to assume that any figures about the future are better than none. To produce figures about the unknown, the current method is to make a guess about something or other - called an ‘assumption’ - and to derive an estimate from it by subtle calculation. The estimate is then presented as the result of scientific reasoning, something far superior to mere guess work. This is a pernicious practice which can only lead to the most colossal planning errors, because it offers a bogus answer where, in fact, an entrepreneurial judgement is required.
+	The study here under review employs a vast array of arbitrary assumptions, which are then, as it were, put into a calculating machine to produce a “scientific” result. It would have been cheaper, and indeed more honest, simply to assume the results. 1975
+Page 132
+Powerful critique to the potential of future modeling parameters. If you make base level assumptions at the start of the process it is difficult to have the end product stand on anything other than it’s only assumptions.
+
+> It used to be said that O.P.E.C. - the organization of Petroleum Exporting Countries - would never amount to anything, because Arabs could never agree with each other, let alone with non-Arabs; today it is clear that O.P.E.C. is the greatest cartel-monopoly the world has ever seen. It used to be said that the oil exporting countries *depoend* on the oil importing countries just as much as the latter depend of the former; today it is clear that this is based on nothing but wishful thinging, because the need of the oil consumers is so greaet and their demand so inelastic that the oil exporting countries acting in unison, can infact raise their revenues by the simple device of curtailing output. There are still people who say that if oil price rose too much (whatever that may mean) oil would simply price itself out of the market; but it is perfectly obvious that there is no ready substitute for oil to take its place on a quantitatively significant scale, so that oil, in fact, cannot price itself out of the market.
+Page 139
+
+It’s been great getting to read the statements of the past the have only become more true today, nearly 50 years later. It’s not clear to me at the moment but what have fought multiple wars to support the O.P.E.C. countries so they will continue to provide oil. It is the cornerstone of our transportation system which moves stuff around so we can by it. It’s the base unit of crude materialism. It’s a frightening thing to think of that level of dependency at any scale.
+
+> The greatest danger to both is a continuation of rapid growth in oil production and consumption throughout the world. Catastrophic developments on the oil front could be avoided only if the *basic harmony of the long-term interest of both groups of countries*  came to be fully realised and concerted action were taken to stabilise and gradually reduce the annual flow of oil into consumption.
+Page 140
+
+This is an interesting perspective. To avoid the boom bust nature of natural resource extraction the oil companies have an interest in slowing consumption.  I hope that they are that forward looking. This also reminded me of an interpretation of the reduce, reuse, recycle adage. It’s spoken in ranked order of importance. Reduce consumption is the most important thing. We have a hard time with that in general.
+
+### 4 Nuclear Energy - Salvation or Damnation?
+
+It good to hear the perspective of nuclear energy from someone who lived through the nuclear age. In some way the lack of acceptance of nuclear energy is a tribute to the ideas of this text. Not just running ahead with the new process but evaluating it's work and danger to the future. The hope is that the same mindset can be apply to less extreme aspects.
+
+>The religion of economics promotes an idolatry of rapid change, unaffected by the elementary truism that a change which is not an unquestionable improvement is a doubtful blessings. The burden of proof is place on those who take the "ecological viewpoint": unless *they* can produce evidence of marked injury to man, the change will proceed. Common sense, on the contrary, would suggest that the burden of proof should lie on the man who wants to introduce a change; he has to demonstrate that there cannot be any damaging consequences. But this would take too much time, and would therefore be uneconomic. Ecology, indeed, out to be a compulsory subject for all economist, whether professionals or laymen, as this might serve to restore at least a modicum of balance. For ecology holds "that an environment  that an environmental setting developed over millions of years must be considered to have some merit. Anything so complicated as a planet, inhabited by more than a million and a half species of plant and animals, all of them living together in a more or less balanced equilibrium in which they continuously use and re-use the same molecules of the soil and air, cannot be improved by aimless and uninformed tinkering. All changes in a complex mechanism involve some risk and should be undertaken  only after careful study of all the facts available. Changes should be made on a small scale first so as to provide a test before they are widely applied. When information is incomplete, changes should stay close to the actual processes which have in their favor the indisputable evidence of having supported life for a very long time."
+page 142/143
+
+I wrote this for description of ecology and really systems thinking at the end of the day. We should approach changes to existing complex systems with a high degree of caution and respect.
+
+> Discussed nuclear power stations will stand as unsightly monuments to unquiet man's assumption that nothing but tranquility, from now on, stretches before him, or else - that the future counts as nothing compared with the slightest economic gain now.
+page 146
+
+Radio activity as a waste produce last a long time. The idea that these reactors remain present and abandon on the land scape is a good imagery to the point of making decisions for short term gains only.
+
+> At the Fourth National Cancer Conference in America in September 1960, Lester Breslow of the California Stat Department of Public Health reported that tens of thousands of trout in western hatcheries suddenly acquired liver cancers, and continued thus: " Technological changes affecting man's environment are being introduced at such a rapid rate and with so little control that it is a wonder man has thus far escaped the type of cancer epidemic occurring this year among the trout."
+page 150
+
+I've always been curious about how common cancer has been in the past and what the relationship is between technological advancements and cancer. The fact that professional conference for the topic began in the 1950's give some scope of the time line. I just hope it's not something that comes to the surface years from now. We were the cause of the leading killer of people.
+
+> Man cannot live without science and technology any more than he can live against nature. What needs the most careful consideration, however, is the *direction* of scientific research. We cannot leave this to the scientist alone. As Einstein himself said, " almost all scientist are economically completely dependent" and " the number of scientists who possess a sense of social responsibility is so small" that they cannot determine the direction of research.
+page 151
+
+Another critique of science as a whole and a very real one. We need technologicaly development it's just who decides where that development is put is not doing so for moral reasons. This means that scientist are playing a direct role in the future endangerment of our people under the guise of progress.
+
+> No degree of prosperity could justify the accumulation of large amounts of highly toxic substances which nobody knows how to make "safe" and which remain an incalculable danger to the whole creation for historical or even geological ages. To do such a thing is transgression against life itself, transgression infinitely more serious than any crime ever perpetrated by man. The idea that a civilization could sustain itself on the basis of such a transgression is an ethical, spiritual, and metaphysical monstrosity. It means conducting the economic affairs of man as it people really did not matter at all.
+Page 154
+
+The concluding paragraph and a very strong one. This firmly cements the authors ideas about how the present should treat the future.
+
+### 5 Technology with a Human Face
+
+Not as impactful of a chapter for me. Probably because technology is so much part of my life already. A lot has changed on this front over the last 50 yets. Still some good statements that still make sense today.
+
+> What is quite clear is that a way of life that bases itself on materialism, i.e. on permanent, limitless expansionism in a finite environment cannot last long, and that its life expectation is the short the more successfully it pursues its expansionist objectives.
+page 156
+
+A rephrasing of a core and still really unsubstantiated foundation assumption of economic, unlimited growth in a finite system. This only seems like enough to get people to slow, it's good to see it continuously come up.
+
+The author speaks alot about the value of production at the human level. Or need to create things that we understand with our hands. He claims that as technology increases what it really is doing is taking out those base level production jobs. There is a some statistical extrapolation to claim that there on average is only >4% of onces life spent in the time of producion. The claim is that technology should be working to increase not decrease this percentage. To me this can be best exemplified by the different between the work of an artist and a clerk. Our economy support far more clerks then artists. 
+
+> Now, it might be said that this is a romantic, a utopian, vision. True enough. What we have today , in modern industrial society, is not romantic and certainly not utopian, as we have it right here. But it is in very deep trouble and holds no promise of survival. The threefold crisis of which I have spoke will not fo away if we simply carry on as before. It will become worse and end in disaster, until or unless we develop a new life-style which is compatible with the real needs of human nature, with the health of living nature around us, and with the resource endownment of the world.
+page 162
+
+This seems like a little bit of self justificant for why we should continue to dream big and attempt to reach the goals even if they seem far fatched. Strive for something better while knowing it's a long shot. I tend to agree with this. The ideas I've been speaking are easily brushed off as childish and simplistic. Kailee has even been mentioning that it make me sound less intellegent. Still it's how I want to talk about these process. What to what you want don't settle for what has been given.
+
+> In a sense, everybody believes in growth, and rightly so, because growth is an essential feature of life. The whole point, however, is to give to the idea of growth a qualitative determination; for there are always many thing that ought to be growing and many things that ought to be diminishing.
+page 167
+
+I appreciate this because it highlights that most issues are really a matter of framing the processes. We can have growth it's just that we don't need growth in consumption as much as we needs growth in well being.
