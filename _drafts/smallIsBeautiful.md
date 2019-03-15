@@ -1,4 +1,4 @@
----
+highest---
 layout: post
 date:
 categories: perspective
@@ -24,7 +24,7 @@ Their has been a constant push for higher and most inclusive levels of quantific
 
 ### Peace and Permanence
 
-The idea of peace and economic prosperity are spoken of hand and hand. The mordern economic ideology is that if universal prosperity is achieved then peace will follow.
+The idea of peace and economic prosperity are spoken of hand and hand. The modern economic ideology is that if universal prosperity is achieved then peace will follow.
 It is based on the three following assumptions.
 <br>
 *First, that universal prosperity is possible;*
@@ -36,7 +36,7 @@ It is based on the three following assumptions.
 
 In what again reads as a direct rebuttal to this set of assumptions comes the following.
 
-> The question with which to start my investication is obviously this: Is there enough to go road? Immediately we encounter a serious difficulty: What is "enough"? Who can tell us? Certainly not the economist who pursues "economic growth" as the higest of all values, and therefore has no concept of "enough". There are poor societies which have too little; but where is the rich society that says; "Halt! We have enough"? There is none.
+> The question with which to start my investigation is obviously this: Is there enough to go road? Immediately we encounter a serious difficulty: What is "enough"? Who can tell us? Certainly not the economist who pursues "economic growth" as the higest of all values, and therefore has no concept of "enough". There are poor societies which have too little; but where is the rich society that says; "Halt! We have enough"? There is none.
 Page 25
 
 This is expanded upon illustrating that is those who how that most that are pushing the conflict and most significantly effect the rate of change and so called growth. This is illustrated through energy consumption. A primary product that is by and large extract from natural capital.
@@ -87,7 +87,7 @@ page 48
 
 This just got me thinking about the things I would never want to sell. The idea that money value doesn't fit in the realm of the scared or spiritual speak to the importance of spirituality in countering the economic deadening of cultural well being.
 
-> Ever science is beneficial within its proper limits, but becomes evil and destructive as soon as it transgresses them.
+> Every science is beneficial within its proper limits, but becomes evil and destructive as soon as it transgresses them.
 page 49
 
 All sciences are based on theories which contain assumptions and parameters to help define the systems that which they describe. As a practicing scientist you have to know how your work fits into the those underlying theories, because when you step outside of them you move off the foundation on which they were formed. In a sense your making empty statements.
@@ -195,7 +195,7 @@ This connects directly to the ideas spoken to in Winifred Gallagher book Rapt. W
 
 While not tossing out the value of natural science that sentiment is rather clear, education can not be about know-how because that does not provide an sense of value and therefore fails the primary goal of education.
 
->”Shall I teach youthe meaning of knowledge?” said Confucius. “When you know a thing to recognise that you know it, and when you do not, to know that you do not know - that is knowledge.”
+>”Shall I teach you the meaning of knowledge?” said Confucius. “When you know a thing to recognize that you know it, and when you do not, to know that you do not know - that is knowledge.”
 
 This was defined as consciously incompetent. Knowing what you don’t know.  Part of my training in outdoor education was self assessment. Really nice to hear it come up as a confucius quote.
 
@@ -209,7 +209,7 @@ Having read a few chapters ahead at the time of writing this I can see that this
 The author starts to pull in a lot of biblical statements regarding land use. I really like this because it ties the issue to a large and longer lived cultural identity. It’s clear from the previous chapters that Schumacher is not looking for a technical solution here but a spiritual or metaphysical rebalance. You can’t go to science for that.
 
 > The “Ecological problem,” it seems, is not as new as it is frequently made out to be. Yet there are two decisive differences: the earth is now much more densely populated than it was in earlier times and there are, generally speaking, no new lands to move to; and the rate of change has enormously accelerated, particularly during the last quarter of a century.
-All the same, it is still the dominant belief today that, whatever may have happened with earlier civilzations , our own modern Western civilization has emancipated itself from dependence upon nature.
+All the same, it is still the dominant belief today that, whatever may have happened with earlier civilizations , our own modern Western civilization has emancipated itself from dependence upon nature.
 Page 110
 
 To big points in this. 1) We can still use history to understand the present. 2) Civilizations collapse due to an inability for the natural environment to meet their needs. The idea that we are not part of natural system is a common believe, but not in the manner that we are not part of the Earth ( for most people would believe that we are indeed on it). It is an idea that our technological advancements have provided us alternatives to the systems the Earth provides. While this is true in areas such as entertainment, the approached is applied as a blanket across all realms of thought to protect us with ignorance from the real challenges we are creating.
@@ -311,7 +311,7 @@ page 156
 
 A rephrasing of a core and still really unsubstantiated foundation assumption of economic, unlimited growth in a finite system. This only seems like enough to get people to slow, it's good to see it continuously come up.
 
-The author speaks alot about the value of production at the human level. Or need to create things that we understand with our hands. He claims that as technology increases what it really is doing is taking out those base level production jobs. There is a some statistical extrapolation to claim that there on average is only >4% of onces life spent in the time of producion. The claim is that technology should be working to increase not decrease this percentage. To me this can be best exemplified by the different between the work of an artist and a clerk. Our economy support far more clerks then artists. 
+The author speaks alot about the value of production at the human level. Or need to create things that we understand with our hands. He claims that as technology increases what it really is doing is taking out those base level production jobs. There is a some statistical extrapolation to claim that there on average is only >4% of onces life spent in the time of producion. The claim is that technology should be working to increase not decrease this percentage. To me this can be best exemplified by the different between the work of an artist and a clerk. Our economy support far more clerks then artists.
 
 > Now, it might be said that this is a romantic, a utopian, vision. True enough. What we have today , in modern industrial society, is not romantic and certainly not utopian, as we have it right here. But it is in very deep trouble and holds no promise of survival. The threefold crisis of which I have spoke will not fo away if we simply carry on as before. It will become worse and end in disaster, until or unless we develop a new life-style which is compatible with the real needs of human nature, with the health of living nature around us, and with the resource endownment of the world.
 page 162
@@ -322,3 +322,16 @@ This seems like a little bit of self justificant for why we should continue to d
 page 167
 
 I appreciate this because it highlights that most issues are really a matter of framing the processes. We can have growth it's just that we don't need growth in consumption as much as we needs growth in well being.
+
+
+
+# Book Review.
+This is one of the most thought-provoking books I have ever read. Having been published in the 1970s it seems that the messages within it have grown only more important over time. I appreciate the author's willingness to make clear and potent statements about how or why a process is happening. These statements fill paragraphs within each chapter and provide fuel for understanding the significances of the central tenants of Small is Beautiful. While I know very little about the author it would seem that he could easily rally a crowd with his words.  
+
+> "The way in which we experience and interpret the world obviously depends very much indeed on the kind of ideas that fill our minds. If they are mainly small, weak, superficial, and incoherent, life will appear insipid, uninteresting, petty and chaotic. It is difficult to bear the resultant feeling of emptiness, and the vacuum of our minds may only too easily be filled by some big, fantastic notion - political or otherwise - which suddenly seems to illumine everything and to give meaning and purpose to our existence, it needs no emphasis that herein lies one of the great dangers of our time."  
+
+I quote this directly from the book because it captures a core idea that is present throughout the work. What is the goal and vision of the person and of their culture? Many challenges we face as a society today come from our reliance on economics to provide that vision. While this will differ for each person, at the institutional scale it is not hard to see how much we weight making money compared with other harder to measure aspects the contribute to the quality of life such as peace and permanence. The other component of this quote that struck me is that I find that I may be using this work as my own "big, fantastic notion - political or otherwise - which suddenly seems to illumine everything". I realize this but I don't feel bad about it. This book is partly a critic of components of the underlying driver of the modern world and so it has some far-reaching effects.
+
+While it is a powerful book, I do not find it a particularly easy book to engage with. The content of the book is stretched pretty wide and certain examples didn't hold my attention. I never had the urge to put it down and stop reading but it does mean I will be selective whom I would recommend this book too. Many of those harder to read chapters seemed to be written as the authors attempt to put out his ideas on an ongoing argument at the time. I do not really know.
+
+What I loved about many of the notions of this book is that they don't line up with modern political ideology. The idea of regionalism is core, and with all the arguments the feature of scale of interaction is key. This generally implies a smaller centralized governing structure. It is not an attempt to abandon capitalism but it does suggest a higher emphasis a collective support of the people. The author highly values the necessity of work and personal ambition to the well being of a person but believes those are secondary to the role of the family in creating a stable base of society. The is a constant stream of ideas bestowing the importance of understanding and maintaining the natural systems on which our lives depend. In the end, I believe that most people would find these ideas rather radical but not extreme or unfounded. Depending on who you are these concepts may still seem modern and relevant. Because of that, this work will continue to inspire and fill minds with ideas of what this world could be.  

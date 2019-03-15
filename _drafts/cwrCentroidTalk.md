@@ -6,7 +6,7 @@ Creative (How)
  - make a word puzzle map at different resolution
   - three variables
   - two conditions
-  -introduction activity  
+  - introduction activity  
 
 Relevant (How)
   -  uncertainty in the role of science
@@ -54,13 +54,19 @@ This is kinda the core of how I will tell the details of out methods. Balance un
 1. Set the message
  - define a clear and distinct **take home message**
 
+As geographers we have the ability to apply our work to a variety of field of research. With this freedom comes the added responsibility that our work is within the bounds of our science.
+
 
 
  2. Set the frame of the story
 - decide on one or two Frames from which you will describe your narrative. What emotional process are you trying to appeal to.
 
+- social process through the my own time at the USDA. I want to promote the questioning on our own work as scientist.
+
  3. Story theme
-- The theme describe the progress of the narrative. Overcoming the monster is a common one in science because the problem can be set as the monster.  
+- The theme describe the progress of the narrative. Overcoming the monster is a common one in science because the problem can be set as the monster.  '
+
+- Voyage and return: because I'm effectively the main character I want to use my own process as the method of questioning, learning, and finding the right fit.
 
 4. Building emotional ties  
 - events
@@ -109,7 +115,7 @@ The majority of time will be spent on walking through the development and applic
 
 
 
-Short version 
+Short version
 Crop wild relatives(CWR) are genetically diverse plants that are related to modern crops. Plant breeders can cross breed modern crops with their CWRs to incorporate beneficial traits present from CWR into our food species. Yet understanding where to find CWR populations and which populations will have the desired traits is an ongoing challenge. The USDA is addressing this challenge by developing a reproducible spatial model to identify the potential range of CWR species and exploring the connection between environmental conditions and genetic traits. This talk will explain why CWR are such an important resource and the complexities associated with applying geographic research to traditionally non spatial field such as plant genetics.
 
 
