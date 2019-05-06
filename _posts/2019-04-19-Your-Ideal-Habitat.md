@@ -1,4 +1,4 @@
-predictors---
+---
 layout: post
 title:  "Find your ideal habitat"
 date:   2019-04-19 10:50:26 -0600
