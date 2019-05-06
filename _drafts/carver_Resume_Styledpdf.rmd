@@ -6,6 +6,7 @@ output:
 urlcolor: blue
 ---
 # Dan Carver 
+## US Citizen 
 ### carver.dan1@gmail.com | 630-621-6557
 #### [carverd.com](http://www.carverd.com)
 
