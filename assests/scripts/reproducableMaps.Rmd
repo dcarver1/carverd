@@ -1,0 +1,203 @@
+---
+title: "cityData"
+author: "dan carver"
+date: "May 6, 2019"
+output: 
+  html_document:
+    highlight: tango
+    theme: yeti
+    toc: yes
+    toc_depth: 4
+---
+
+
+## Rebuilding Open Data 
+
+![City of Fort Collins Open Data Portal](D:/temp/fcOpenData.png)
+
+
+<br>
+<br>
+<br>
+
+The city of Fort Collins has an [open data portal website](https://www.fcgov.com/opendata/) which allows anyone with an internet connection to view, download, and ask questions of over a 100 different data resources. Many of these datasets are displayed with interactive maps and or charts that all you to filter and ask your own questions of the data. However, the option for filtering and displaying of geospatial data is fairly limited and makes it difficult to get answers to your own questions. We're going to take steps to reproduce one of these resources, the "New Construction Permits" dataset, that allows a end user to see more visualizations while providing them more tools to filter the non spatial data associate with each location. This data is updated on a regular basis so we using a reproducible methodology to generate this report so that when new content is created we can quickly update our representations of the data. 
+
+<br>
+<br>
+
+### Set Up 
+To create this reproducible methodology were are going to use a RMarkdown Document. 
+R allows use to evaluate and manipulate the data. Markdown allows us to add plain text elements, bring in pictures and hypelinks, and generate a final product in the form of an html. 
+There are some important R libraries we are relying on. 
+
+ **sp** : Classes and Methods for Spatial Data [docs](https://cran.r-project.org/web/packages/sp/index.html)
+ 
+A super helpful resource for working with spatial data in R 
+
+ **geojsonio** : Convert Data from and to 'GeoJSON' or 'TopoJSON' [docs](https://cran.r-project.org/web/packages/geojsonio/index.html)
+
+
+**tmap** : Creating thematic maps [docs](https://cran.r-project.org/web/packages/tmap/tmap.pdf)
+
+A amazing resource for generating maps of various complexity. 
+
+**DT** : A Wrapper of the JavaScript Library 'DataTables' [docs](https://cran.r-project.org/web/packages/DT/DT.pdf)
+
+Allows you to create interactive html tables with your document.
+
+**dplyr** : Fast and consistent tool for working with data frame like objects [docs](https://cran.r-project.org/web/packages/dplyr/dplyr.pdf)
+
+The best thing about R 
+
+```{r setup, message=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message=FALSE, warning=FALSE)
+library(sp)
+library(geojsonio)
+library(tmap)
+library(dplyr)
+library(DT)
+tmap_mode("view")
+
+base_dr <- "D:/temp"
+
+```
+
+
+### Download and Quick Map 
+Ideally we would like to be able to access our data direction from pulling it down from Fort Collins website. This i an option, but I haven't put in the time to make it work yet. So instead were simply going to download the data as a geojson and read it as a "spatialpointsDataFrame", a **sp** class that works well with **tmap**. So with a download, some time in the docs, and two lines we have a reproduction of the first element of the Fort Collins webpage. An interactive map. 
+
+```{r echo = TRUE}
+#downloading the data from https://opendata.fcgov.com/Economic-Health/New-Construction-Permits/4nr5-i9u8
+cData <- geojson_read(x = paste0(base_dr, "/New Construction Permits.geojson" ), parse = TRUE, what = "sp")
+# x = path to file 
+# parse = determines if the program should try to fit the data to the data frame structure rather then a json structure
+# what = Allows you to define the class object the data will be converted to. 
+qtm(cData)
+
+```
+
+<br>
+<br>
+<br>
+
+## Datatable 
+With the DT package it is very easy to generate an table that allows you to filter and query the data presented. We will use it to call the data that is store with out New Construction Data
+```{r echo = TRUE}
+DT::datatable(cData@data, options = list(pageLength = 10))
+```
+
+<br>
+<br>
+
+So with a few helpful libraries we recreated the visual elements of the data portal web site and added some functionality to the data table. I had a few questions about this data when I started looking at so I took a moment to explore some elements I think others might be interested in as well. 
+
+
+## Adding Value
+Were going to try to look at the spatial variability of the value of these properties by 
+
+**classifying properties based on value**
+
+**mapping those values** 
+
+I was also interested in understanding what organizations were building what and for how much 
+
+**who are gaining from these properties**  
+
+> *example* 
+I want to reference a specific value in the text, The number of unique contract companies. I can generate a varible in R so that it changes as the data changes. No more double checking numbers when a new dataset arrives. 
+
+```{r}
+numBuilders <- length(unique(cData@data$contractor))
+##  call this in the text with the following formar 
+## `r numBuilders` 
+```
+
+It's not entirely clear to me what the "valuation" column on this data stands for but were making the assumption that it is representation of the intended final market cost of the facility.
+We will summarize some characteristic of the (calling *numBuilders*) `r numBuilders` unique contractors in Fort Collins.  
+
+
+### classifying properties based on value
+
+```{r echo = TRUE}
+#convert the factor data type to numeric so it can be ordered 
+cData@data$cost <- as.numeric(as.character(cData@data$valuation))
+
+#create new column based on an equal split into 8 quantiles using the ntile function
+cData@data$quantile <-  ntile(x = cData@data$cost, n = 8)
+#x= an ordered dataset
+#n = number of groups 
+
+#summaries data to get a table that shows the values within each quantile
+ranges <- cData@data %>%
+  group_by(quantile) %>%
+  summarise('minimun value' = min(cost), 'maximun value' = max(cost))
+
+#print table using the DT library, mostly just for a consitent look. 
+DT::datatable(ranges, options = list(pageLength = 25))
+```
+
+This table shows use the range of the groups. 
+
+
+### mapping those values 
+We want to look at a specific element of the data so we're moving on from tmap "qtm" function. In this case we are defining what data to use for categories, defining a color palette for display, and adding a title. There are tons of other options. 
+
+```{r echo = TRUE}
+# use the tm function to add more components 
+# tm_shape is the spatial feature that we are pulling our elements from 
+# tm_dots allow use to color features based on category within the data  
+priceMap <- tm_shape(cData) +
+  tm_dots(col =  "quantile", palette = c("#f7fcfd",
+"#e0ecf4",
+"#bfd3e6",
+"#9ebcda",
+"#8c96c6",
+"#8c6bb1",
+"#88419d",
+"#6e016b"))+
+  tm_layout(title = "Home Values Based on Equal Quantiles")
+
+
+
+priceMap
+
+## look like there was alot more dark colors so I just wanted to double check the numbers
+# cData@data %>%
+#   group_by(quantile) %>%
+#   summarise(count = n())
+
+
+```
+
+<br>
+<br>
+<br>
+
+### who are gaining from these properties
+
+The sale value of a building is based on the perceived market value of the building not the actual cost of construction. Knowing how expensive homes are in Fort Collins makes me wonder just how much some of the business are bringing it. Again we don't know if the "valuation" number with in the data is the total building cost or a sales cost, so this is really just an exploratory question to a complex system.  
+<br>
+<br>
+
+
+```{r echo = TRUE}
+builders <- cData@data %>%
+  group_by(contractor) %>%
+  summarise('Total Values' = signif(sum(cost), 4), 'Average Value' = signif(mean(cost), 4), 
+'Number of Buildings' = n())
+DT::datatable(builders, options = list(pageLength = 25))
+```
+
+<br>
+<br>
+
+## Wrap up 
+
+The goal if this process was to highlight the potential of integrating Rmd for the generation of reproducible documentation based on a changing data source. Hopefully this provides you some tools and tricks for generating interactive reports on the data that is important to you. 
+
+
+
+
+
+
+
