@@ -1,4 +1,4 @@
-connectivityimmediate---
+---
 layout: post
 date:
 categories: perspective

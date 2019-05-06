@@ -69,34 +69,7 @@ draw to focus. As with everything else, individuals fall on a spectrum between t
 >Technique is what you fall back on when you run out of inspiration.
 Rudolf Nureyev
 
-Much like the training of the body or off intelligence research is finding that attention as a system can also be strengthened. The brians attent system is split into three parts
-*Alerting*
-*Orienting*
-*Executive*  
-Beyond helping maintain a sense of place the orienting attentional network also contributes to the willingness of individual to focus on the pleasure of small opportunities. A good apple or a pleasant breeze. People who are more focus on the small opportunities are often more happier.
-The executive attentional network fits well with the idea of will power. Choosing what to focus on when.
-The important message is that we do have power to adapt and define how be apply our attention. Over time this will improve, if it is done deliberately.
 
-<<<<<<< HEAD
-# Chapter 5 Nurture: This Is Your Brain on Attention
-What catches our attention is based in part on what we focus on.
-The best way to grow this relationship is by practicing meditation. After all there are not real negative effects. If you meditate on positive feeling you will end up being more responsive to them in the long run. This is not an over night transformation, it needs to a consistent practice.  
-
-### extract
-Just want to get this out.
-I've been hooked on the systems thinking process for some time now but I still struggle with talking to people about it. Even talking to may self about it. I think this is partly due to not writing about it. I've read 3 books and multiple papers on the process but I don't have any real notes about it. Tisk tisk.
-Anywhere there was something I read today in my systems view of life book that stood out to me.
-Part of the process or the structure.
-that is not a quote and frankly I'm not sure if the works process and structure are correct. But they seem to work.
-In the Cartesian method of thought which is still the dominate one. Everything is attempted to be view in isolation. Sysytems view of life has been going though and providing example of how other are starting to break from that method of thought and take on the whole is greater then the sum of its parts idea.
-This idea of process and structure struck me as a core means of explaining that idea.
-No feature stands alone, it is either a part of a structure or a part of a process. If it is a structure or a function depends mostly on what scale the feature is viewed at.
-This does meld a bit with the form or function idea that is common speak, thought I not sure how closely tied that is to either the cartisian or systems philosophy.
-Defining all features as either a structure or function removes the ability to speak of individuals. With out hte individual everything is a system. This seems like a core concept. We wrok with individuals because they are easier to measure the system they are a part of. This allows the emergent properties of systems to have a place even though they don't have a part of a structure. They are not a stand alone individual but a process of a stucture  or a process of a process. This train of thought inherently pushes attention outward toward the more complex features.
-Process and Structure
-Structure and process
-That is all there is.
-=======
 # Chapter 5: Nurture: This is Your Brian on Attention
 
 Focusing self-referential processing is what most of us do most the time. That we focus on ourself. While good and bad come of that the big thing is that we are often our biggest critic. As a result we self-referential processing is more likely to generate a negative feeling and we begin to focus on that negativity.  
@@ -110,7 +83,6 @@ A clear message coming through is that your brain is adaptable and can change if
 
 > paying attention is an individual effort, but it's also a kind of social cement that holds groups together and helps them feel part of something greater than themselves.
 page 85
->>>>>>> 92fa0d68c2cddb4f97d0a2a35fde23812b0a8f51
 
 The theme of this chapter seems to be that there are great benefits that can be reaped by paying attention to others rather then spending that time in self-referential thought. This is shown through a case study of American families which highlighted the specific interactions between family members. The fact is the culture in the US push kids into a sheltered individualism that makes the interactions between parents feel one dimensional. This hit home as I reflected on my own upbringing. Much of this is driving by the substantial undercurrent of American culture that is the prospect of finical success and material wealth. The message is that most individuals don't assess how training their children to success is effecting their families quality of life. Simple message is be less busy and spend more time with family.  
 
@@ -160,13 +132,6 @@ page 128
 
 Part of why we have so much trouble dealing with these choices is that were so frequently exposed to advertisement that our beliefs and wants become hijacked by marketing's drive to sell things. We have some choice in how much exposure to marketing we see and also we can decide what attention we need to give it.
 
-<<<<<<< HEAD
-Hi Catherine,
-I had a few questions about the contract work for your group that was recently released.
-Are you looking for someone to work part time over an extended period or would a more concentrated effort be better?
-I graduated with my masters in May of 2017. I believe the government definition of recent graduate is within 2 years of graduation. Would I still be able to qualify for the work?
-=======
->>>>>>> 92fa0d68c2cddb4f97d0a2a35fde23812b0a8f51
 
 ## Chapter 9 Creativity: An Eye for Detail
 
