@@ -36,7 +36,7 @@ It is based on the three following assumptions.
 
 In what again reads as a direct rebuttal to this set of assumptions comes the following.
 
-> The question with which to start my investigation is obviously this: Is there enough to go road? Immediately we encounter a serious difficulty: What is "enough"? Who can tell us? Certainly not the economist who pursues "economic growth" as the higest of all values, and therefore has no concept of "enough". There are poor societies which have too little; but where is the rich society that says; "Halt! We have enough"? There is none.
+> The question with which to start my investigation is obviously this: Is there enough to go road? Immediately we encounter a serious difficulty: What is "enough"? Who can tell us? Certainly not the economist who pursues "economic growth" as the highest of all values, and therefore has no concept of "enough". There are poor societies which have too little; but where is the rich society that says; "Halt! We have enough"? There is none.
 Page 25
 
 This is expanded upon illustrating that is those who how that most that are pushing the conflict and most significantly effect the rate of change and so called growth. This is illustrated through energy consumption. A primary product that is by and large extract from natural capital.
@@ -51,7 +51,7 @@ page 34
 
 Instead of pursuing prosperity through material wealth the path to peace requires a reduction in the number of needs. Needing something that we can not provide for ourselves is the source of conflict.
 
-> Next to the family, it is work and the relationships established by work that are the true foundation of society. If the foundations are unsound, how could society be sounds? And id society is sick, how could it fail to be a danger to peace?
+> Next to the family, it is work and the relationships established by work that are the true foundation of society. If the foundations are unsound, how could society be sounds? And if society is sick, how could it fail to be a danger to peace?
 page 38
 
 There is extensive discussion on the importance of work to the human character. Work needs to be something that reflect the innovative and creative expressions of the worker. Jobs that are highly standardize or highly automated are against the needs of the people and will erode their own quality of existence. Modern economy promotes these unhuman work because they can be more cost efficient.
@@ -61,7 +61,7 @@ page 39
 
 It there was any doubt that Schumacher was going to hold things back to appeal to more general audience this paragraph smashed that idea.
 
-> How could we even begin to disarm greed and envy? Perhaps by being much less greedy and envious ourselves; perhaps by resisting the temptation of letting our luxuries becomes needs: and perhaps by even scrutinizing our needs to see if they cannot be simplified and reduced. If we do not have the strength to do any of this, could we perhaps stop applauding the type of economic "progress" which palpably lacks the basis of permanence and give what modest support we can to those who, unafraid of being denounced as cranks, work for non-violence: as conservationists, ecologist, protectors of wildlife, promoters of organic agriculture, distributists, cottage producers and so forth? An ounce of practice is generally worth more than a ton of theory.
+> How could we even begin to disarm greed and envy? Perhaps by being much less greedy and envious ourselves; perhaps by resisting the temptation of letting our luxuries becomes needs: and perhaps by even scrutinizing our needs to see if they cannot be simplified and reduced. If we do not have the strength to do any of this, could we perhaps stop applauding the type of economic "progress" which palpably lacks the basis of permanence and give what modest support we can to those who, unafraid of being denounced as cranks, work for non-violence: as conservationists, ecologist, protectors of wildlife, promoters of organic agriculture, distributes, cottage producers and so forth? An ounce of practice is generally worth more than a ton of theory.
 page 40
 
 This is the content that makes me want to keep reading. Some actionable suggestions for how to would against some a embedded force that it can literally hide in plain sight. It's not all doom and gloom at the individual level. How we act and whom we support is the basis for building a culture outside of materialism.

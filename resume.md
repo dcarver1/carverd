@@ -30,11 +30,33 @@ GPA: 3.70/4
 
 ## **Professional Experience**
 
+### Colorado State University: Natural Resource Ecology Laboratory
+
+Fort Collins, Colorado
+
+April 2019 - Present
+
+**GIS specialist**
+
+> As a contributing member of the Evangelista lab group at CSU I'm tasked with method development and execution of spatial processes for a wide range of research topics.
+
+*Project Development 70%*
+ - Continue work with the USDA on CWR (see position description below)
+ - Provide assistance with method development for R, GEE, and other desktop GIS programs.  
+
+*Outreach 15%*
+- conduct public presentations on behalf of the lab group
+- connect with potential project partners through outreach and networking events
+
+*Grant writing 15%*
+- contribute to the literature review, data collection, method development, and writing of various grant proposals, including NSF proposals.
+
+
 ### USDA Agricultural Research Service
 
 Fort Collins, Colorado
 
-June 2018 to Present
+June 2018 to April 2019
 
 **Spatial Scientist**
 
