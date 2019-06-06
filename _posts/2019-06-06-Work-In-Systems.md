@@ -9,7 +9,7 @@ permalink: "workLive"
 
 
 <br>
-![title]({{"/assets/worklife/title.png"|absolute_url}})
+![title]({{"/assests/worklife/title.png"|absolute_url}})
 <br>
 
 Thank you all for being here today. My name is Dan Carver a former geoinformatics fellow with the DEVELOP program. I took a little bit a of different look at the suggested theme of how DEVELOP helped me get to where I am. I hope you all find it helpful and will be happy to fill in any specifics at the end of the talk today.
@@ -34,7 +34,7 @@ What I love about this story is how clearly it identifies how much has changed. 
 ## Population
 
 <br>
-![population]({{"/assets/worklife/population.png"|absolute_url}})
+![population]({{"/assests/worklife/population.png"|absolute_url}})
 <br>
 
 But more importantly then that, there are approximately 100 million more people in the United States today then there was 40 years ago. Yes, our economy has grown in that time as well but the truth of the matter is there are a lot more fish in the pond.
@@ -42,7 +42,7 @@ But more importantly then that, there are approximately 100 million more people 
 ## The Wealth Discrepancy
 
 <br>
-![1%]({{"/assets/worklife/wealth.png"|absolute_url}})
+![1%]({{"/assests/worklife/wealth.png"|absolute_url}})
 <br>
 
 
@@ -51,7 +51,7 @@ While the economy has grown the amount of the growth is very unequally distribut
 ## Distribution of Post Undergraduate Degrees
 
 <br>
-![map]({{"/assets/worklife/disto.png"|absolute_url}})
+![map]({{"/assests/worklife/disto.png"|absolute_url}})
 <br>
 
 
@@ -62,7 +62,7 @@ I bring these ideas up because I want you all to understand that finding work is
 ## Qualitative and Quantitative Elements
 
 <br>
-![title]({{"/assets/worklife/consistent.png"|absolute_url}})
+![title]({{"/assests/worklife/consistent.png"|absolute_url}})
 <br>
 
 To frame out this concept I split the elements that influence why a person is hired for a position into three sections.
@@ -80,7 +80,7 @@ However, the third element, the judgment of perceived character is inherently hu
 ## Venn Diagram one
 
 <br>
-![venn1]({{"/assets/worklife/ven1.png"|absolute_url}})
+![venn1]({{"/assests/worklife/ven1.png"|absolute_url}})
 <br>
 
 To visualize these relationships we will look to the Venn Diagram.
@@ -115,7 +115,7 @@ A good job can provide you
 ## Venn Diagram 2
 
 <br>
-![venn2]({{"/assets/worklife/venn2.png"|absolute_url}})
+![venn2]({{"/assests/worklife/venn2.png"|absolute_url}})
 <br>
 
 To come back to the diagram, we know that we have to meet the quantitative data for the position rather closely to get to the point where we have an opportunity to express ourself, likely via an interview. That said, what I have seen, is that you can effective shift how much the quantitative elements are considered if your interviewer has some idea of your perceived character before the interview stage.
@@ -131,7 +131,7 @@ Just to be clear, these are actions that you can do regardless of the big pictur
 ## My Tactics
 
 <br>
-![characters]({{"/assets/worklife/people.png"|absolute_url}})
+![characters]({{"/assests/worklife/people.png"|absolute_url}})
 <br>
 
 
@@ -158,7 +158,7 @@ Systems thinking is a common in field such as ecology, where the interaction bet
 ## Tradition workplace structure
 
 <br>
-![hierarchy]({{"/assets/worklife/hier.png"|absolute_url}})
+![hierarchy]({{"/assests/worklife/hier.png"|absolute_url}})
 <br>
 
 
@@ -173,7 +173,7 @@ I bring this up because in this traditional structure it is very easy to feel li
 ## Network Structure
 
 <br>
-![network]({{"/assets/worklife/network1.png"|absolute_url}})
+![network]({{"/assests/worklife/network1.png"|absolute_url}})
 <br>
 
 
@@ -183,7 +183,7 @@ If you look at the workplace through a systems perspective or network visualizat
 ## Nested networks
 
 <br>
-![network2]({{"/assets/worklife/network2.png"|absolute_url}})
+![network2]({{"/assests/worklife/network2.png"|absolute_url}})
 <br>
 
 
@@ -204,7 +204,7 @@ While this may seem a bit abstract, understand that you will always be part of a
 ## Focus on Your Strengths
 
 <br>
-![network]({{"/assets/worklife/strengths.png"|absolute_url}})
+![network]({{"/assests/worklife/strengths.png"|absolute_url}})
 <br>
 
 
@@ -232,7 +232,7 @@ By knowing your strengths and producing lots and lots material, you will begin t
 ## Your Own Narrative
 
 <br>
-![narrative]({{"/assets/worklife/narrative.png"|absolute_url}})
+![narrative]({{"/assests/worklife/narrative.png"|absolute_url}})
 <br>
 
 Last piece of the puzzle that I can fit in to my time frame is to write your own story. What I really mean by this is it is important to present yourself as an individual.
@@ -244,7 +244,7 @@ The line I use is,
 ## True beauty of Systems Thinking
 
 <br>
-![community]({{"/assets/worklife/folks.png"|absolute_url}})
+![community]({{"/assests/worklife/folks.png"|absolute_url}})
 <br>
 
 So to end on a happy note, one of the best elements of building you perceived character within your community is that you inevitable get to meet, work with, and help people along the way. By supporting them you strengthen your professional community and in turn that gives you a stronger place within it.
