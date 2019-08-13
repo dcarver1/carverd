@@ -38,11 +38,12 @@ April 2019 - Present
 
 **GIS specialist**
 
-> As a contributing member of the Evangelista lab group at CSU I'm tasked with method development and execution of spatial processes for a wide range of research topics.
+> As a contributing member of the Evangelista lab group at CSU I develop methods and execute spatial data analysis for a wide range of research topics.
 
 *Project Development 70%*
  - Continue work with the USDA on CWR (see position description below)
- - Provide assistance with method development for R, GEE, and other desktop GIS programs.  
+ - Assist with method development for R, GEE, and other desktop GIS programs.  
+- Develop a GEE training series for ecologists.
 
 *Outreach 15%*
 - conduct public presentations on behalf of the lab group
@@ -80,23 +81,23 @@ June 2017 to September 2018
 
 **Geoinformatics Fellow & Assistant Center Lead**
 
-> Half of my time is spent supporting the node location in Fort Collins and the
-other half is spent supporting the National Program office in Virginia. At the node level I assisted in administrative task and worked as a member of a research team. At the national level I provided educational trainings and provided geospatial analysis support to all 13 nodes across the country.
+> Half of my time is spent supporting the node location in Fort Collins, and the
+other half is spent supporting the National Program office in Virginia. At the node level, I assisted in the administrative tasks and worked as a member of a research team. At the national level, I provided educational training and geospatial analysis support to all 13 nodes across the country.
 
 *Research: 40% of duties*
 
-- Work in a close knit team environment on 10 week feasibility studies
+- Work in a close-knit team environment on 10-week feasibility studies
 - Develop methods and conduct predictive modeling using Arcpy, Python, R and Google Earth Engine  
-- Produce multiple deliverables (technical report, poster, presentation, video) on a strict time line
+- Produce multiple deliverables (technical report, poster, presentation, video) on a strict timeline
 - Present work in a public forum
 
 *Fellow Class: 40% of duties*
 
-- Work remotely as one of a three person geoinformatics team
+- Work remotely as one of a three-person geoinformatics team
 - Response to questions via the DEVELOP Earth Science Collaborative forum.
 - Support teams moving through the legal steps of the NASA code release process
 - Contributed to the updates and maintenance of NASA DEVELOP's [Interactive Web Map](https://develop.larc.nasa.gov/about.php)
-- Create and conduct trainings on the use of [Markdown](https://github.com/dcarver1/markdownLesson) and [Arcpy](https://github.com/dcarver1/introToArcpy)
+- Create and conduct training on the use of [Markdown](https://github.com/dcarver1/markdownLesson) and [Arcpy](https://github.com/dcarver1/introToArcpy)
 - Lead the print material team in the creation posters, invitation, and other material for 20th Anniversary Celebration  
 
 
@@ -115,14 +116,13 @@ May 2016 to June 2017
 **Geography/GIS Support**
 
 > Ensure that the 100 plus individuals who are producing data and
-supporting data production for the [National Map](https://nationalmap.gov/) have the technical support and software to effectively
-preform their jobs. This position was stationed within the Information Technologies Service section.
+supporting data production for the [National Map](https://nationalmap.gov/) have the technical support and software to perform their jobs effectively. I work as a member of the Information Technologies Service team.
 
 
 *Technical Support: 40% of Duties*
 
 - Provide timely and consistent technical support to the 100+ GIS users
-- Problem solve geographical and software related issues for desktop and server based geospatial software programs
+- Problem solve geographical and software related issues for desktop and server-based geospatial software programs
 - Troubleshooting issues with the following software; ArcGIS Desktop, ArcGIS Pro, FME, Global Mapper, and LP360.
 - Coordinate software deployments with various groups from data production to development
 
@@ -130,7 +130,7 @@ preform their jobs. This position was stationed within the Information Technolog
 
 - Install the standardize geospatial software builds for new and reformatted machines base on
 configuration management protocols
-- Maintain proper protocols regarding use of Administrative account for altering computers
+- Maintain proper protocols regarding the use of Administrative account for altering computers
 
 
 *Method Development: 20% of Duties*
@@ -150,7 +150,7 @@ August 2015 to May 2016
 *Act as resource for student engagement (80% of duties)*
 
 - Hold office hours, respond to emails, and hold pretest study sessions
-- Provided training and troubleshooting help for geospatial questions for a graduate level course in Landscape Architecture
+- Provided training and troubleshooting help for geospatial questions for a graduate-level course in Landscape Architecture
 
 *Hold classroom lectures for classes (20% of duties)*
 
@@ -165,11 +165,11 @@ October 2013 to August 2015
 
 **Lead Instructor**
 
-> Organized and facilitated curriculum, ensured safety in various outdoor settings, and acted as the point of contact for the organization for specific trips.
+> Organized and facilitated curriculum, ensured safety in various outdoor settings and acted as the point of contact for the organization for specific trips.
 
 *Teach and engage students (70% of duties)*
 
-- Facilitate environmental education programs for student from 2nd to 12th grade in various indoor and outdoor settings.
+- Facilitate environmental education programs for students from 2nd to 12th grade in various indoor and outdoor settings.
 
 *Curriculum Development (30% of duties)*
 
@@ -183,23 +183,23 @@ May-November 2012 & April-October 2013
 
 **Education Technician**
 
-> Managed a wilderness based outdoor education program that took middle and high school students into the backcountry for 5 and 7 days at a time. Created a promotional video which can be found [here](https://www.youtube.com/watch?v=fwhb6LhqPU0&t=32s)
+> Managed a wilderness-based outdoor education program that took middle and high school students into the backcountry for 5 and 7 days at a time. I created a promotional [video](https://www.youtube.com/watch?v=fwhb6LhqPU0&t=32s) about the program.
 
 *Planning and Program Management. (50% of Duties)*
 
-- Primary organizer of logistical duties, planning and evaluation of the Ambassador for Wilderness
+- The primary organizer of logistical duties, planning, and evaluation of the Ambassador for Wilderness
 Program
 - Provide leadership and mentoring capacity for student participants
 
 *Safety and Risk Management (30% of Duties)*
 
-- Develop and facilitate instructor training course.
+- Develop and facilitate the instructor training course.
 - Facilitate debriefing with students and staff when necessary (mediated discussion involving
 personal and group injuries, illness, mental health and near misses)
 
 *Interpretation and Education (20% of Duties)*
 
-- Design, prepare and presented thematic walks, talks and demonstrations through the
+- Design, prepare and presented thematic walks, talks, and demonstrations through the
 Interpretation Program.
 
 
@@ -226,7 +226,7 @@ October 2007 – May 2012
 
 **Trip Leader**
 
-> Preformed a variety of roles over a 5 year period as a student employee that involved risk management and outdoor education of groups.
+> Preformed a variety of roles over 5 years as a student employee that involved risk management and outdoor education of groups.
 
 *Co-Instructor of Adventure Leadership and Programming Expedition HPPE 179*
 
@@ -235,11 +235,25 @@ October 2007 – May 2012
 ___
 
 ## Research Experience
+### USDA Agricultural Research Service
+
+I currently, have five articles of which I am a co-author under review. Four of these are on species distribution modeling of crop wild relatives, and one is an evaluation of the relationship between the USDA ARS and the BLM Seeds of Success program.
+
+Crop wild relatives of chile pepper (Capsicum L.): Distributions, conservation status, and implications for adaptations to abiotic stresses" is presently being given full consideration for publication in Diversity and Distributions.
+
+Crop wild relatives of pumpkins, squashes, and gourds (Cucurbita L.): Distributions, conservation status, and abiotic stress tolerance potential, is submitted to Plants, People, Planet.
+
+Collecting Native Seed for Restoration: Collateral Benefits to Agricultural Crop Improvement, Research and Education, is presently being considered for publication in Crop Science.
+
+Distributions and conservation status of carrot (Daucus L.) wild relatives in Tunisia: A case study in the Western Mediterranean basin, is presently being considered for publication in Crop Science.
+
+Research gaps and challenges in the conservation and exploitation of North American wild lettuce (Lactuca L.) germplasm, is presently being considered for publication in Crop Science.
+
 ### NASA DEVELOP
 
-May 2017 - Present
+May 2017 - September 2018
 
-**Minnisota and Texas Agriculture**
+**Minnesota and Texas Agriculture**
 
 *In progress*
 
@@ -265,24 +279,24 @@ Chair: Dr. Rafael Moreno
 
 Committee: Dr Galen Maclaurian, Dr. Peter Athamathem, Dr. Jaun Manuel Torres Rojo
 
-> This work represent a validation of a remote sensing derived global land cover dataset. This is done by using a ground verified series of forest inventory sites. Through this process I have done extensive research on the development and limitations of remote sensing derive land cover maps, validation methodology for land cover maps, and potential sources of errors in both the imagery and the validation sets. Overall it is a very detail examination of how well a landsat
+> This work represents a validation of a remote sensing derived global land cover dataset using a ground verified series of forest inventory sites. Through this process, I have done extensive research on the development and limitations of remote sensing derive land cover maps, validation methodology for land cover maps, and potential sources of errors in both the imagery and the validation sets. Overall it is a very detail examination of how well a Landsat
 product can represent a land cover.
 
-### Soil Geomorphology and Geoarcheology research
+### Soil  and Geoarchaeology research
 
 **Upper Rio Grande Basin**
 
-> Worked with Dr. Jared Beeton on a soils based geoarchaeological investigation of 2nd and 3rd order tributaries of the Rio Grande River in the Upper Rio Grande Basin. Through this work I have made multiple public presentations, learned and exercised field based scientific research, proposed and was granted funding for 14C dating of soil organic matter. Geomorphic landforms were field mapped using GPS, digitized, and expanded on based on the interpretation if high resolution remotely sensed data.
+> Worked with Dr. Jared Beeton on a soils based geoarchaeological investigation of 2nd and 3rd order tributaries of the Rio Grande River in the Upper Rio Grande Basin. Through this work, I have made multiple public presentations, learned and exercised field-based scientific research, proposed and obtained funding for 14C dating of soil organic matter. Geomorphic landforms were field mapped using GPS, digitized, and expanded on based on the interpretation of high resolution remotely sensed data.
 
 **Mammoth Site Excavation**
 
-> During 2011 I worked under Dr. Jared Beeton and The Denver Museum of Natural Science in the excavation and geomorphic investigation of mammoth remains found within the San Luis Valley. I ran laboratory analysis on the soils and sediment collected from the site.
+> During 2011 I worked under Dr. Jared Beeton, and The Denver Museum of Natural Science in the excavation and geomorphic investigation of mammoth remains found within the San Luis Valley. I ran laboratory analysis on the soils and sediment collected from the site.
 
 ## Relevant Couse Work and Projects
 
 ### Personal Project: Disc Golf Mapping
 
-> I have developed an automated methodology that takes a lidar point cloud and gps data and produces an accurate representation disc golf course as a map. The lidar processing is down within the arcpy module and GPS points are field collected. This was done to fill a gap a community I actively participate in.
+> I have developed an automated methodology that takes a lidar point cloud and GPS data and produces an accurate representation disc golf course as a map. The lidar processing is down within the arcpy module, and GPS points are field collected.
 
 ### Relevant Course Work
 
@@ -298,13 +312,13 @@ product can represent a land cover.
 ## Instrumentation and Computer Experience
 
 - Python; confident using arcpy, numpy, pandas, scipy, and os.
-- Markdown; Confident creating plain text docs using markdown and managing them via online repository.
+- Markdown; Confident creating plain text docs using markdown and managing them via an online repository.
 - Git; Confident using version control software via command line and editing
 - R; confident working with spatial data, R markdown, using Random Forest, and conduction sensitivity analysis on models.  
 - Google Earth Engine; Functional experience creating ocular sampling scripts and running classifications of passive and active remotely sensed imagery
 - Experienced transferring field mapped landforms to digital format
-- Background in enterprise level GIS systems (Servers, Virtual Machines, Databases, Desktops)
-- Confident using ESRI software, learning open source alternatives
+- Background in enterprise-level GIS systems (Servers, Virtual Machines, Databases, Desktops)
+- Confident using ESRI software, learning open-source alternatives
 - Producing professional level cartographic products using Adobe Suite (Illustrator - Photoshop -
 InDesign)
 - Proficient with the Microsoft Office Suite on both PC and MAC
@@ -325,7 +339,7 @@ San Juan Mountains, Colorado, USA. Journal of Quaternary Research 82 (2014), 331
 - Wilderness Ranger Cookbook, 2nd: A Collection of Backcountry Recipes by Bureau of Land
 Management, Forest Service, National Park Service, and U.S. Fish and Wildlife Service Wilderness
 Rangers.
-    - My recipe for Ambassadorial Breakfast Gravel is included within this text.
+    - My recipe for Ambassadorial Breakfast Gravel is in this text.
 
 - Contributed to two professional peer-reviewed reports submitted to the Colorado Historical Society; Principal Investigator: Dr. Jared Beeton.
     - Geoarchaeology and 14C Dating of Landform Sediment Assemblages in La Jara Creek, Hot Creek and the Alamosa River Basins, San Luis Valley,= Colorado. Submitted Winter 2012
