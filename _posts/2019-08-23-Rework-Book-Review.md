@@ -7,7 +7,7 @@ permalink: "reWork"
 
 # ReWork
 
-I picked up this book because I want to maintain the of mindset of efficiency and productivity in the workplace. Reading about such ideas helps me do so. Due to the structure of Rework, my review follows the format below.
+I picked up this book because I want to maintain the mindset of efficiency and productivity in the workplace. Reading about such ideas helps me do so. Due to the structure of Rework, my review follows the format below.
 
 Chapter title - quote last paragraph - personal thoughts.
 
