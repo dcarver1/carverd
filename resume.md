@@ -330,6 +330,7 @@ InDesign)
 radiometric age dating of soil organic matter -$2,500. Spring 2011
 
 ## Publications
+ - Woodward, Brian., Evangelista, Paul., Young, Nicholas., Vorster, Anthony., West, Amanda., Carroll, Sarah., Girma, Rebecca., Hatcher, Emma., Anderson, Ryan., Vahsen, Megan., Vashisht, Amandeep., Mayer, Timothy., Carver, Daniel., Jarnevich, Catherine. (2018). CO-RIP: A Riparian Vegetation and Corridor Extent Dataset for Colorado River Basin Streams and Rivers. ISPRS International Journal of Geo-Information. 7. 397. 10.3390/ijgi7100397.
 
  - Moreno-Sanchez, R., Manuel Torres Rojo, J., Moreno-Sanchez, F., Carver, D., Niknami, L., Clay, E., Exploration of Land-cover Changes 2000-2010 at the National Level in Mexico Using GlobeLand30 Data Sets. Reality, Data and Space International Journal of Statistics and Geography Vol.8, Num 3 (2018)
 
