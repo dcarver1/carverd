@@ -330,6 +330,14 @@ InDesign)
 radiometric age dating of soil organic matter -$2,500. Spring 2011
 
 ## Publications
+ - Khoury CK, Carver D, Kates HR, Achicanoy HA, van Zonneweld M, Thomas E, Heinitz C, Jarret R, Labate JA, Reitsma K, Nabhan GP, and Greene SL (2019) Distributions, conservation status, and abiotic stress tolerance potential of wild cucurbits (Cucurbita L.). Plants, People, Planet.
+
+ - Khoury CK, Carver D, Barchenger DW, Barboza G, van Zonneweld M, Jarret R, Bohs L, Kantar MB, Uchanski M, Mercer K, Nabhan GP, Bosland PW, and Greene SL (2019) Modeled distributions and conservation status of the wild relatives of chile peppers (Capsicum L). Diversity and Distributions. Doi: 10.1111/DDI.13008.
+
+ - Greene SL, Carver D, Khoury CK, Irish B, Olwell P, Leah P (2019)  Seeds of Success: Collateral Benefits to Agricultural Crop Improvement, Research and Education. Crop Science
+
+ - Lebeda A, Kristkova E, Kitner M, Majesky L, Dolezalova I, Khoury CK, Carver D, Achicanoy HA, Sossa C, Widrlechner M, Hu J (2019) Research gaps and challenges in the conservation and exploitation of North American wild lettuce (Lactuca L.) germplasm. Crop Science
+
  - Woodward, Brian., Evangelista, Paul., Young, Nicholas., Vorster, Anthony., West, Amanda., Carroll, Sarah., Girma, Rebecca., Hatcher, Emma., Anderson, Ryan., Vahsen, Megan., Vashisht, Amandeep., Mayer, Timothy., Carver, Daniel., Jarnevich, Catherine. (2018). CO-RIP: A Riparian Vegetation and Corridor Extent Dataset for Colorado River Basin Streams and Rivers. ISPRS International Journal of Geo-Information. 7. 397. 10.3390/ijgi7100397.
 
  - Moreno-Sanchez, R., Manuel Torres Rojo, J., Moreno-Sanchez, F., Carver, D., Niknami, L., Clay, E., Exploration of Land-cover Changes 2000-2010 at the National Level in Mexico Using GlobeLand30 Data Sets. Reality, Data and Space International Journal of Statistics and Geography Vol.8, Num 3 (2018)
