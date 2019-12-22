@@ -3,8 +3,6 @@ layout: page
 title: "Resume"
 permalink: /resume/
 ---
-
-
 # Daniel P Carver
 ___
 
@@ -41,15 +39,19 @@ April 2019 - Present
 > As a contributing member of the Evangelista lab group at CSU I develop methods and execute spatial data analysis for a wide range of research topics.
 
 *Project Development 70%*
- - Continue work with the USDA on CWR (see position description below)
- - Assist with method development for R, GEE, and other desktop GIS programs.  
+
+
+- Continue work with the USDA on CWR (see position description below)
+- Assist with method development for R, GEE, and other desktop GIS programs.  
 - Develop a GEE training series for ecologists.
 
 *Outreach 15%*
+
 - conduct public presentations on behalf of the lab group
 - connect with potential project partners through outreach and networking events
 
 *Grant writing 15%*
+
 - contribute to the literature review, data collection, method development, and writing of various grant proposals, including NSF proposals.
 
 
@@ -64,11 +66,13 @@ June 2018 to April 2019
 > I collaborate with researchers and curators at the National Laboratory for Genetic Resource Preservation to develop geospatial models that add to the understanding of the distribution, collection, and use of the Crop Wild Relatives.
 
 *Research: 50% of duties*
+
 - evaluate and access existing species distribution and gap analysis modeling methods
 - collaborate with various stakeholders regarding the use of CWR and the data generated around CWR
 - contribute to technical reports and publications regarding
 
 *Product Development: 50% of duties*
+
 - generate reports, maps, and analysis that convey the result of research products
 - develop programs in R to conduct geospatial models
 
