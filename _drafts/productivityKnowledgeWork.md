@@ -13,7 +13,7 @@ permalink: "proKnow"
 
 If you are working, you are a productive person. Yet there are times when we all feel that there is to much work. At these times, we wish there was some way to be more productive. Increasing your productivity is possible and is something we can be achieved through the attentional practice of skills. Through this talk, I will provide some processes and structures that can help you create a productive environment for yourself moving forward.
 <br>
-![title]({{"/assests/productivityTalk/defination.png"|absolute_url}})
+![defination]({{"/assests/productivityTalk/defination.png"|absolute_url}})
 <br>
 
 In very simple systems, productivity can be view as the relationship between the inputs and outputs. The tree takes in this much energy, water, and nutrients and transforms it into this much organic matter. Yet, none of our work is that simple. We live and breath in complex systems. Measuring productivity in complex systems is hard. Things that are difficult to measure are often challenging to define; productivity is one of those things.
@@ -21,7 +21,7 @@ Just because it is hard to define does not mean we can discuss it. A definition 
 Productivity ~ sum(motivation, talent, training, work environment, peer support, time management, luck)
 
 <br>
-![title]({{"/assests/productivityTalk/threeFactors.png"|absolute_url}})
+![threeFactors]({{"/assests/productivityTalk/threeFactors.png"|absolute_url}})
 <br>
 The authors of the website go on to state that productivity in the workplace is highly reliant on the balance of mental energy, physical energy, and motivation from meaningful work.
 
@@ -32,7 +32,7 @@ The truth of the matter is that if you want to be productive, you need to be act
 While there is no formula for making this work, I will provide some ideas that will hopefully help you find how to create that productive environment for yourself.
 
 <br>
-![title]({{"/assests/productivityTalk/busyIsNot.png"|absolute_url}})
+![busyIsNot]({{"/assests/productivityTalk/busyIsNot.png"|absolute_url}})
 <br>
 
 A primary concept that I hope to make clear through this talk is that being busy is not the same thing as being productive. In fact, being busy often hurts productivity because busyness comes about from external motivators and deadlines. Cal Newport addresses busyness in his book Deep Work.
@@ -40,7 +40,7 @@ Busyness as a Proxy for Productivity:
 In the absence of clear indicators of what it means to be productive and valuable in their jobs, many knowledge workers turn back toward an industrial indicator of productivity: doing lots of stuff in a visible manner.
 
 <br>
-![title]({{"/assests/productivityTalk/outline.png"|absolute_url}})
+![outline]({{"/assests/productivityTalk/outline.png"|absolute_url}})
 <br>
 
 In the rest of the talk, I will discuss three generalized categories of work. I think it is essential to start here because each type of work requires a different set of environmental conditions to support productivity.
@@ -49,42 +49,42 @@ Being able to identify the type of work your team members do will allow you to s
 I'll end the talk on some tangible strategies for the support of a productive environment from the lens of a knowledge worker.
 
 <br>
-![title]({{"/assests/productivityTalk/labor1.png"|absolute_url}})
+![labor1]({{"/assests/productivityTalk/labor1.png"|absolute_url}})
 <br>
 
 Labor is the foundation of all work. Unlike coordination or knowledge work, labor is inherently tied to a place. Often labor tasks are repetitive and generally do not require a lot of specialized training to perform. Productivity in labor work is the easiest to quantify.
 
 <br>
-![title]({{"/assests/productivityTalk/labor2.png"|absolute_url}})
+![labor2]({{"/assests/productivityTalk/labor2.png"|absolute_url}})
 <br>
 
 If you perform a labor-related job for a while, you will develop a reasonable understanding of what limits your productivity. Due to the ability to quantify many elements of labor-related work, the manager usually determines the acceptable level of productivity. The individual worker may find it challenging to be more or less productive because of the top-down control present in these systems. When most elements of the work can be quantified, it leaves little room for the qualitative aspect. As such, in labor work, it can be difficult to motivation and meaning in the work itself. Staying productive means working on building your own personal motivation to do the job.
 
 <br>
-![title]({{"/assests/productivityTalk/coordinator1.png"|absolute_url}})
+![coordinator1]({{"/assests/productivityTalk/coordinator1.png"|absolute_url}})
 <br>
 Coordination work involves the communication and distribution of information. These are the most highly valued positions in society partly because these positions generally come with the power to make decisions on a process. Coordinators are usually not focused on creating products or ideas but are looking to take in information that will allow them to make the best decision possible. Much of the work of a coordinator is built around interpersonal relationships.
 
 <br>
-![title]({{"/assests/productivityTalk/coodinator2.png"|absolute_url}})
+![coodinator2]({{"/assests/productivityTalk/coodinator2.png"|absolute_url}})
 <br>
 
 To build an environment that supports productivity as a coordinator involves establishing and maintaining effective teams and guiding the direction of the group or project. Coordinators should be focused on the big picture ideas. The supportive nature of this role generally means that finding motivation and meaning from work is easy. The challenge becomes sustaining the mental and physical energy required to balance the various roles, ideas, and challenges that come with working with people.
 
 <br>
-![title]({{"/assests/productivityTalk/knowledge1.png"|absolute_url}})
+![knowledge1]({{"/assests/productivityTalk/knowledge1.png"|absolute_url}})
 <br>
 
 Knowledge work is very specialized and can generally be accomplished alone. This work relies on the products and decisions of laborers and coordinators. It is often based around non-routine problem solving, usually of a technical matter.
 
 <br>
-![title]({{"/assests/productivityTalk/knowledge2.png"|absolute_url}})
+![knowledge2]({{"/assests/productivityTalk/knowledge2.png"|absolute_url}})
 <br>
 
 The majority of this talk will be addressing specific structures and processes that allow knowledge workers to maintain an environment that supports productivity. Most of these structures and processes involve maintaining autonomy, direction, and focus. Knowledge work generally comes with a high level of autonomy. Therefore it is typically easy to find meaning and motivation from the work. With little physical requirements present in the work, sustaining your mental energy is the key to supporting productivity.
 
 <br>
-![title]({{"/assests/productivityTalk/allConnected.png"|absolute_url}})
+![allConnected]({{"/assests/productivityTalk/allConnected.png"|absolute_url}})
 <br>
 
 As I mentioned earlier, most everyone's job requires them to do work from all of these categories at some point. Understanding what role your in allows you to adjust the structures and processes to help meet the specific needs for a productive environment with that particular type of work. Understanding the role and type of work your team members perform will help you understand how you can support them.
@@ -94,7 +94,7 @@ To greatly generalize these groups we can say
 - knowledge produces ideas
 
 <br>
-![title]({{"/assests/productivityTalk/diet.png"|absolute_url}})
+![diet]({{"/assests/productivityTalk/diet.png"|absolute_url}})
 <br>
 
 Being productive can feel like being on a diet. You generally know what it is your suppose to do. Still, it is difficult to make those decisions because you can not control all elements of your environment. Weight loss requires that you expend more energy then you take in. Being productive as a knowledge work requires you to stay directed and focused. As we all know, this is easier said than done.
@@ -104,7 +104,7 @@ Much of my thoughts around productivity in knowledge can fit into two general ca
 
 
 <br>
-![title]({{"/assests/productivityTalk/Goals.png"|absolute_url}})
+![Goals]({{"/assests/productivityTalk/Goals.png"|absolute_url}})
 <br>
 
 
@@ -254,7 +254,7 @@ While I don't believe that you can escape being busy, trying to avoid the stress
 By organizing your work through goals, priorities, and daily schedules, you shift your focus away from deadlines and external factors as a means of motivation. You being producing consistently in incremental steps rather than binge efforts. You can produce a lot while avoiding the feeling of busyness.
 
 <br>
-![bears]({{"/assests/productivityTalk/busy.png"|absolute_url}})
+![bears]({{"/assests/productivityTalk/bears.png"|absolute_url}})
 <br>
 
 The picture on the right is from me holding up my phone to a pair of binoculars to capture an image of a mother grizzly bear and her two cubs. I chose to end with this image because part of being productive should be the feeling that you can step away from work and turn the skills of focus and attention to one of the many other elements of this world that deserve your time and effort.
