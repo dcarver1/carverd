@@ -1,0 +1,252 @@
+I"�s<h1 id="your-ideal-habitat">Your Ideal Habitat</h1>
+
+<p>I truly believe that as a professional within a given field, if you want to learn something new you have to have a pretty specific reason for doing so. Without a clear objective or question that your trying to reach it is all to easy to get swept away by the continuous flow of new information, new resources, and new content. Learning for learning’s sake slowly becomes more and more difficult. I bring this up because as part of my work I help people learn a new resource for engaging with remotely sensed imagery. I’ve come to realize that in order to get folks engaged they need to clearly see the benefit in learning. The post is about building a exercise that should hopefully peak everyone’s interest.</p>
+
+<p>We all dream about living elsewhere. Be it from travel experience abroad or vacations in your own country. Yet transforming the place where you vacation into the place you work can be a challenging endeavor and is not always feasible without some drastic changes in your life.</p>
+<blockquote>
+  <p>This understanding made me ask, well even though it is unlikely that I be able to work in southern Chile, is there a place that has a similar character somewhere within the US that might be easier to call home.</p>
+</blockquote>
+
+<p>So we’re going to try to answer that question using remotely sensed data, spatial modelling methodology, and some logical reasoning to find our ideal habit a bit closer to home.</p>
+
+<h2 id="method">Method</h2>
+<p>This is a walk along lesson using <strong>Google Earth Engine</strong>
+Go to the <a href="https://code.earthengine.google.com/">code editor</a> and copy and paste code as you read through the content. You can test the components yourself.</p>
+
+<h2 id="how-to-define-the-character-of-a-place">How to define the character of a place</h2>
+
+<p>Obviously cultural values are an extremely difficult feature to measure quantitatively. Specifically if your going to try to apply a set of parameters consistently across the world. So we’re going to focus on the things we can measure.</p>
+
+<p><strong>Climate</strong></p>
+
+<p><strong>Landscape</strong></p>
+
+<p><strong>Night Lights</strong></p>
+
+<p>The big assumption of all this is that places with similar environmental conditions are likely to develop similarities in culture as well. This is not true much of the time but I think we can agree that winter activities in Canada are going to differ from winter activities in Florida. Those activities play a role in defining what it is like to live in a place.</p>
+
+<h3 id="environmental-variables">Environmental Variables</h3>
+<p>Most ecological modeling uses a comprehensive climatic dataset called <a href="http://worldclim.org/version1">worldclim</a>. We will be doing the same. I found a <a href="https://pubs.usgs.gov/ds/691/">USGS Publication</a> that gives written interpretation of what the 19 bioclimatic variables of WorldCLim describe ecologically. Some are pretty straight forward but others required a bit more interpretation.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">//pull in world clim data and define how that would pass a descriptor of what we like about</span>
+<span class="c1">//climate</span>
+<span class="cm">/*
+BIO1 = Annual Mean Temperature
+BIO2 = Mean Diurnal Range (Mean of monthly (max temp - min temp)): general humidity
+BIO3 = Isothermality (BIO2/BIO7) (* 100) : diffences in humidity seasonally
+BIO4 = Temperature Seasonality (standard deviation *100) : temperature change between seasons
+BIO5 = Max Temperature of Warmest Month : Extreme heat
+BIO6 = Min Temperature of Coldest Month : Extreme Cold
+BIO7 = Temperature Annual Range (BIO5-BIO6) : seasonality
+BIO8 = Mean Temperature of Wettest Quarter
+BIO9 = Mean Temperature of Driest Quarter
+BIO10 = Mean Temperature of Warmest Quarter
+BIO11 = Mean Temperature of Coldest Quarter
+BIO12 = Annual Precipitation
+BIO13 = Precipitation of Wettest Month
+BIO14 = Precipitation of Driest Month
+BIO15 = Precipitation Seasonality (Coefficient of Variation) : variability in precipitation
+BIO16 = Precipitation of Wettest Quarter
+BIO17 = Precipitation of Driest Quarter
+BIO18 = Precipitation of Warmest Quarter : thunderstorms??
+BIO19 = Precipitation of Coldest Quarter : potentially snow???
+*/</span>
+</code></pre></div></div>
+
+<p>Let’s load in the dataset and view it using a print statement</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">var</span> <span class="nx">bioClim1</span> <span class="o">=</span> <span class="nx">ee</span><span class="p">.</span><span class="nx">Image</span><span class="p">(</span><span class="dl">"</span><span class="s2">WORLDCLIM/V1/BIO</span><span class="dl">"</span><span class="p">)</span>
+<span class="nx">print</span><span class="p">(</span><span class="nx">bioClim1</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p><strong>add image of print statement</strong></p>
+
+<p>Based on my assessment of what climatic conditions are important for who a person enjoys living in a specific place I’m pulling out a subset of the predictors and renaming them so they are easier to work with later. You can change this to match what you think is important.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// assign predictors so there are easier to work with and follow</span>
+<span class="kd">var</span> <span class="nx">BIO1</span> <span class="o">=</span> <span class="nx">bioClim</span><span class="p">.</span><span class="nx">select</span><span class="p">(</span><span class="dl">'</span><span class="s1">bio01</span><span class="dl">'</span><span class="p">).</span><span class="nx">rename</span><span class="p">(</span><span class="dl">"</span><span class="s2">BIO1</span><span class="dl">"</span><span class="p">)</span>
+<span class="kd">var</span> <span class="nx">BIO2</span> <span class="o">=</span> <span class="nx">bioClim</span><span class="p">.</span><span class="nx">select</span><span class="p">(</span><span class="dl">'</span><span class="s1">bio02</span><span class="dl">'</span><span class="p">).</span><span class="nx">rename</span><span class="p">(</span><span class="dl">"</span><span class="s2">BIO2</span><span class="dl">"</span><span class="p">)</span>
+<span class="kd">var</span> <span class="nx">BIO3</span> <span class="o">=</span> <span class="nx">bioClim</span><span class="p">.</span><span class="nx">select</span><span class="p">(</span><span class="dl">'</span><span class="s1">bio03</span><span class="dl">'</span><span class="p">).</span><span class="nx">rename</span><span class="p">(</span><span class="dl">"</span><span class="s2">BIO3</span><span class="dl">"</span><span class="p">)</span>
+<span class="kd">var</span> <span class="nx">BIO4</span> <span class="o">=</span> <span class="nx">bioClim</span><span class="p">.</span><span class="nx">select</span><span class="p">(</span><span class="dl">'</span><span class="s1">bio04</span><span class="dl">'</span><span class="p">).</span><span class="nx">rename</span><span class="p">(</span><span class="dl">"</span><span class="s2">BIO4</span><span class="dl">"</span><span class="p">)</span>
+<span class="kd">var</span> <span class="nx">BIO5</span> <span class="o">=</span> <span class="nx">bioClim</span><span class="p">.</span><span class="nx">select</span><span class="p">(</span><span class="dl">'</span><span class="s1">bio05</span><span class="dl">'</span><span class="p">).</span><span class="nx">rename</span><span class="p">(</span><span class="dl">"</span><span class="s2">BIO5</span><span class="dl">"</span><span class="p">)</span>
+<span class="kd">var</span> <span class="nx">BIO6</span> <span class="o">=</span> <span class="nx">bioClim</span><span class="p">.</span><span class="nx">select</span><span class="p">(</span><span class="dl">'</span><span class="s1">bio06</span><span class="dl">'</span><span class="p">).</span><span class="nx">rename</span><span class="p">(</span><span class="dl">"</span><span class="s2">BIO6</span><span class="dl">"</span><span class="p">)</span>
+<span class="kd">var</span> <span class="nx">BIO7</span> <span class="o">=</span> <span class="nx">bioClim</span><span class="p">.</span><span class="nx">select</span><span class="p">(</span><span class="dl">'</span><span class="s1">bio07</span><span class="dl">'</span><span class="p">).</span><span class="nx">rename</span><span class="p">(</span><span class="dl">"</span><span class="s2">BIO7</span><span class="dl">"</span><span class="p">)</span>
+<span class="kd">var</span> <span class="nx">BIO15</span> <span class="o">=</span> <span class="nx">bioClim</span><span class="p">.</span><span class="nx">select</span><span class="p">(</span><span class="dl">'</span><span class="s1">bio15</span><span class="dl">'</span><span class="p">).</span><span class="nx">rename</span><span class="p">(</span><span class="dl">"</span><span class="s2">BIO15</span><span class="dl">"</span><span class="p">)</span>
+<span class="kd">var</span> <span class="nx">BIO18</span> <span class="o">=</span> <span class="nx">bioClim</span><span class="p">.</span><span class="nx">select</span><span class="p">(</span><span class="dl">'</span><span class="s1">bio18</span><span class="dl">'</span><span class="p">).</span><span class="nx">rename</span><span class="p">(</span><span class="dl">"</span><span class="s2">BIO18</span><span class="dl">"</span><span class="p">)</span>
+<span class="kd">var</span> <span class="nx">BIO19</span> <span class="o">=</span> <span class="nx">bioClim</span><span class="p">.</span><span class="nx">select</span><span class="p">(</span><span class="dl">'</span><span class="s1">bio19</span><span class="dl">'</span><span class="p">).</span><span class="nx">rename</span><span class="p">(</span><span class="dl">"</span><span class="s2">BIO19</span><span class="dl">"</span><span class="p">)</span>
+
+<span class="nb">Map</span><span class="p">.</span><span class="nx">addLayer</span><span class="p">(</span><span class="nx">BIO1</span><span class="p">,</span> <span class="p">{},</span> <span class="dl">"</span><span class="s2">mean annual temperature</span><span class="dl">"</span> <span class="p">,</span><span class="kc">false</span><span class="p">)</span>
+
+</code></pre></div></div>
+
+<h4 id="topography">Topography</h4>
+<p>I believe that the shape of the land we live on does a lot to define the types of activities that go on there. Also, when I think of cities and towns that have a lot of unique character I think of hilly places like Seattle or Manitou Springs. Outdoor recreation is really closely related to topography and often protected land is where it is because it’s difficult to build there. (to steep, to low in elevation)
+I found a dataset created by <a href="https://www.csp-inc.org/">Conservation Science Partners</a> that identifies ecologically relevant landforms. I don’t really know if it the best for describing what people like but I figure it’s a reasonable place to start.</p>
+
+<p>Let’s pull it in and visualize it on the map.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">var</span> <span class="nx">topography1</span> <span class="o">=</span> <span class="nx">ee</span><span class="p">.</span><span class="nx">Image</span><span class="p">(</span><span class="dl">"</span><span class="s2">CSP/ERGo/1_0/Global/ALOS_mTPI</span><span class="dl">"</span><span class="p">)</span>
+<span class="nx">print</span><span class="p">(</span><span class="nx">topography1</span><span class="p">,</span> <span class="dl">'</span><span class="s1">topography layer</span><span class="dl">'</span><span class="p">)</span>
+<span class="nb">Map</span><span class="p">.</span><span class="nx">addLayer</span><span class="p">(</span><span class="nx">topography1</span><span class="p">,</span> <span class="p">{</span><span class="na">bands</span><span class="p">:</span> <span class="p">[</span><span class="dl">"</span><span class="s2">AVE</span><span class="dl">"</span><span class="p">],</span>
+<span class="na">gamma</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+<span class="na">max</span><span class="p">:</span> <span class="mf">2.76</span><span class="p">,</span>
+<span class="na">min</span><span class="p">:</span> <span class="o">-</span><span class="mf">2.59</span><span class="p">,</span>
+<span class="na">opacity</span><span class="p">:</span> <span class="mi">1</span><span class="p">},</span> <span class="dl">"</span><span class="s2">Topography Features</span><span class="dl">"</span><span class="p">,</span> <span class="kc">false</span><span class="p">)</span>
+</code></pre></div></div>
+<p>So I don’t really know what all the different class are but that’s ok. You can go back to the documentation if you really want to. I’m fine leaving it as a unknown because I don’t expect people to say “I love this place because it has so many alluvial fans”. It’s the fact that there are a diversity of landforms that is important.</p>
+
+<h3 id="social-variables">Social Variables</h3>
+<p>The last predictor we are bring in is an attempt to capture the world wide social feature of industrialization. We’re doing this through night lights. Areas that are bright at night are typically more industrialized and are more likely to be large urban areas. So this variable so help us understand if people want to live in a city or not.</p>
+
+<p>Again we will call it in and visualize it.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="c1">//Pull in the night lights dataset and visualize</span>
+<span class="kd">var</span> <span class="nx">nightlights</span> <span class="o">=</span> <span class="nx">ee</span><span class="p">.</span><span class="nx">ImageCollection</span><span class="p">(</span><span class="dl">"</span><span class="s2">NOAA/DMSP-OLS/CALIBRATED_LIGHTS_V4</span><span class="dl">"</span><span class="p">)</span>
+  <span class="p">.</span><span class="nx">median</span><span class="p">()</span>
+<span class="nx">print</span><span class="p">(</span><span class="nx">nightlights</span><span class="p">,</span> <span class="dl">'</span><span class="s1">Night Lights</span><span class="dl">'</span><span class="p">)</span>
+<span class="nb">Map</span><span class="p">.</span><span class="nx">addLayer</span><span class="p">(</span><span class="nx">nightlights</span><span class="p">,{</span><span class="na">bands</span><span class="p">:</span> <span class="p">[</span><span class="dl">"</span><span class="s2">avg_vis</span><span class="dl">"</span><span class="p">],</span>
+<span class="na">gamma</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+<span class="na">max</span><span class="p">:</span> <span class="mf">17.04</span><span class="p">,</span>
+<span class="na">min</span><span class="p">:</span> <span class="o">-</span><span class="mf">13.80</span><span class="p">,</span>
+<span class="na">opacity</span><span class="p">:</span> <span class="mi">1</span><span class="p">},</span> <span class="dl">"</span><span class="s2">night lights</span><span class="dl">"</span><span class="p">,</span> <span class="kc">false</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>With that our potential predictors are set, we can move on to the modeling process.</p>
+
+<h2 id="creating-our-habitat-ranges">Creating our habitat ranges</h2>
+<p>Were going to create geometry features for our “idealHabitat” and “Background”. In this case ideal habitat is where you would like to live, background is the area or country where it is currently easy for you to live.
+It’s up to you to decide where, I’m going to use the Contiguous 48 of the United States as my background. My idealHabitat in this case is a random spot in Hungary near what seems to be a large lake. Where every you pick be sure to keep you selected area somewhat small. I’d say a 20km square are is about as low as you would want to go. The courses of our predictor variables is 1km so 20km square area gives us a selection of 400 unique locations. This becomes important what defining the number of sampling points to use.</p>
+
+<p><strong>image of creating a geometry</strong></p>
+
+<p>With are geometry created and labeled we are going to generate some random points within the features that we will use to extract data from the predictors.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="c1">// sample data from both locations</span>
+<span class="c1">// assign a presence/absence value for each</span>
+<span class="kd">var</span> <span class="nx">idealPoints</span> <span class="o">=</span> <span class="nx">ee</span><span class="p">.</span><span class="nx">FeatureCollection</span><span class="p">.</span><span class="nx">randomPoints</span><span class="p">({</span><span class="na">region</span><span class="p">:</span><span class="nx">idealData</span><span class="p">,</span> <span class="na">points</span><span class="p">:</span><span class="mi">500</span><span class="p">,</span>
+<span class="na">seed</span><span class="p">:</span><span class="mi">123</span><span class="p">}).</span><span class="nx">map</span><span class="p">(</span><span class="kd">function</span><span class="p">(</span><span class="nx">feature</span><span class="p">)</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="nx">feature</span><span class="p">.</span><span class="kd">set</span><span class="p">(</span><span class="dl">'</span><span class="s1">ideal</span><span class="dl">'</span><span class="p">,</span> <span class="mi">1</span><span class="p">);</span>
+<span class="p">});</span>
+<span class="nx">print</span><span class="p">(</span><span class="nx">idealPoints</span><span class="p">,</span> <span class="dl">"</span><span class="s2">ideapoints</span><span class="dl">"</span><span class="p">)</span>
+
+<span class="kd">var</span> <span class="nx">backgroundPoints</span> <span class="o">=</span> <span class="nx">ee</span><span class="p">.</span><span class="nx">FeatureCollection</span><span class="p">.</span><span class="nx">randomPoints</span><span class="p">({</span><span class="na">region</span><span class="p">:</span><span class="nx">background</span><span class="p">,</span> <span class="na">points</span><span class="p">:</span><span class="mi">1000</span><span class="p">,</span>
+<span class="na">seed</span><span class="p">:</span><span class="mi">123</span><span class="p">}).</span><span class="nx">map</span><span class="p">(</span><span class="kd">function</span><span class="p">(</span><span class="nx">feature</span><span class="p">)</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="nx">feature</span><span class="p">.</span><span class="kd">set</span><span class="p">(</span><span class="dl">'</span><span class="s1">ideal</span><span class="dl">'</span><span class="p">,</span> <span class="mi">0</span><span class="p">);</span>
+<span class="p">});</span>
+<span class="nx">print</span><span class="p">(</span><span class="nx">backgroundPoints</span><span class="p">,</span> <span class="dl">"</span><span class="s2">backgroundPoints</span><span class="dl">"</span><span class="p">)</span>
+
+<span class="c1">//Merge presence and absence datasets</span>
+<span class="kd">var</span> <span class="nx">samples</span> <span class="o">=</span> <span class="nx">idealPoints</span><span class="p">.</span><span class="nx">merge</span><span class="p">(</span><span class="nx">backgroundPoints</span><span class="p">)</span>
+
+</code></pre></div></div>
+<p>Print the datasets allows us to view the differences. It also allows you to ensure the structure of the data sets are the same so the merge will work.</p>
+
+<h3 id="generating-predictors-lists">Generating predictors lists</h3>
+
+<p>Or next step will be selecting the predictors that we care about.
+I’m choosing some features that will tell me what the winter time precipitation will be like
+ ** Average temp, cold winter temp, cold month precip, topography, nightlights **
+Just comment out the variable you don’t want and select the ones you do.</p>
+
+<p>For starters I would keep the total number of predictors to under 5.  It’s better to start more generalized then start refining.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">//create a list of predictors</span>
+<span class="kd">var</span> <span class="nx">predictors</span> <span class="o">=</span> <span class="nx">BIO1</span>
+<span class="c1">//.addBands(BIO2)</span>
+<span class="c1">//.addBands(BIO3)</span>
+<span class="c1">//.addBands(BIO4)</span>
+<span class="c1">//.addBands(BIO5)</span>
+<span class="c1">//.addBands(BIO5)</span>
+<span class="p">.</span><span class="nx">addBands</span><span class="p">(</span><span class="nx">BIO6</span><span class="p">)</span>
+<span class="c1">//.addBands(BIO7)</span>
+<span class="c1">//.addBands(BIO15)</span>
+<span class="p">.</span><span class="nx">addBands</span><span class="p">(</span><span class="nx">BIO18</span><span class="p">)</span>
+<span class="c1">//.addBands(BIO19)</span>
+<span class="p">.</span><span class="nx">addBands</span><span class="p">(</span><span class="nx">nightlights</span><span class="p">)</span>
+<span class="p">.</span><span class="nx">addBands</span><span class="p">(</span><span class="nx">topography</span><span class="p">)</span>
+
+</code></pre></div></div>
+
+<p>Where going to generate a quick histogram of our predictors to get a bit of an idea of the range of values that are present.
+Again the shape of the curves are more important then the values. It the histograms are really wide, we’ve selected a diverse predictor are and that will make it hard to refine the model.
+This is very much a subjective process so don’t stress it too much. This step is really just about building a little more understanding of your data before you push it into a model.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="c1">// Pre-define some customization options.</span>
+<span class="kd">var</span> <span class="nx">options</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="na">title</span><span class="p">:</span> <span class="dl">'</span><span class="s1">Range of selected predictors</span><span class="dl">'</span><span class="p">,</span>
+  <span class="na">fontSize</span><span class="p">:</span> <span class="mi">20</span><span class="p">,</span>
+  <span class="na">hAxis</span><span class="p">:</span> <span class="p">{</span><span class="na">title</span><span class="p">:</span> <span class="dl">'</span><span class="s1">Value</span><span class="dl">'</span><span class="p">},</span>
+  <span class="na">vAxis</span><span class="p">:</span> <span class="p">{</span><span class="na">title</span><span class="p">:</span> <span class="dl">'</span><span class="s1">number of cells</span><span class="dl">'</span><span class="p">},</span>
+<span class="p">};</span>
+
+<span class="c1">// Make the histogram, set the options.</span>
+<span class="kd">var</span> <span class="nx">histogram</span> <span class="o">=</span> <span class="nx">ui</span><span class="p">.</span><span class="nx">Chart</span><span class="p">.</span><span class="nx">image</span><span class="p">.</span><span class="nx">histogram</span><span class="p">(</span><span class="nx">predictors</span><span class="p">,</span> <span class="nx">idealData</span><span class="p">,</span> <span class="mi">100</span><span class="p">)</span>
+    <span class="p">.</span><span class="nx">setOptions</span><span class="p">(</span><span class="nx">options</span><span class="p">);</span>
+
+<span class="c1">// Display the histogram.</span>
+<span class="nx">print</span><span class="p">(</span><span class="nx">histogram</span><span class="p">);</span>
+</code></pre></div></div>
+<h2 id="modeling-process">modeling process</h2>
+
+<p>We’re using a randomforest algorithm for the modeling process. This is not ideal because we’re not working with presence absence data but presences and pseudo absence. What this means is that the number of background points is going to significantly effect the specificity of the model output. Right not the ratio is
+<strong>presence: 500</strong>
+<strong>absence: 100</strong></p>
+
+<p>You can alter these are you start to refine your model. But this is just the first go so let it rip and lets see what happens.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">//extract values to selected world climate data</span>
+<span class="kd">var</span> <span class="nx">extractedData</span> <span class="o">=</span> <span class="nx">predictors</span><span class="p">.</span><span class="nx">sampleRegions</span><span class="p">({</span>
+  <span class="na">collection</span><span class="p">:</span> <span class="nx">samples</span><span class="p">,</span>
+  <span class="na">properties</span><span class="p">:</span> <span class="p">[</span><span class="dl">'</span><span class="s1">ideal</span><span class="dl">'</span><span class="p">]</span>
+<span class="p">});</span>
+<span class="nx">print</span><span class="p">(</span><span class="nx">extractedData</span><span class="p">,</span><span class="dl">'</span><span class="s1">ideal</span><span class="dl">'</span><span class="p">)</span>
+
+<span class="c1">//feed into a classifier</span>
+<span class="c1">// train our model using random forest</span>
+<span class="kd">var</span> <span class="nx">trainingclassifier</span> <span class="o">=</span> <span class="nx">ee</span><span class="p">.</span><span class="nx">Classifier</span><span class="p">.</span><span class="nx">randomForest</span><span class="p">({</span>
+                  <span class="na">numberOfTrees</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
+                  <span class="na">bagFraction</span><span class="p">:</span> <span class="mf">0.7</span> <span class="p">,</span>
+                  <span class="na">outOfBagMode</span><span class="p">:</span> <span class="kc">false</span> <span class="p">,</span>
+                  <span class="na">seed</span><span class="p">:</span><span class="mi">123</span> <span class="p">}).</span><span class="nx">train</span><span class="p">({</span>
+<span class="na">features</span><span class="p">:</span> <span class="nx">extractedData</span><span class="p">,</span>
+<span class="na">classProperty</span><span class="p">:</span> <span class="dl">'</span><span class="s1">ideal</span><span class="dl">'</span><span class="p">});</span>
+
+<span class="nx">print</span><span class="p">(</span><span class="nx">trainingclassifier</span><span class="p">)</span>
+</code></pre></div></div>
+
+<h2 id="visualizing-the-model">Visualizing the model</h2>
+<p>The model really becomes valuable to us when we visualize it.
+So lets do that.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">/</span><span class="nx">apply</span> <span class="nx">classification</span>
+<span class="c1">// apply model to imagery using the classifiers</span>
+<span class="kd">var</span> <span class="nx">classified</span> <span class="o">=</span> <span class="nx">predictors</span><span class="p">.</span><span class="nx">classify</span><span class="p">(</span><span class="nx">trainingclassifier</span><span class="p">).</span><span class="nx">clip</span><span class="p">(</span><span class="nx">background</span><span class="p">);</span>
+
+<span class="nx">print</span><span class="p">(</span><span class="nx">classified</span><span class="p">,</span> <span class="dl">'</span><span class="s1">classified</span><span class="dl">'</span><span class="p">)</span>
+
+<span class="c1">// view modeled result</span>
+<span class="nb">Map</span><span class="p">.</span><span class="nx">addLayer</span><span class="p">(</span><span class="nx">classified</span><span class="p">,</span> <span class="nx">classificationParam</span><span class="p">,</span> <span class="dl">'</span><span class="s1">classified</span><span class="dl">'</span><span class="p">,</span> <span class="kc">true</span><span class="p">)</span>
+
+</code></pre></div></div>
+
+<h2 id="summary">Summary</h2>
+
+<p>What we did here was the base methodology of a of species distribution model. In this case we were the species, which makes it a bit more fun in my opinion.
+There is a lot you can change that will help build your understanding of how each component of the modeling process effects the final output. Try them out if your interested.</p>
+
+<ol>
+  <li>adjust your “idealHabitat” and “background” areas</li>
+  <li>Change the number of points generated within your two areas</li>
+  <li>adjust the predictors and number of predictors. Starting with one and build is a good process.</li>
+</ol>
+
+<p>All these actions have effects but again you have to have interest in the results to really dive into the details.
+So you want to know where your ideal global habitat is in the US, then please continue to test and explore.</p>
+
+<p>Last note:
+<strong>You should always rely on ground truthing before trusting your model</strong>
+so, I wouldn’t suggest packing up and moving based on this model alone.</p>
+:ET
