@@ -5,8 +5,8 @@ permalink: "signalAndNoise"
 categories: trainings
 ---
 
---- 
-# How to Find a What's There
+---
+# How to Find What's There
 
 Attempting to measure is an essential part of the scientific process. In the case of my current work, we're predicting the suitable habitat of a given species. This process is called species distribution modeling, habitation distribution modeling, ecological niche modeling , and probably something else as well. We use the term species distribution modelling because the folks we work with are interested in the species. The process is all about measuring the likelihood of finding a species at a given location on the planet.
 
