@@ -4,6 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+## Welcome
+
 ### This Site is for
 Sharing ideas and information that I find worth sharing.
 I started it to help me motivate myself to write more. It has done just that.
