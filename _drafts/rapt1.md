@@ -69,7 +69,7 @@ draw to focus. As with everything else, individuals fall on a spectrum between t
 >Technique is what you fall back on when you run out of inspiration.
 Rudolf Nureyev
 
-Much like the training of the body or off intelligence research is finding that attention as a system can also be strengthened. The brians attent system is split into three parts
+Much like the training of the body or off intelligence research is finding that attention as a system can also be strengthened. The brains attention system is split into three parts
 *Alerting*
 *Orienting*
 *Executive*  
@@ -92,7 +92,7 @@ In the Cartesian method of thought which is still the dominate one. Everything i
 This idea of process and structure struck me as a core means of explaining that idea.
 No feature stands alone, it is either a part of a structure or a part of a process. If it is a structure or a function depends mostly on what scale the feature is viewed at.
 This does meld a bit with the form or function idea that is common speak, thought I not sure how closely tied that is to either the cartisian or systems philosophy.
-Defining all features as either a structure or function removes the ability to speak of individuals. With out hte individual everything is a system. This seems like a core concept. We wrok with individuals because they are easier to measure the system they are a part of. This allows the emergent properties of systems to have a place even though they don't have a part of a structure. They are not a stand alone individual but a process of a stucture  or a process of a process. This train of thought inherently pushes attention outward toward the more complex features.
+Defining all features as either a structure or function removes the ability to speak of individuals. With out the individual everything is a system. This seems like a core concept. We wrok with individuals because they are easier to measure the system they are a part of. This allows the emergent properties of systems to have a place even though they don't have a part of a structure. They are not a stand alone individual but a process of a stucture  or a process of a process. This train of thought inherently pushes attention outward toward the more complex features.
 Process and Structure
 Structure and process
 That is all there is.
