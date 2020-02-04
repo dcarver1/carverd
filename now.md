@@ -4,10 +4,12 @@ title: Right Now
 permalink: /now/
 ---
 
-updated 20191231
+updated 20190202
 
-Right now I am focused on quantifying the conservation status of 650 species in North America. These species are wild relatives of agricultural crop and are found in the natural environment. This means I'm spending a lot of time troubleshooting R code. I'm also learning how to run the modeling in a distributive computing environment.
+I am wrapping up the big crop wild relative conservation status assessment for the 650 species of North America. Very sortly we will be evaluating this work and writing up methods/conclusion for the paper.
 
-To balance this technical tasks I'm writing more. I am compiling book reviews from 2019— [goodreads account](www.goodreads.com/carverd)—, Doing a fair bit of personal reflectio and I attempt to find the next job opportunity that will be the best suited for my goals and ambitions.
+I've been putting a lot of time into creating a R library so others can perform the gapanalysis method that my co-workers and I have been performing over the past few years. It is big learning experience for me and is changing how I think about the writing code.  
 
-I'm also starting a sculpture art project using metal and rock. It's good break from the screen and something I hope to share more about on this site soon.
+Roamresearch.com is a new note taking system that uses a graph database. It is lovely and is becoming my go to source for organization.
+
+swimming, is something new. It awfully enjoyable being underwater. 
