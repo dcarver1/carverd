@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
- 
+
 ## Welcome
 
 ### This Site is for
@@ -15,4 +15,5 @@ It changes and evolves as do I.
 ## Right Now
 I've been looking more and more at [Derek Sivers](https://sivers.org/) website. He is becoming something of an internet role model. Someone who reads, writes, and shares.
 
-So click here to see what I am doing [now](http://www.carverd.com/now)
+Click below to see what I am doing
+##  [now](http://www.carverd.com/now)
