@@ -4,11 +4,16 @@ title: Right Now
 permalink: /now/
 ---
 
-updated 20190202
+updated 2019017
 
+There are multiple deadlines all coming together. Some of these deadlines are real, but most are self-imposed. Timelines that I set a while back, because I believed they were possible. I'm putting in the extra effort now to ensure I live up to those previous commitments. To make sure my word stays true.
 
-I am wrapping up the big crop wild relative conservation status assessment for the 650 species of North America. Within the week should be evaluating this work and writing up results/conclusion for the paper. This process should help guide future crop wild relative conservation efforts written about [here.](https://dl.sciencesocieties.org/publications/cs/articles/59/6/2302)
+These projects include
+ - Crop Wild Relative of North America: filling in minor gaps and starting detailed work on the paper
+ - Ensuring the gapAnalysisR package is functional and read for github deployment
+ - Completing revision of electric charge charging data analysis for CSU alternative transportation group
+ - framing conversations for future work within the USDA
+	- future climate scenario modeling of an alternative rubber species Guayule
+	- Connect bioclimatic predictor data to common garden studies of the phenology of buckwheat.
 
-I've been putting a lot of time into creating an R library so others can perform the gap analysis method that my co-workers and I have been using over the past few years. It has been a big learning experience for me and is changing how I think about the writing code.  
-
-[Roam](Roamresearch.com) is a note-taking system that uses a graph database rather than a hierarchical organization structure for files. It is lovely and is becoming my go-to source for organization, and I'm slowly converting the goal structure/task management I used in notion.so into roam. It's not perfect, but the graph database structure is much more representative of how we think, so I'm committing to the change. 
+ It's a testing time on my organization and focus.
