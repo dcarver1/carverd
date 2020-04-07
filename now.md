@@ -4,16 +4,10 @@ title: Right Now
 permalink: /now/
 ---
 
-updated 2019017
+updated 20200407
 
-There are multiple deadlines all coming together. Some of these deadlines are real, but most are self-imposed. Timelines that I set a while back, because I believed they were possible. I'm putting in the extra effort now to ensure I live up to those previous commitments. To make sure my word stays true.
+Gosh, March was nuts...
 
-These projects include
- - Crop Wild Relative of North America: filling in minor gaps and starting detailed work on the paper
- - Ensuring the gapAnalysisR package is functional and read for github deployment
- - Completing revision of electric charge charging data analysis for CSU alternative transportation group
- - framing conversations for future work within the USDA
-	- future climate scenario modeling of an alternative rubber species Guayule
-	- Connect bioclimatic predictor data to common garden studies of the phenology of buckwheat.
+The virus, I affectionally call, it who must not be named, has throw a serious bolt in the gears of the world. The uncertainty and rapidness in which all levels of governance follow suit was and still is astounding. It's a serious issue without a doubt. One I'm trying to write about to get grips on. I guess to summarize my thoughts I'm growing a beard for the millions of people who have given up their access to education and those who lost their ability to maintain a business, pursue meaningful work, or support themselves and those they care about.
 
- It's a testing time on my organization and focus.
+Other news, I'm working with the geospatial centroid at Colorado State University as the technical manager for the program. It's a new role so we are still working our what exactly it entails. It's a great feeling and I'm loving the work.
