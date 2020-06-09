@@ -4,10 +4,15 @@ title: Right Now
 permalink: /now/
 ---
 
-updated 20200407
+updated 20200609
 
-Gosh, March was nuts...
+Summer is here!
 
-The virus, I affectionally call, it who must not be named, has throw a serious bolt in the gears of the world. The uncertainty and rapidness in which all levels of governance follow suit was and still is astounding. It's a serious issue without a doubt. One I'm trying to write about to get grips on. I guess to summarize my thoughts I'm growing a beard for the millions of people who have given up their access to education and those who lost their ability to maintain a business, pursue meaningful work, or support themselves and those they care about.
+For not doing all that much do to social distancing factors, I feel like a lot has been going on. I'm trying to get situated into two new positions, which is a bit more challenging then I expected. I want to point a finger at the all remote workplace structure but that's not the whole of it.
 
-Other news, I'm working with the geospatial centroid at Colorado State University as the technical manager for the program. It's a new role so we are still working our what exactly it entails. It's a great feeling and I'm loving the work.
+Current projects
+- finalizing gap analysis R library and paper
+- edits for CWR of USA paper ~ fairly positive review from PNAS which is great
+- co facilitating a software carpentry training on R
+- trying to get my head around GRIN Global, or at least a piece of it.
+- remote gardening, lol yes, we at least part time :) 
