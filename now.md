@@ -15,4 +15,4 @@ Current projects
 - edits for CWR of USA paper ~ fairly positive review from PNAS which is great
 - co facilitating a software carpentry training on R
 - trying to get my head around GRIN Global, or at least a piece of it.
-- remote gardening, lol yes, we at least part time :) 
+- remote gardening, lol yes, we at least part time :)
