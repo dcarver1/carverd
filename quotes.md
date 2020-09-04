@@ -4,6 +4,11 @@ title: "Quotes"
 ---
  Excellent words from people I have learned from.
 
+## Carl Sagan
+#### *Pale Blue Dot*
+> Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived there-on a mote of dust suspended in a sunbeam.
+
+
 ### Ursula K. Le Guin
 #### *Late in the Day*
 > science describes accurately from outside, poetry describes accurately from inside, both celebrate what they describe.
@@ -31,4 +36,4 @@ title: "Quotes"
 
 ### Leonard Bernstein
 #### Unknown source
-> To achieve great things, two things are needed: a plan, and not quite enough time. 
+> To achieve great things, two things are needed: a plan, and not quite enough time.

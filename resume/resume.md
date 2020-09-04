@@ -40,6 +40,29 @@ GPA: 3.70/4
 
 ## **Professional Experience**
 
+### Colorado State University: Geospatial Centroid
+
+`April 2020 - Present`
+
+**Technical manager** - Fort Collins, Colorado
+
+> Support project management, intern education, and research at the [Geospatial Centroid](https://gis.colostate.edu/).
+
+*Project Management 70%*
+ - Create and maintain processes the support reproducible workflows for project teams.
+ - Method develop for individual projects.
+ - Partner communication and outreach.
+
+*Intern Support 70%*
+
+  - Provide technical guidance to the approximately 10 centroid interns
+  - Support and promote their professional development by hosting trainings and promoting a culture of communication and feedback
+
+*Research 15%*
+
+- Produce deliverables that directly support project partner needs
+
+
 ### Colorado State University: Natural Resource Ecology Laboratory
 `April 2019 - Present`
 
@@ -219,6 +242,7 @@ Interpretation Program.
 ---
 
 ## Publications
+- Vining, Kelly, et al. "Crop wild relatives as germplasm resource for cultivar improvement in mint (Mentha L.)." Frontiers in Plant Science 11 (2020): 1217.
 - Khoury CK, Carver D, Kates HR, Achicanoy HA, van Zonneweld M, Thomas E, Heinitz C, Jarret R, Labate JA, Reitsma K, Nabhan GP, and Greene SL (2019) Distributions, conservation status, and abiotic stress tolerance potential of wild cucurbits (Cucurbita L.). Plants, People, Planet.
 - Khoury CK, Carver D, Barchenger DW, Barboza G, van Zonneweld M, Jarret R, Bohs L, Kantar MB, Uchanski M, Mercer K, Nabhan GP, Bosland PW, and Greene SL (2019) Modeled distributions and conservation status of the wild relatives of chile peppers (Capsicum L). Diversity and Distributions. Doi: 10.1111/DDI.13008.
 - Greene SL, Carver D, Khoury CK, Irish B, Olwell P, Leah P (2019)  Seeds of Success: Collateral Benefits to Agricultural Crop Improvement, Research and Education. Crop Science

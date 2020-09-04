@@ -4,14 +4,8 @@ title: Right Now
 permalink: /now/
 ---
 
-updated 20200722
+updated 20200904
 
-Summer is in full swing
+I'm pretty well settled into the remote work process. It is not my favorite. I'm finding it difficult to build and maintain the professional relationships that are part of any work place. I still envision a future where we engage with others on a day to day biases. I don't want to give up on that idea.
 
-I went back to CSU campus for the first time since April. It was great to see. Totally empty but still the trees and building all provide a better character for a work place. I guess I'm getting tired of my desk in the corner at home.
-Just putting the final touches on a paper and R library for gap analysis R.
-The revisions for the CWR of the US paper are taking a lot of time and effort. It's been enjoyable getting to do some more method development but the timeline of the work is pretty taxing.
-
-Current projects
-- edits for CWR of USA paper ~ fairly positive review from PNAS which is great
-- remote gardening, lol yes, we at least part time :)
+Edits for the CWR of the USA paper are in. It was a tremendous amount of work. Now that it's off my plate for a bit I'm able to focus a bit more on other projects. Reproducible reporting for parking and transportation service at CSU, method development for Centroid projects, and this funky data base transformation work for the USDA. Each is a little bit different but that's a good thing in my book.
