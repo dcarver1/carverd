@@ -4,8 +4,8 @@ title: Right Now
 permalink: /now/
 ---
 
-updated 20200904
+updated 20200924
 
-I'm pretty well settled into the remote work process. It is not my favorite. I'm finding it difficult to build and maintain the professional relationships that are part of any work place. I still envision a future where we engage with others on a day to day biases. I don't want to give up on that idea.
+I am sinking into the scheduled life again. It's a good feeling. I'm making space and time for more planning and self reflection. I'm writing a bit more. This all cames back to doing less. Seems odd to say after just mentioning doing more but it's real. I'm whittling down my priorities. Saying thank you can good buy to hobbies and things that took up time and space. It is a challenge.
 
-Edits for the CWR of the USA paper are in. It was a tremendous amount of work. Now that it's off my plate for a bit I'm able to focus a bit more on other projects. Reproducible reporting for parking and transportation service at CSU, method development for Centroid projects, and this funky data base transformation work for the USDA. Each is a little bit different but that's a good thing in my book.
+Work is quite exciting at the moment. I'm not just treading water. I can move on projects, big projects, that have felt like they have emerging out of a tar pit for the last year. The is a new idea in the works as well. Monitoring the changes in night lights across the country. It's a good big data project with an interesting team. I'm most excited about that.

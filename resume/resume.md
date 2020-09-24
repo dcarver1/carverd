@@ -242,19 +242,26 @@ Interpretation Program.
 ---
 
 ## Publications
-- Vining, Kelly, et al. "Crop wild relatives as germplasm resource for cultivar improvement in mint (Mentha L.)." Frontiers in Plant Science 11 (2020): 1217.
+**2020**
+- O’Shea, K.; LaRoe, J.; Vorster, A.; Young, N.; Evangelista, P.; Mayer, T.; Carver, D.; Simonson, E.; Martin, V.; Radomski, P.; Knopik, J.; Kern, A.; Khoury, C.K. Improved Remote Sensing Methods to Detect Northern Wild Rice (Zizania palustris L.). Remote Sens. 2020, 12, 3023.
+- Moreno-Sanchez, R., Carver, D.P., Torres-Rojo, J.M. et al. Assessment of the classification accuracy of the Globeland30 Forest class for the temperate and tropical forests of Mexico. Appl Geomat (2020). https://doi.org/10.1007/s12518-020-00328-1
+- Vining, K. J., Hummer, K. E., Bassil, N. V., Lange, B. M., Khoury, C. K., & Carver, D. (2020). Crop wild relatives as germplasm resource for cultivar improvement in mint (Mentha L.). Frontiers in Plant Science
+**2019**
 - Khoury CK, Carver D, Kates HR, Achicanoy HA, van Zonneweld M, Thomas E, Heinitz C, Jarret R, Labate JA, Reitsma K, Nabhan GP, and Greene SL (2019) Distributions, conservation status, and abiotic stress tolerance potential of wild cucurbits (Cucurbita L.). Plants, People, Planet.
 - Khoury CK, Carver D, Barchenger DW, Barboza G, van Zonneweld M, Jarret R, Bohs L, Kantar MB, Uchanski M, Mercer K, Nabhan GP, Bosland PW, and Greene SL (2019) Modeled distributions and conservation status of the wild relatives of chile peppers (Capsicum L). Diversity and Distributions. Doi: 10.1111/DDI.13008.
 - Greene SL, Carver D, Khoury CK, Irish B, Olwell P, Leah P (2019)  Seeds of Success: Collateral Benefits to Agricultural Crop Improvement, Research and Education. Crop Science
 - Lebeda A, Kristkova E, Kitner M, Majesky L, Dolezalova I, Khoury CK, Carver D, Achicanoy HA, Sossa C, Widrlechner M, Hu J (2019) Research gaps and challenges in the conservation and exploitation of North American wild lettuce (Lactuca L.) germplasm. Crop Science
 - Mezghani, N., Khoury, C. K., Carver, D., Achicanoy, H. A., Simon, P., Flores, F. M., & Spooner, D. (2019). Distributions and conservation status of carrot wild relatives in Tunisia: A case study in the western Mediterranean basin. Crop Science, 59(6), 2317-2328.
+**2018**
 - Woodward, Brian., Evangelista, Paul., Young, Nicholas., Vorster, Anthony., West, Amanda., Carroll, Sarah., Girma, Rebecca., Hatcher, Emma., Anderson, Ryan., Vahsen, Megan., Vashisht, Amandeep., Mayer, Timothy., Carver, Daniel., Jarnevich, Catherine. (2018). CO-RIP: A Riparian Vegetation and Corridor Extent Dataset for Colorado River Basin Streams and Rivers. ISPRS International Journal of Geo-Information. 7. 397. 10.3390/ijgi7100397.
 - Moreno-Sanchez, R., Manuel Torres Rojo, J., Moreno-Sanchez, F., Carver, D., Niknami, L., Clay, E., Exploration of Land-cover Changes 2000-2010 at the National Level in Mexico Using GlobeLand30 Data Sets. Reality, Data and Space International Journal of Statistics and Geography Vol.8, Num 3 (2018)
+**2014**
 - Carver, D.P., Beeton, J.M., Holocene landscape evolution and geoarchaeology of low-order streams in the Rio Grande basin,
 San Juan Mountains, Colorado, USA. Journal of Quaternary Research 82 (2014), 331-341.
 - Wilderness Ranger Cookbook, 2nd: A Collection of Backcountry Recipes by Bureau of Land
 Management, Forest Service, National Park Service, and U.S. Fish and Wildlife Service Wilderness
 Rangers. - My recipe for Ambassadorial Breakfast Gravel is in this text.
+**2011**
 - Contributed to two professional peer-reviewed reports submitted to the Colorado Historical Society; Principal Investigator: Dr. Jared Beeton. - Geoarchaeology and 14C Dating of Landform Sediment Assemblages in La Jara Creek, Hot Creek and the Alamosa River Basins, San Luis Valley,= Colorado. Submitted Winter 2012. - Soils and Geoarchaeology of La Jara Creek, Hot Creek and Alamosa River, Rio Grande Basin, Colorado. Accepted Spring 2011
 
 ---
