@@ -4,8 +4,12 @@ title: Right Now
 permalink: /now/
 ---
 
-updated 20200924
+updated 20210117
 
-I am sinking into the scheduled life again. It's a good feeling. I'm making space and time for more planning and self reflection. I'm writing a bit more. This all cames back to doing less. Seems odd to say after just mentioning doing more but it's real. I'm whittling down my priorities. Saying thank you can good buy to hobbies and things that took up time and space. It is a challenge.
+The new year is here. I'm still in the process of conducting a review of 2020. With only about 2 hours a week to commit to the process it is taking longer then expect. I've been much more active with my writing the past few week and I hope to be a bit more active on the website.
 
-Work is quite exciting at the moment. I'm not just treading water. I can move on projects, big projects, that have felt like they have emerging out of a tar pit for the last year. The is a new idea in the works as well. Monitoring the changes in night lights across the country. It's a good big data project with an interesting team. I'm most excited about that.
+2020 was the year of finding life
+
+My formalized big picture question is : How to live a life
+
+Both products of the yearly review method. 
