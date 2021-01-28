@@ -4,12 +4,8 @@ title: Right Now
 permalink: /now/
 ---
 
-updated 20210117
+updated 20210128
 
-The new year is here. I'm still in the process of conducting a review of 2020. With only about 2 hours a week to commit to the process it is taking longer then expect. I've been much more active with my writing the past few week and I hope to be a bit more active on the website.
-
-2020 was the year of finding life
-
-My formalized big picture question is : How to live a life
-
-Both products of the yearly review method. 
+I'm working intently to wrap up some long standing projects to make way for new one. I'm still able to make time each week for writing which is a great feeling.
+I'm looking into voice recognition software, trying to determine the value it would bring to my daily work. Basically draft out ideas and emails by speaking through there. It would certainly help keeping writing and editing separated.
+I've been using the pomodoro timer for tracking time I spend with emails... Communication is important but seeing big chucks of the day be spent of it is a little disheartening.
