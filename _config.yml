@@ -29,7 +29,7 @@ github_username:  dcarver1
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: mere-blog-theme
 style:  davewhipp
 plugins:
 - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
