@@ -11,6 +11,7 @@ Colorado
 dan.carver@carverd.com
 | <a href="http://www.carverd.com">My personal website</a>
 </div>
+github::[dcarver1](https://github.com/dcarver1)
 
 ---
 

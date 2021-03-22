@@ -4,8 +4,7 @@ title: Right Now
 permalink: /now/
 ---
 
-updated 20210128
+updated 20210322
 
-I'm working intently to wrap up some long standing projects to make way for new one. I'm still able to make time each week for writing which is a great feeling.
-I'm looking into voice recognition software, trying to determine the value it would bring to my daily work. Basically draft out ideas and emails by speaking through there. It would certainly help keeping writing and editing separated.
-I've been using the pomodoro timer for tracking time I spend with emails... Communication is important but seeing big chucks of the day be spent of it is a little disheartening.
+I spent some time reworking my github page which was fun. I'm taking some time to learn more about shiny R applications as they will be a part of our standard products at the centroid in the near future.
+Work on the covid night lights project is continuing. I've developed some complicated methods for identifying mismatched datasets within the SOS and GRIN data sources. Not exciting work but very practical.
