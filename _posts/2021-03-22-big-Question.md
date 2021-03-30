@@ -29,9 +29,9 @@ For as ambiguous as it is, I can feel the significance of approaching that idea 
 
 So far, two primary themes are developing in my search.
 <div align="center">
-  **Experience is what matters.**
+ <b> Experience is what matters. </b>
 
-  **Value creation over consumption.**
+  <b> Value creation over consumption. </b>
 
  </div>
 
