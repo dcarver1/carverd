@@ -16,7 +16,7 @@ gem "mere-blog-theme"
 
 
 #update kramdown
-gem "kramdown", ">= 2.3.0"
+gem "kramdown", ">= 2.3.1"
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
