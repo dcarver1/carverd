@@ -80,8 +80,8 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.0.0)
   jekyll-feed (~> 0.6)
-  kramdown (>= 2.3.0)
-  minima (~> 2.0)
+  kramdown (>= 2.3.1) 
+  minima (~> 2.0)n (>= 2.3.0)
   tzinfo-data
 
 BUNDLED WITH
