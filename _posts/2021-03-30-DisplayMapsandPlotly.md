@@ -10,7 +10,7 @@ categories: perspective
 This is a plotly figure I generate and saved using the htmlwidget library in r.
 
 
-<iframe src="/interactiveDocs/index.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src= {% include_relative /interactiveDocs/index.html %} height="600px" width="100%" style="border:none;"></iframe>
 
 
 This is a webmap created by the geospatial centroid hosted on arcgis online.
