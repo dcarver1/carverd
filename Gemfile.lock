@@ -10,8 +10,8 @@ GEM
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.5)
     eventmachine (1.2.5-x64-mingw32)
-    ffi (1.9.23)
-    ffi (1.9.23-x64-mingw32)
+    ffi (1.15.0)
+    ffi (1.15.0-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (0.9.5)
@@ -59,6 +59,7 @@ GEM
       concurrent-ruby (~> 1.0)
     tzinfo-data (1.2021.1)
       tzinfo (>= 1.0.0)
+    wdm (0.1.1)
 
 PLATFORMS
   ruby
@@ -69,6 +70,7 @@ DEPENDENCIES
   jekyll
   jekyll-paginate
   tzinfo-data
+  wdm (>= 0.1.0)
 
 BUNDLED WITH
    2.2.15
