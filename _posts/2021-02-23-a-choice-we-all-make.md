@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "A Choice We all Make"
-permalink: "ChoiceWeAll"
+image: river1.jpg
+permalink: "a_choice"
+tags: [perspective]
+categories: perspective
 ---
 
 

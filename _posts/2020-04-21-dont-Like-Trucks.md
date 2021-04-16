@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Don't like trucks"
-permalink: "interstateWisdom"
+image: dontLikeTrucks.jpg
+permalink: "dont_like_trucks"
+tags: [perspective]
+categories: perspective
 ---
 
 I drafted this post over a year ago and never did anything with it. I've been rifling through past drafts as a means of writing something not connected to the current state of things (April, 2020). While this is not about the virus, it speaks to an effect of the social changes of the last month. Very few of us are traveling for personal reasons. The interstates are not empty but full of something deemed essential, trucks and those who drive them.
@@ -16,7 +19,9 @@ While driving can provide a space for contemplation, it is also a place for unso
 
 Yet not all messages on the road are bad or unwelcomed. There are times when a message comes through and truly engages your mind. I think of quirky bumper stickers, populations(or elevation) signs of passing towns, or the feeling of relief that comes from finally seeing your exit after a long ride. If the circumstances are just right, the contemplative state and the message can combine and provide us with something significant. I call this **Interstate Wisdom**. Below is an example of one such gift.
 
-![stop buying shit](/assests/dontLikeTrucksCrop.jpg)
+{:refdef: style="text-align: center;"}
+![Interstate Wisdom](images\dontLikeTrunks\dontLikeTrucksCrop.jpg)
+{: refdef}
 
 The image is a little blurry, a side effect of traveling at nearly 80 mph and being one of those jerks obviously on their phone while driving. But the statement is clear.
 

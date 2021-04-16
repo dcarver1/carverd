@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "Ask a big question"
-permalink: "bigquestion"
+title: "A Big Question"
+permalink: "big_question"
+image: tree1.jpg
+tags: [perspective]
+categories: perspective
 ---
 ## Filtering Information
 
@@ -29,9 +32,9 @@ For as ambiguous as it is, I can feel the significance of approaching that idea 
 
 So far, two primary themes are developing in my search.
 <div align="center">
- <b> Experience is what matters. </b>
-
-  <b> Value creation over consumption. </b>
+  <h4> Experience is what matters.</h4>
+  <br>
+  <h4> Value creation over consumption.</h4>
 
  </div>
 
