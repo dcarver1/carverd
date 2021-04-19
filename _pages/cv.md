@@ -63,8 +63,27 @@ GPA: 3.70/4
 - generate reproducible workflows and deliverables to directly support project partner needs
 
 
+### USDA Agricultural Research Service
+`June 2018 to present`
+
+**Spatial Scientist** - Fort Collins, Colorado
+
+> I collaborate with researchers and curators at the National Laboratory for Genetic Resource Preservation to develop geospatial models that add to the understanding of the distribution, collection, and use of the Crop Wild Relatives.
+
+*Research: 50% of duties*
+
+- Evaluate and access existing species distribution and gap analysis modeling methods
+- Collaborate with various stakeholders regarding the use of CWR and the data generated around CWR
+- Contribute to technical reports and publications regarding
+
+*Product Development: 50% of duties*
+
+- Generate reports, maps, and analysis that convey the result of research products
+- Develop programs in R to conduct geospatial models
+
+
 ### Colorado State University: Natural Resource Ecology Laboratory
-`April 2019 - Present`
+`April 2019 - April 2020`
 
 **GIS specialist** - Fort Collins, Colorado
 
@@ -83,25 +102,6 @@ GPA: 3.70/4
 *Grant writing 15%*
 - Connect with potential project partners through outreach and networking events
 - contribute to the literature review, data collection, method development, and writing of various grant proposals, including NSF proposals.
-
-### USDA Agricultural Research Service
-`June 2018 to April 2019`
-
-**Spatial Scientist** - Fort Collins, Colorado
-
-> I collaborate with researchers and curators at the National Laboratory for Genetic Resource Preservation to develop geospatial models that add to the understanding of the distribution, collection, and use of the Crop Wild Relatives.
-
-*Research: 50% of duties*
-
-- Evaluate and access existing species distribution and gap analysis modeling methods
-- Collaborate with various stakeholders regarding the use of CWR and the data generated around CWR
-- Contribute to technical reports and publications regarding
-
-*Product Development: 50% of duties*
-
-- Generate reports, maps, and analysis that convey the result of research products
-- Develop programs in R to conduct geospatial models
-
 
 ### NASA DEVELOP
 `June 2017 to September 2018`
