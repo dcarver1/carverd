@@ -242,25 +242,49 @@ Interpretation Program.
 ---
 
 ## Publications
+
+**2021**
+- LebedaA., KřístkováE., KhouryC. K., CarverD. and SosaC. C. (2021) “Distribution and ecology of wild lettuces Lactuca serriola L. and Lactuca virosa L. in central Chile”, Hacquetia.
+
+- Daniel Carver, Chrystian C Sosa, Colin K Khoury, Harold A Achicanoy, Maria Victoria Diaz, Steven Sotelo, Nora P Castañeda‐Álvarez, Julian Ramirez‐Villegas.(2021) GapAnalysis: an R package to calculate conservation indicators using spatial information. Ecogeography 44 (7), 1000-1009 https://doi.org/10.1111/ecog.05430
+
+
 **2020**
-- O’Shea, K.; LaRoe, J.; Vorster, A.; Young, N.; Evangelista, P.; Mayer, T.; Carver, D.; Simonson, E.; Martin, V.; Radomski, P.; Knopik, J.; Kern, A.; Khoury, C.K. Improved Remote Sensing Methods to Detect Northern Wild Rice (Zizania palustris L.). Remote Sens. 2020, 12, 3023.
+
+- Colin K Khoury, Daniel Carver, Stephanie L Greene, Karen A Williams, Harold A Achicanoy, Melanie Schori, Blanca León, John H Wiersema, Anne Frances. (2020) Crop wild relatives of the United States require urgent conservation action. Proceedings of the National Academy of Sciences 117 (52) 33351-33357. https://doi.org/10.1073/pnas.2007029117
+
+- H Myrans, MV Diaz, CK Khoury, D Carver, RJ Henry, R Gleadow. (2020) Modelled distributions and conservation pririties of wild sorghums (Sorghum Moench)Diversity and Distributions 26 (12), 1727-1740  https://doi.org/10.1111/ddi.13166
+
+- O’Shea, K.; LaRoe, J.; Vorster, A.; Young, N.; Evangelista, P.; Mayer, T.; Carver, D.; Simonson, E.; Martin, V.; Radomski, P.; Knopik, J.; Kern, A.; Khoury, C.K. Improved Remote Sensing Methods to Detect Northern Wild Rice (Zizania palustris L.). Remote Sens. 2020, 12, 3023.https://doi.org/10.3390/rs12183023
+
 - Moreno-Sanchez, R., Carver, D.P., Torres-Rojo, J.M. et al. Assessment of the classification accuracy of the Globeland30 Forest class for the temperate and tropical forests of Mexico. Appl Geomat (2020). https://doi.org/10.1007/s12518-020-00328-1
-- Vining, K. J., Hummer, K. E., Bassil, N. V., Lange, B. M., Khoury, C. K., & Carver, D. (2020). Crop wild relatives as germplasm resource for cultivar improvement in mint (Mentha L.). Frontiers in Plant Science
+
+- Vining, K. J., Hummer, K. E., Bassil, N. V., Lange, B. M., Khoury, C. K., & Carver, D. (2020). Crop wild relatives as germplasm resource for cultivar improvement in mint (Mentha L.). Frontiers in Plant Science https://doi.org/10.3389/fpls.2020.01217
+
 **2019**
-- Khoury CK, Carver D, Kates HR, Achicanoy HA, van Zonneweld M, Thomas E, Heinitz C, Jarret R, Labate JA, Reitsma K, Nabhan GP, and Greene SL (2019) Distributions, conservation status, and abiotic stress tolerance potential of wild cucurbits (Cucurbita L.). Plants, People, Planet.
-- Khoury CK, Carver D, Barchenger DW, Barboza G, van Zonneweld M, Jarret R, Bohs L, Kantar MB, Uchanski M, Mercer K, Nabhan GP, Bosland PW, and Greene SL (2019) Modeled distributions and conservation status of the wild relatives of chile peppers (Capsicum L). Diversity and Distributions. Doi: 10.1111/DDI.13008.
-- Greene SL, Carver D, Khoury CK, Irish B, Olwell P, Leah P (2019)  Seeds of Success: Collateral Benefits to Agricultural Crop Improvement, Research and Education. Crop Science
-- Lebeda A, Kristkova E, Kitner M, Majesky L, Dolezalova I, Khoury CK, Carver D, Achicanoy HA, Sossa C, Widrlechner M, Hu J (2019) Research gaps and challenges in the conservation and exploitation of North American wild lettuce (Lactuca L.) germplasm. Crop Science
-- Mezghani, N., Khoury, C. K., Carver, D., Achicanoy, H. A., Simon, P., Flores, F. M., & Spooner, D. (2019). Distributions and conservation status of carrot wild relatives in Tunisia: A case study in the western Mediterranean basin. Crop Science, 59(6), 2317-2328.
+
+- Khoury CK, Carver D, Kates HR, Achicanoy HA, van Zonneweld M, Thomas E, Heinitz C, Jarret R, Labate JA, Reitsma K, Nabhan GP, and Greene SL (2019) Distributions, conservation status, and abiotic stress tolerance potential of wild cucurbits (Cucurbita L.). Plants, People, Planet 2 (3) 269-283.  https://doi.org/10.1002/ppp3.10085
+
+- Khoury CK, Carver D, Barchenger DW, Barboza G, van Zonneweld M, Jarret R, Bohs L, Kantar MB, Uchanski M, Mercer K, Nabhan GP, Bosland PW, and Greene SL (2019) Modeled distributions and conservation status of the wild relatives of chile peppers (Capsicum L). Diversity and Distributions 26 (2) 209-225. https://doi.org/10.1111/ddi.13008
+
+- Greene SL, Carver D, Khoury CK, Irish B, Olwell P, Leah P (2019)  Seeds of Success: Collateral Benefits to Agricultural Crop Improvement, Research and Education. Crop Science 59 (6) 2429-2442. https://doi.org/10.2135/cropsci2019.06.0372
+
+- Lebeda A, Kristkova E, Kitner M, Majesky L, Dolezalova I, Khoury CK, Carver D, Achicanoy HA, Sossa C, Widrlechner M, Hu J (2019) Research gaps and challenges in the conservation and exploitation of North American wild lettuce (Lactuca L.) germplasm. Crop Science 59 (6) 2337-2356.  https://doi.org/10.2135/cropsci2019.05.0350
+
+- Mezghani, N., Khoury, C. K., Carver, D., Achicanoy, H. A., Simon, P., Flores, F. M., & Spooner, D. (2019). Distributions and conservation status of carrot wild relatives in Tunisia: A case study in the western Mediterranean basin. Crop Science, 59(6), 2317-2328. https://doi.org/10.2135/cropsci2019.05.0333
+
 **2018**
-- Woodward, Brian., Evangelista, Paul., Young, Nicholas., Vorster, Anthony., West, Amanda., Carroll, Sarah., Girma, Rebecca., Hatcher, Emma., Anderson, Ryan., Vahsen, Megan., Vashisht, Amandeep., Mayer, Timothy., Carver, Daniel., Jarnevich, Catherine. (2018). CO-RIP: A Riparian Vegetation and Corridor Extent Dataset for Colorado River Basin Streams and Rivers. ISPRS International Journal of Geo-Information. 7. 397. 10.3390/ijgi7100397.
+
+- Woodward, Brian., Evangelista, Paul., Young, Nicholas., Vorster, Anthony., West, Amanda., Carroll, Sarah., Girma, Rebecca., Hatcher, Emma., Anderson, Ryan., Vahsen, Megan., Vashisht, Amandeep., Mayer, Timothy., Carver, Daniel., Jarnevich, Catherine. (2018). CO-RIP: A Riparian Vegetation and Corridor Extent Dataset for Colorado River Basin Streams and Rivers. ISPRS International Journal of Geo-Information. 7 (10). https://doi.org/10.3390/ijgi7100397
+
 - Moreno-Sanchez, R., Manuel Torres Rojo, J., Moreno-Sanchez, F., Carver, D., Niknami, L., Clay, E., Exploration of Land-cover Changes 2000-2010 at the National Level in Mexico Using GlobeLand30 Data Sets. Reality, Data and Space International Journal of Statistics and Geography Vol.8, Num 3 (2018)
+
 **2014**
-- Carver, D.P., Beeton, J.M., Holocene landscape evolution and geoarchaeology of low-order streams in the Rio Grande basin,
-San Juan Mountains, Colorado, USA. Journal of Quaternary Research 82 (2014), 331-341.
+- Carver, D.P., Beeton, J.M., Holocene landscape evolution and geoarchaeology of low-order streams in the Rio Grande basin, San Juan Mountains, Colorado, USA. Journal of Quaternary Research 82 (2014), 331-341. https://doi.org/10.1016/j.yqres.2014.05.006
+
 - Wilderness Ranger Cookbook, 2nd: A Collection of Backcountry Recipes by Bureau of Land
-Management, Forest Service, National Park Service, and U.S. Fish and Wildlife Service Wilderness
-Rangers. - My recipe for Ambassadorial Breakfast Gravel is in this text.
+Management, Forest Service, National Park Service, and U.S. Fish and Wildlife Service Wilderness Rangers. ISBN-13:	9781493006298
+
 **2011**
 - Contributed to two professional peer-reviewed reports submitted to the Colorado Historical Society; Principal Investigator: Dr. Jared Beeton. - Geoarchaeology and 14C Dating of Landform Sediment Assemblages in La Jara Creek, Hot Creek and the Alamosa River Basins, San Luis Valley,= Colorado. Submitted Winter 2012. - Soils and Geoarchaeology of La Jara Creek, Hot Creek and Alamosa River, Rio Grande Basin, Colorado. Accepted Spring 2011
 
