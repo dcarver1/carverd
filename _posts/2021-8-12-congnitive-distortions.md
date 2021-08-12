@@ -2,7 +2,7 @@
 layout: post
 title: "The Stories We Tell Ourselves"
 permalink: "cognitive_distortions"
-image: angleOak.jpg
+image: cognitive\angleOak.jpg
 tags: [productivity, perspective]
 categories: perspective productivity
 ---
@@ -10,10 +10,13 @@ categories: perspective productivity
 
 All actions have consequences. While not always the case, actions that stem from poor or harmful choices tend to feed into additional bad decisions. This starts a feedback loop, that can affecting our mental outlook on new situations and further entrench those negative actions. At some point, our perceptions of events become wholly distorted. We no longer see things as they are but rely on assumptions based on cognitive distortions to define our reality. The cyclical effect of negative decision-making is a common mechanism leading to depression.
 
+<br>
 
 {:refdef: style="text-align: center;"}
-![Feedback of positive and negitive choices](images/cognitive/spriral.jpg)
+![Feedback of positive and negitive choices](images/cognitive/spriral.png)
 {: refdef}
+
+<br>
 
 In the 1980 book _Feeling Good: The New Mood Therapy_, David Burns popularized helping individuals identifying these distorted perceptions of reality as a means of addressing depression. By understanding the common types of cognitive distortions, individuals can identify the falsehoods, over exaggerations, or non-logical assessments that frame their negative perceptions. Learning how this reactive mechanism shapes your choices can be the first step in breaking the negative feedback loop that is promoting poor choices.
 
