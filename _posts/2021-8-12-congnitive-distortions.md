@@ -2,7 +2,7 @@
 layout: post
 title: "The Stories We Tell Ourselves"
 permalink: "cognitive_distortions"
-image: cognitive\angleOak.jpg
+image: cognitive/angleOak.jpg
 tags: [productivity, perspective]
 categories: perspective productivity
 ---
