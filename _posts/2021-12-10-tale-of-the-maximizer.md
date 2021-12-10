@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tale of the Maximizer"
-permalink: "the_maximizer"
+permalink: "theMaximizer"
 image: maximizer/hollyhock.jpg
 tags: [perspective]
 categories: perspective
@@ -23,36 +23,36 @@ The author states that each individual tends to be a maximizer for specific choi
 
 George is a maximizer when it comes to eating out. When he learned that his out-of-town friends were coming to visit, he offered to take them out for dinner. His guest expressed an interest in fried chicken, so naturally, George began to seek the best fried chicken place in the town.
 
-  1. __all or nothing thinking:__ Even though there are many chicken places, George believes that the best fried chicken place exists.
+>__all or nothing thinking:__ Even though there are many chicken places, George believes that the best fried chicken place exists.
+
 
 George starts researching the options by investigating the top-rated chicken places in his town. He relies on the reviews of others to weigh the pros and cons of each establishment. One location is standing out with 500 plus 5-star reviews but, George can't shake that specific one-star review.
 
-  2. __discounting the positives:__ The single negative review outweighs the numerous positive ones.
+> __discounting the positives:__ The single negative review outweighs the numerous positive ones.
 
 The negative review is so vividly described that he can readily imagine his visit going the same way.
 
- 3. __over generalization:__ Because a bad thing happened before you believe it is likely to happen again.
+>__over generalization:__ Because a bad thing happened before you believe it is likely to happen again.
 
 George knows for a fact that his guest would surely hate this location if anything that was described in the negative review happened to them.  
 
-  4. __jumping to conclusions:__ George is making the assumption that he and his guest would share the same response to this hypothetical situation.
+>__jumping to conclusions:__ George is making the assumption that he and his guest would share the same response to this hypothetical situation.
 
 After hours of reviewing, George eventually determines a location based on the very detailed single opinion of a food critic.
 
-  5. __magnification:__ The quality of a single review outweighs the breadth of information that George has collected.
+>__magnification:__ The quality of a single review outweighs the breadth of information that George has collected.
 
 When the guest arrives, George takes them to visit the chosen fried chicken place. While the guests enjoy the food, George constantly compares how the experience doesn't match that described by the stellar review and lets his newly found negative feelings change his view on the food.
 
-  6. __emotional reasoning:__ George is getting upset, which translates to his subjective assessment of everything else around him.
+>__emotional reasoning:__ George is getting upset, which translates to his subjective assessment of everything else around him.
 
 While wrapping up the dinner, George can't help wondering just how much better that other chicken place could have been, and he starts apologizing for bringing his guest to this less than perfect fried chicken spot.
 
-7. __should statement:__ George is evaluating a past choice and letting it influence his own experience of the moment.
+>__should statement:__ George is evaluating a past choice and letting it influence his own experience of the moment.
 
 He expounds on how he only picked this place because of the review from the food critic, who is obviously a lousy judge of fried chicken.
 
-  8. __personalization and blame, and 9. Labeling:__ George doesn't take responsibility for his choice and justifies it by placing a negative
-classification on someone else.
+>__personalization and blame, and 9. Labeling:__ George doesn't take responsibility for his choice and justifies it by placing a negative classification on someone else.
 
 ## The Cost of Maximizing
 
