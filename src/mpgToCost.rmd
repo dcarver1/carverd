@@ -1,9 +1,3 @@
----
-title: "MPG"
-author: "dan carver"
-date: "12/16/2021"
-output: html_document
----
 
 
 Purchasing vehicle represent a large single cost.
@@ -37,11 +31,13 @@ I grabbed the fuel cost from this [website](https://gasprices.aaa.com/state-gas-
 
 <center>
 
+
 |Model   |      Purchase Price      |  MPG |    Cost Per Gallon   |
-|----------|:-------------:|------:|        |
+|----------|:-------------:|------:|------:|
 | V8 Gas |  37965 | 15 |    3.696     |
 | V6 Gas |    35195   |   17 |   3.696    |
 | V4 Diesel | 40265 |    30 |  3.411      |
+
 
 </center>
 
@@ -136,7 +132,7 @@ for(i in seq_along(engineType)){
     df[i, j+4]<- calCost(initialPrice = baseCostDollars[i], distance = mileRange[j], mpg = mpg[i], fuelPrice = costPerGallonOfFuel[i])
   }
 }
-DT::datatable(df)
+df
 
 ```
 
