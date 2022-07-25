@@ -4,7 +4,7 @@ title: "Translation Shiny"
 permalink: "translate"
 image: translation/flowerRock.jpg
 tags: [R, shiny]
-categories: R, shiny
+categories: R shiny
 ---
 
 

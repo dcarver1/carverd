@@ -4,7 +4,7 @@ title: "Gone is forever: deleting files in R"
 permalink: "gone_forever"
 image: forestLake.jpg
 tags: [R , tutorial]
-categories: R, tutorial
+categories: R tutorial
 ---
 ## I need to delete a lot of things...
 

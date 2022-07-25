@@ -4,7 +4,7 @@ title: "Pursuing Failed Goals"
 image: "failedGoals/falconloop.jpg"
 permalink: "failed_goals"
 tags: [perspective, Goals]
-categories: perspective, Goals
+categories: perspective Goals
 ---
 
 # Pursuing Failed Goals
@@ -21,7 +21,7 @@ categories: perspective, Goals
 	2020 came; I ran with no plan, so hitting the Falcon Loop never crossed my mind. In 2021 I picked up thoughtful running again, so I entertained the idea of reaching back to that personal goal, but decided to keep it in the closet of failed attempts. In 2022, I decided to run a local half marathon in early May. It was a great experience, and I fell into a pretty steady training cycle. It felt natural to reach back to the three-year goal and make it happen.
 
   In June of 2022, I ran the Falcon Loop. The realities of planning around a demanding set of work deliverables and traveling with a family meant that I ran the loop from 12-3 pm in what had to be close to 100-degree weather. I ran out of water about halfway through, felt the threatening physical force of heat exhaustion, dealt with leg cramps and lightheadedness, and ended up walking close to half the total distance. I had prepared well for the distance and got my ass kicked by the heat. By the end, it was just about getting out without passing out. Details aside, it happened. I made it around the loop. It provided a slightly frightening but memorable experience. Plus, that goal of three years was accomplished.
-  
+
 ## Completing a Failed Goal
 
   I expected to feel an added sense of accomplishment or satisfaction from reaching back and completing a past goal. The experience has been on my mind for years. I committed to doing it and made it happen. That has to mean I'm a more direct or self-motivated person than I was in years past. Yet what I feel about the event is mixed and lead me to ponder the value of approaching the lost goals of sorts.
