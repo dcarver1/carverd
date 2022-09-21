@@ -4,3 +4,5 @@ _site
 .editorconfig
 *.DS_Store
 .jekyll-cache/
+r_projects/
+.Rproj.user

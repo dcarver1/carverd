@@ -7,7 +7,6 @@ tags: [perspective]
 categories: perspective
 ---
 
-
 Meaningful conversations exist because the individuals engaged are talking about the same thing. The congruency of thought is the only way for the back and forth between people to hold coherence. Definitions, when agreed upon, probably do more to enable these meaningful conversations among individuals who don't know each other than any other factor. Definitions are important, and definitions do change.
 
 ## Defining Health
