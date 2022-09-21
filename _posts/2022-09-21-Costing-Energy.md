@@ -22,7 +22,7 @@ I am looking to build a system that I expect to utilize for four to five years. 
 
 
 | Processor     | Cost    | Cores   | Processing Power | Full Load Wattage | Idle Wattage | Heat Production |
-|---------------|---------|---------|------------------|-------------------|--------------|---------------- |
+|--------------:|--------:|---------|-----------------:|------------------:|-------------:|----------------:|
 | Ryzen 5 5600x | 180     | 6       | 3.7 ghz          | 146W              | 82W          | 65W             |
 | Ryzen 9 3900x | 270     | 12      | 3.8 Ghz          | 244W              | 91           | 105W            |
 
@@ -83,14 +83,14 @@ ryzen9 <- getCost(idle = 91, max = 244, kwhCost = mKWH)
 Here are the projected operating costs
 
 | Processor     | Daily   | Month  | One year | Four years |
-|---------------|---------|--------|----------|------------|
+|---------------:|---------:|--------:|----------:|------------:|
 | Ryzen 5 5600x | \$0.254 | \$7.62 | \$92.73  | \$463.66   |
 | Ryzen 9 3900x | \$0.326 | \$9.78 | \$118.94 | \$594.80   |
 
 The most interesting way I've found to contextualize these numbers is to determine how long do you have to use the processor in order to match it's initial ticket price with electrical expenditures.
 
 | Processor     | Initial Cost | Electrical cost surpasses ticket price |
-|---------------|--------------|----------------------------------------|
+|---------------:|--------------:|----------------------------------------:|
 | Ryzen 5 5600x | \$180        | 708 days = 1.9 years                   |
 | Ryzen 9 3900x | \$270        | 828 days = 2.26 years                  |
 
