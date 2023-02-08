@@ -10,3 +10,9 @@ gem "jekyll", ">= 3.7.4"
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "webrick", "~> 1.8"
+
+
+git_source(:github) { |repo_name| "https://github.com/dcarver1/carverd" }
+
+# gem "rails"
+gem "github-pages", "~> 215", group: :jekyll_plugins
