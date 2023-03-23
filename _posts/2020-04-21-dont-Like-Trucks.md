@@ -20,7 +20,7 @@ While driving can provide a space for contemplation, it is also a place for unso
 Yet not all messages on the road are bad or unwelcomed. There are times when a message comes through and truly engages your mind. I think of quirky bumper stickers, populations(or elevation) signs of passing towns, or the feeling of relief that comes from finally seeing your exit after a long ride. If the circumstances are just right, the contemplative state and the message can combine and provide us with something significant. I call this **Interstate Wisdom**. Below is an example of one such gift.
 
 {:refdef: style="text-align: center;"}
-![Interstate Wisdom](images\dontLikeTrunks\dontLikeTrucksCrop.jpg)
+![chart](images\dontLikeTrunks\dontLikeTrucksCrop.jpg)
 {: refdef}
 
 The image is a little blurry, a side effect of traveling at nearly 80 mph and being one of those jerks obviously on their phone while driving. But the statement is clear.
