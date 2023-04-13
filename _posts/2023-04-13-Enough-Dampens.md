@@ -2,7 +2,7 @@
 layout: post
 title: "Working out what is enough"
 permalink: "enough_one"
-image: comparedTo/rocks.jpg
+image: enoughOne/rocks.jpg
 tags: [productivity, perspective]
 categories: perspective productivity
 ---
@@ -19,6 +19,6 @@ My goal isn’t to become a leading developer in my field. The goal is to mainta
 
 This realization doesn’t change the fact that I still need to grow and learn as a programmer to stay relevant. It simply puts some handrails on the rate of the process. How much my time and energy do I really need to put into the process. Enough is easy to define because it is not some absolute measure or stopping point. Enough is a dampener on the rate of change.
 
-## Enough for the long term 
+## Enough for the long term
 
 There is an undeniable truth that we have a limited amount of time and an even more limited amount of attention to give. Our application of that time and attention shapes the individual that we will become. That simple question of ‘what is enough’ becomes a powerful evaluation tool for understanding your long-term goals.
