@@ -1,3 +1,12 @@
+---
+layout: post
+title: "What changes over time"
+permalink: "daily_changes"
+image: dailyChanges/treeFlower.jpg
+tags: [perspective]
+categories: perspective
+---
+
 # Changes day by day 
 
 I keep a daily journal. It requires about 10 minutes of writing on specific prompts at the start of the workday. Most of the writing is just planning the how to best reach the needs and wants of the day. What I write from one day to the next doesn’t vary all that much. There are exceptions, of course, but I’m happy about the consistency. That stability hints at a type of gradual progress. The type of progress that I see as the most important factor of growth. Stability also makes the elements that change even more interesting. Within my daily journal, there is a prompt *Daily Affirmation* which is the most consistent source of change. 
