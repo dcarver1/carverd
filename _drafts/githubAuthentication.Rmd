@@ -9,11 +9,36 @@ categories: programming
 
 ## Authentication 
 
-Github removed users ability to provide user name and password to make direct changes to repositories that they can edit. I expect there is was well though out logic behind this choice, I just wish it was possible to opt out of the change. 
+Github removed users ability to provide user name and password to make direct changes to repositories that they can edit. I expect the logic behind this choice is sound, I just wish it was possible to opt out of the change. 
+
+I struggled at the end of the a work day trying to get the authentication to work. This post is a really a note to self on how I address the problem. 
 
 ### personal access token 
-I've not been able to get the authentication via SSH working. Which is kinda crazy to think about. This authentication is something that [100 million](https://kinsta.com/blog/github-statistics/) other user are going to have to deal with. Even if I put myself in the bottom 25% of technical capacity that's still 25 million people struggling just to directly edit the stuff they created. 
 
-I found my answer through https validation of a personal access token. Outline in this [video](https://www.youtube.com/watch?v=ePCBuIQJAUc). The github documentation only show 
+I've not been able to get the authentication via SSH working. Which is kinda crazy to think about. This authentication step is something that [100 million](https://kinsta.com/blog/github-statistics/) other user are going to have to deal with. Even if I put myself in the bottom 25% of technical capacity that's still 25 million people struggling just to directly edit the stuff they created. 
+
+I found my answer through https validation of a personal access token. The [github documentation](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) is enough but I had my break though when watching this [video](https://www.youtube.com/watch?v=ePCBuIQJAUc). 
+
+Basic structure 
+
+- Sign in to account 
+- select you icon in upper right 
+- select `settings` option 
+- select `developers settings` bottom left 
+- select `personal access token` -> `token (classic)` 
+- select `generate new` -> `generate new token (classic)`
+- Set a name, expiration, and select all the functions you want the token to allow
+- `generate token`
+
+This produces a long character string. Copy this value into a text document. 
+
+From the documentation
+When you push an commit to a repo, you can provide your token instead of your password.
+
+From the video 
+Use the follow git command to assign the token to a specific repo 
+`git remote set-url origin https://<token>@github.com/<user name>/<repo name>`
+
+I prefer the s
 
 
