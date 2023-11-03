@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Personal Access token and github"
+permalink: "github_access"
+image: sign1.jpg
+tags: [programming]
+categories: programming
+---
+
+## Authentication 
+
+Github removed users ability to provide user name and password to make direct changes to repositories that they can edit. I expect there is was well though out logic behind this choice, I just wish it was possible to opt out of the change. 
+
+### personal access token 
+I've not been able to get the authentication via SSH working. Which is kinda crazy to think about. This authentication is something that [100 million](https://kinsta.com/blog/github-statistics/) other user are going to have to deal with. Even if I put myself in the bottom 25% of technical capacity that's still 25 million people struggling just to directly edit the stuff they created. 
+
+I found my answer through https validation of a personal access token. Outline in this [video](https://www.youtube.com/watch?v=ePCBuIQJAUc). The github documentation only show 
+
+
