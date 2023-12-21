@@ -1,0 +1,145 @@
+---
+title: "MPG"
+author: "dan carver"
+date: "12/16/2021"
+output: html_document
+---
+
+
+Purchasing vehicle represent a large single cost.
+Generally people put quite a bit of thought into balance the wants and needs against the purchase price. Yet, the cost of a vehicle is not static. It grows over time through general maintenance, repairs, and fuel consumption. While 50 dollars at the gas pump pails in comparison with a the tens of thousands of dollar at the initial purchase, the mile per gallon your vehicle gets strongly effect the long term cost of the purchase. In this post we will evaluate the break even cost of a three different engine types in a full sized van model to learn how far we will have drive the vehicle before efficiency start to pay back dividends.   
+
+## Weighting the Options
+
+The 2021 Chevy Express full size van  comes with three engine options which have different purchase prices and mile per gallon ratings.
+
+<center>
+
+|Model   |      Purchase Price      |  MPG |
+|----------|:-------------:|------:|
+| V8 Gas |  37965 | 15 |
+| V6 Gas |    35195   |   17 |
+| V4 Diesel | 40265 |    30 |
+
+</center>
+
+There are more difference between the engines then just gas milage but for simplicity sake we're going to assume all will work equal well for our intended uses.
+
+## Defining Parameters
+
+In order to determine the long term vehicle cost as product of mile travel we need to know
+
+- initial vehicle cost
+- miles per gallon
+- cost per gallon of fuel
+
+I grabbed the fuel cost from this [website](https://gasprices.aaa.com/state-gas-price-averages/). These are updated regularly and it probably be better to use an average value measured over multiple years as fuel prices are highly variable. I liked this source because of the state specific averages.  
+
+<center>
+
+|Model   |      Purchase Price      |  MPG |    Cost Per Gallon   |
+|----------|:-------------:|------:|        |
+| V8 Gas |  37965 | 15 |    3.696     |
+| V6 Gas |    35195   |   17 |   3.696    |
+| V4 Diesel | 40265 |    30 |  3.411      |
+
+</center>
+
+All the variables in the table here are static and our cost calculation will vary as a product of miles travel.
+
+## Calculate Cost as a Product of Miles Traveled
+
+We can start off by just understanding our calculation with all static variables. We will assume 100,000 miles as the marker because that is a common point at which individual sell there vehicles.
+
+```{r}
+# V8 Gas
+initialPrice <- 37965
+mpg <- 15
+fuelPrice <- 3.696
+# will use 100,000 for the total miles
+distance <- 100000
+
+# put it all together
+finalCost <- initialPrice + (distance/mpg)*fuelPrice
+```
+
+This returns a value of $62,605. To say it another way this means you paid 60% of your initial price drive driving your van 100,000 miles.
+
+We could replicate this for each van by reassigning varibles but there are some better means of doing this using functions.
+
+## Write a function.
+
+Whenever you find yourself repeating a segement of code it's worth questioning if you should wrap it into a function instead. We want to in this case because I was to test three Van across multiple mileage ranges.
+
+```{r}
+# write a function
+calCost <- function(initialPrice, distance, mpg, fuelPrice){
+  cost <- initialPrice + (distance/mpg)*fuelPrice
+  cost <- round(cost, digits = 0)
+  return(cost)
+}
+```
+Having the function in hand gives up more flexability in the types of questions we ask.
+
+## Calculate Price Over a Range of Distances
+
+If you don't know exactly when you will sell you Van you might want to investigate a variety of milages. We can do this by apply our function over a vector of features. We will use 15,000 miles because that is about the average miles traveled per year by US drivers. Therefore each step can be seen as a year of vehicle usage.
+
+```{r}
+# mileage range
+mileRange <- seq(from = 15000, to = 210000, by = 15000)
+# apply' function across
+costs <- lapply(mileRange, calCost, initialPrice = initialPrice, mpg = mpg, fuelPrice = fuelPrice)
+### because our function has multiple parameters we need to specific inputs within lapply. In this case we left the required input of 'distance' blank so lapply filled in that value with the values from the list.
+```
+This returns a list of cost that looks like this
+
+```{r}
+print(costs)
+```
+
+This is ok, but kind of clunky to interpret. Plus we want to understand close relative for each engine type. It would be best to save all these outputs into a table with that contains the information about each van.
+
+## Make the Analysis Output Usable
+
+Let's start by revamping how were are storing our data about each vechile. We will define all parameters as vectors.
+
+```{r}
+engineType <- c("V6 gas", "V8 gas", "V4 diesel")
+baseCostDollars<- c(35195, 37965,40265)
+costPerGallonOfFuel <- c(3.696, 3.696, 3.411)
+mpg <- c(17,15,30)
+mileRange <- seq(from = 15000, to = 210000, by = 15000)
+```
+We can use this information to develop a table that will hold all our data of interest.
+
+```{r}
+df <- data.frame(matrix(nrow = length(engineType), ncol = 4 + length(mileRange)))
+colnames(df) <- c("Model", "Purchase Price","MPG", "Cost Per Gallon", paste0(as.character(mileRange), " miles"))
+```
+With the table created we can assessing known values
+
+```{r}
+df$Model <- engineType
+df$`Purchase Price` <- baseCostDollars
+df$MPG <- mpg
+df$`Cost Per Gallon` <- costPerGallonOfFuel
+```
+
+We will use a for loop and indexing to calculate these values and assign them accordingly.
+
+```{r}
+for(i in seq_along(engineType)){
+  # for each unique vechile 
+  for(j in seq_along(mileRange)){
+    # for each step in the miles range 
+    df[i, j+4]<- calCost(initialPrice = baseCostDollars[i], distance = mileRange[j], mpg = mpg[i], fuelPrice = costPerGallonOfFuel[i])
+  }
+}
+DT::datatable(df)
+
+```
+
+Some suprizing results comes from this analysis. Namely the more efficent diesel engine becomes more cost effective after two years of ownership comparied to the V8 and four years compaired to the V6 engine. 
+
+What's the take away here. Fuel is expensive so take mile per gallon into consideration when making a purchase. 
